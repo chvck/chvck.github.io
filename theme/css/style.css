@@ -2,97 +2,187 @@
 
 /* *** General Styles *** */
 
-body {
-    width: 85%;
-    text-align: left;
-    font-family: "Times New Roman"; 
-    margin-left: auto;
-    margin-right: auto;
-    color: #333333;
+body  {
+    background-color: grey;
+    text-align: center;
+}
+
+blockquote {
+    font-size: 14px;
+    font-style: italic;
+    padding: 5px 0 5px 30px;
 }
 
 img {
-    max-width: 50%;
-    border: 1px solid #333333;
-    height: auto;
-    display: block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
 
-img.preview {
-    max-width: 10%;
-    display: block;
-    float: left;
-    margin-right: 1em;
-    margin-top: 0;
+ul,
+ol {
+    margin-left: 20px;
+    line-height: 1.6em;
 }
 
-.tag-cloud ul {
-    list-style-type: none;
+ul.no-points {
+    list-style: none;
 }
 
-.tag-cloud ul li {
-    display: inline;
-    margin-right: 5px;
+/* *** Layout *** */
+
+.container { 
+    text-align: left;
+    width: 780px;
+    background-color: white;
+} 
+
+header { 
+    height: 109px;
+    padding: 0 10px 0 20px;
+    background: url(../images/top.gif) no-repeat bottom;
+} 
+
+aside {
+    float: right;
+    padding: 20px 30px 10px 0;
+    text-align: right;
+    width: 150px; 
 }
 
-h1 {
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-    margin-bottom: 0.2em;
+#mainContent {
+    padding: 20px 175px 10px 40px;
+    width: 565px;
+} 
+
+footer { 
+    background: url(../images/bottom.gif) no-repeat;
+    font-size: 12px;
+    height: 70px;
+    padding: 0 10px 0 20px;
+} 
+
+/* *** Header Styles *** */
+
+header h1 {
+    font-size: 48px;
+    padding: 10px 0 0 15px;
 }
 
-h2 {
-    display: block;
-    font-size: 1.5em;
-    font-weight: bold;
+header h2 {
+    font-size: 14px;
+    font-weight: normal;
+    padding-left: 15px;
 }
 
-h1.title {
-    display: inline;
-}
-
-hr {
-    display: block;
-    clear: both;
-    margin-top: 15px;
-}
+/* *** Top Menu Styles *** */
+/* *** Blog Styles *** */
 
 article {
-    margin-top: 15px;
+    padding: 20px 0 20px 0;
 }
 
-article:after { 
-    content: ""; 
-    display: table; 
-    clear: both; 
+article.post {
+    padding-top: 0px;
 }
 
-h2.post-title {
-    margin-top: 0px;
-    margin-bottom: 1em;
+article .category span.label {
+    font-size: 18px;
+    vertical-align: inherit;
+}
+
+article a.category:hover {
+    text-decoration: none;
+}
+
+article .category span.label:hover {
+    color: #999;
+    background-color: transparent;
+}
+
+article.summary {
+    background: url(../images/hr.gif) top left no-repeat;
+    height: 120px;
+}
+
+article.summary:first-child {
+    background: none;
+    padding-top: 0px;
+}
+
+article h3 {
+    line-height: 21px;
+}
+
+article.post img {
+    max-width: 550px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+article img.summary {
+    height: 120px;
+    width: 120px;
+    float: left;
+    margin-right: 15px;
+}
+
+#article-summary img {
+    display: none;
 }
 
 .caption {
-    font-size: 0.9em;
-    margin-top: 0;
-}
-
-.date {
-    margin-top: 0;
-}
-
-@media (max-width: 600px) {
-    .img {
-        max-width: 100%;
-    }
-    
-    img.preview {
-        max-width: 30%;
-    }
+    font-size: 10px;
+    margin: 0;
+    text-align: center;
 }
 
 
+/* *** Sidebar Styles *** */
+aside img.social {
+    height: 40px;
+    width: 40px;
+    border-style: none;
+}
+
+aside ul.socials {
+    padding-top: 20px;
+}
+
+aside ul.socials li {
+    display: inline;
+}
+
+aside ul {
+    line-height: 1.8em;
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+aside .tag-0 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+aside .tag-1 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+aside .tag-2 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+aside .tag-3 {
+    font-size: 14px;
+    font-size: normal;
+}
+
+aside .tag-4 {
+    font-size: 12px;
+    font-size: normal;
+}
 
 .tag {
     /* Some standard .tag settings: starting point */
@@ -164,4 +254,42 @@ h2.post-title {
     -moz-transform: rotate(2deg) scale(1.2);
     -o-transform: rotate(2deg) scale(1.2);
     transform: rotate(2deg) scale(1.2);
+}
+
+/* *** Comments Styles *** */
+
+#comments {
+    margin: 20px 0 0 20px;
+}
+
+#comments li {
+    margin-bottom: 10px;
+}
+
+.commentSep {
+    background: url(../images/hr.gif) bottom left no-repeat;
+}
+
+/* *** Footer Styles *** */
+
+footer p {
+    padding: 30px 0 0 0;
+    text-align: center;
+}
+
+.floatR {
+    float: right;
+    margin-left: 8px;
+}
+
+.floatL { 
+    float: left;
+    margin-right: 8px;
+}
+
+.clearfloat {
+    clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
 }

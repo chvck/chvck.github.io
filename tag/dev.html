@@ -1,260 +1,107 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-        <meta charset="utf-8" />
-        <title>chvck.co.uk - dev</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+<head>
+
+  <meta name="description" content="Personal blog site for chvck covering a range of topics but mostly bikes. chvck likes bikes." />
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  <title>chvck.co.uk - dev</title>
+  <link href="/theme/css/reset.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/theme/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+    
+  <!--[if IE]>
+    <style type="text/css"> 
+    . twoColFixRtHdr #mainContent { zoom: 1; }
+    </style>
+  <![endif]-->
+
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">chvck.co.uk </a></h1>
-                <nav><ul>
-                    <li><a href="/category/misc.html">misc</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<body>
+  <div class="container">
+  
+    <header>
+      <h1><a href="">chvck.co.uk</a></h1>
+    </header>
 
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="/posts/2016/Apr/05/calamity-game/">Calamity (Game)</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2016-04-05T20:02:00+01:00">
-                Published: Tue 05 April 2016
-        </abbr>
+    <nav>
+    </nav>
+    <aside>
+        
+      <a href="/categories.html"><h3>Categories</h3></a>
+        <ul>
+            <li><a href="/category/misc.html">misc</a></li>
+        </ul>
 
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/dev.html">dev</a> <a href="/tag/gamejam.html">gamejam</a> <a href="/tag/gamedev.html">gamedev</a> </p>
-</footer><!-- /.post-info --><p>I spent the weekend just gone doing a mini game jam. A first for me. The
+        <h3>Links</h3>
+        <ul>
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+
+        <a href="/tags.html"><h3>Tags</h3></a>
+        <ul>
+        </ul>
+        <br style="clear: both"/>
+        
+        <ul class="socials">
+        </ul>
+
+    </aside><!-- end #sidebar -->
+  
+    <div id="mainContent">
+      
+    <h2><a href=/tag/dev.html>Tag - dev</a></h2>
+      
+ 
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Tue 05 April 2016
+          </h3>
+          <h2><a href="/posts/2016/Apr/05/calamity-game/">Calamity (Game)</a></h2>
+          <div id="article-summary">
+            <p>I spent the weekend just gone doing a mini game jam. A first for me. The
 project is one that has existed for a little while, the game was thought
 up by my lodger, Elysia (artist), and she enlisted help from Boomer
-(programmer) and Mikey (musician). This means that I've joined the
-project midway through its life. We decided to have the game jam to try
-get a chunk of the work done as progress had slowed a little. There were
-three of us at the jam (at my house), we were sans musician as he
-doesn't live locally. The three of us all work together so we decided to
-just start once Boomer had gone home and then walked up to mine, this
-gave me time to set up tables, power and get my computer moved. Once
-Boomer arrived we had a bit of a general faff and got some Domino's
-ordered before settling down to get shit done.</p>
-<p></p>
-<img alt="" src="/images/6d4acd6e-32d4-46e6-be3f-64f6a2b39e19.png"></p>
-<p></p>
-The Game</p>
-<hr>
-<p></p>
-Calamity is a multi-player survival style game. You play as a school kid
-in a school where strange things have been happening. The calamity is an
-event which causes monsters to come into existence. You spawn into the
-game with a few of your classmates (be it human or AI controlled) pre
-calamity and have a period of time before the calamity happens. What the
-calamity actually is still hasn't been decided. Post calamity all of the
-lights have gone out and there are suddenly monsters populating the
-school. For some reason these monsters want to kill you. The idea of the
-game is to be the last man standing, there are three rounds and if you
-die in one round then you come back as a monster in the next. Living
-players can kill each other and human monsters but the AI monsters are
-invincible, part of the skill is identifying which monsters are human
-and which are AI. At any point if there is only one player alive then
-they win the game, if the game lasts the full three rounds then everyone
-loses.</p>
-<p></p>
-There are, at time of writing, 3 pickup items in the game. 1 weapon and
-2 helper items. The weapon is used to do your killing and is a knife,
-they're sparse in the game and have limited uses. There's a paper ball,
-which is a throwable item used to distract the AI monsters whilst you
-leg it away. The final item is the mandrake root, this makes the player
-invisible to the monsters for a short period of time.</p>
-<p></p>
-I think that it's a fun concept for a game which could be a lot of fun
-to play. Whilst simple in design there are actually a few layers to the
-gameplay and it could be quite tactical. You can team up in the
-knowledge that you'll have to betray each other later or you can just go
-it alone trying to kill everyone in whatever way you can think of.
-There's an element of Battle Royale in there.</p>
-<p></p>
-Toothy:  </p>
-<p><img alt="" src="/images/1064c0cd-03f6-4456-8efa-d6d86368c502.png"></p>
-<p></p>
-Mandrake root:  </p>
-<p><img alt="" src="/images/9701761b-6716-4a5e-b462-dd457e04de7b.png"></p>
-<p></p>
-RainAI</p>
-<hr>
-<p></p>
-My first task was to make Toothy (the main monster) behave correctly as
-he was a bit erratic. He should slowly patrol a set of waypoints until
-he sees a player at which point he should break into a run and give
-chase until the player is dead or until the player manages to lose him.
-At any point a player can throw a paper ball near Toothy and he'll be
-distracted by it. The distraction went through a few iterations but we
-decided that he should be distracted by the audio aspect of the ball
-rather than visual. If Toothy hears a ball hit the ground then he'll run
-to the source of the sound before returning to what he was doing, if he
-was chasing a player and the player is now out of range then he'll start
-patrolling again.</p>
-<p></p>
-The AI system that Boomer chose to use is called RainAI so I stuck with
-it. It took me a while to get my head into how it all works but, all in,
-it's a pretty good system that hugely reduces the amount of work
-required. There are several aspects to it, the main ones that I use are:
-Entity rig, AI rig, Way-point network, navigation mesh and the behaviour
-tree, as well as a hand full of custom scripts. The AI rig is a
-component that is applied to the game object that you want to be AI
-controlled. It's made up of: mind, memory, motor, animator, navigator,
-senses and add-ons. I won't touch on the add-ons or animator as I didn't
-touch those at all. Each of these properties comes with a basic
-controller, these are pretty good anyway. You can also write your own
-controllers, I just used the basic ones although I did write my own
-navigator which I wound up throwing away.</p>
-<p></p>
-The mind handles things like the behaviour tree, which is where you
-create all of your behaviours for your AI. Memory is like a global
-variable store for your AI, the variables are accessible from RAIN
-scripts and from the behaviour tree. The motor is what moves your AI,
-handles speed, rotates it etc... The navigator is responsible for how
-the AI will navigate waypoints and/or the navigation mesh. Finally,
-senses are how your AI detects other entities. The basic sensor has
-audio and visual sensors. You can set things like whether it should only
-use line of sight and which layers it should see, e.g. walls.</p>
-<p></p>
-The actual behaviour of the AI is controlled by the behaviour tree. This
-is something that can take a while to get your head wrapped around but
-is very effective once you do. It's difficult to explain but the tree is
-composed of nodes, and there are various node types such as waypoint
-patrolling, constraints, detection, custom actions, there are quite a
-few! You cobble these nodes together in a manner that gives your desired
-effects.</p>
-<p></p>
-Entity rig: this is what is applied to the things that you want your AI
-to interact with and detect. They can be audio or visual and are just
-applied to the game object (or a child thereof) of what you want to
-detect. They're really easy to set up. I'll probably write another post
-on RainAI as there were a few things that I struggled to find much
-information about.</p>
-<p></p>
-At some point on Saturday I managed to get the paper ball detection and
-patrolling working correctly. We had a basic avoidance custom action so
-I plugged that in too, it doesn't work quite right but it's OK for now.
-After I had Toothy working how we wanted it I started work on AI
-players. Again, I used a waypoint system to dictate where the player can
-move and created a custom action to let the player stop and hide until
-they detect a monster or another player. The avoidance script actually
-seems to work OK on the players too. I'm kind of tempted to give it some
-sort of artificial endocrine system but that might be a bit much for
-this!</p>
-<p></p>
-Waypoints:  </p>
-<p><img alt="" src="/images/e303a58a-207a-4cc7-9cbf-e9ff4696eb83.png"></p>
-<p></p>
-Behaviour tree:  </p>
-<p><img alt="" src="/images/26e9590e-1a61-4705-85c2-322b3fa2e179.png"></p>
-<p></p>
-Whilst I was doing this stuff Boomer was working through getting other
-stuff done like making the menu systems, making the mandrake root effect
-work, sounds, level design. The man gets a lot done! Elysia churned out
-rad artwork all weekend and did work on level and UI design too. I feel
-like I've made light of the amount of work that they did there. We
-worked until 1am on Friday and Saturday nights and around 10pm on
-Sunday, was definitely a really fun weekend. It felt like we got quite a
-lot done and the game is becoming very playable.</p>
-<p></p>
-Boomer and I have decided that, going forward, he's going to work on the
-multi-player stuff, i.e. making it. I'll work on lighting and shading to
-try make things look shiny. There's a helluva lot for me to learn on
-that and I'm looking forward to expanding my knowledge about it all. So
-far I've managed to make a moon (with Elysia's help for the artwork and
-Unity pointers) which uses some emission for glow and a simple
-directional light with a low intensity. I'm planning on writing shaders
-to put in the windows to make moon rays shining into the buildings, that
-should be a challenge. I have a feeling that rays are probably a mix of
-some sort of refraction and dust. Given that this is aimed at webgl I'm
-not sure dust modeling is going to fly but i might be able to fake it
-somehow. I think that I'm starting to get my head round emissions now
-and, on Boomer's suggestion, plan on using them quite a lot rather than
-lights as lights are seemingly expensive. Lots to learn and lots to do.</p>
-<p></p>
-Level design of the first level:  </p>
-<p><img alt="" src="/images/034c6a87-d337-4572-b2e0-b573675f9a93.png"></p>
-<p></p>
-Level select:  </p>
-<p><img alt="" src="/images/fed6dfab-dceb-4637-8543-3f9af509b82b.png"></p>
-<p></p>
-The moon:  </p>
-<p><img alt="" src="/images/3a1fb025-d035-456f-95fd-2f4735971532.png"></p>
-<p></p>
-Glowy pentagram:  </p>
-<p><img alt="" src="/images/09d7201c-f78d-420c-aa0c-49021b38ccfe.png"></p>
-<p></p>
-A noticeboard, I'm not sure what that note is about:  </p>
-<p><img alt="" src="/images/40ec9cb9-d519-4234-a916-59c7a802231b.png"></p>
-</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/posts/2014/Dec/22/changing-platform/" rel="bookmark"
-                           title="Permalink to Changing Platform">Changing Platform</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2014-12-22T22:19:00+00:00">
-                Published: Mon 22 December 2014
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/dev.html">dev</a> <a href="/tag/random.html">random</a> </p>
-</footer><!-- /.post-info -->                <p>I write posts somewhat sporadically and I'm quite good at forgetting how
+(programmer) and Mikey (musician). This means that I've …</p>
+          </div>
+      </article>
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Mon 22 December 2014
+          </h3>
+          <h2><a href="/posts/2014/Dec/22/changing-platform/">Changing Platform</a></h2>
+          <div id="article-summary">
+            <p>I write posts somewhat sporadically and I'm quite good at forgetting how
 my pelican setup works. For this reason I decided to change the
 technology behind my blog. Moving away from using pelican and hosting on
 github pages to <a href="http://postach.io/">Postachio</a>. Postachio is a blogging
 platform that ties into a handful …</p>
-                <a class="readmore" href="/posts/2014/Dec/22/changing-platform/">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
-
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
-
+          </div>
+      </article>
+<p class="paginator">
+    Page 1 / 1
+</p>
+    
+    </div><!-- end #mainContent -->
+  
+  <div class="clearfloat"></div>
+  
+    <footer>
+      <p>Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
+    </footer><!-- end #footer -->
+  
+  </div><!-- end #container -->
 </body>
 </html>

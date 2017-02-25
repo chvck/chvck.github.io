@@ -1,184 +1,138 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-        <meta charset="utf-8" />
-        <title>chvck.co.uk - gamedev</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+<head>
+
+  <meta name="description" content="Personal blog site for chvck covering a range of topics but mostly bikes. chvck likes bikes." />
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  <title>chvck.co.uk - gamedev</title>
+  <link href="/theme/css/reset.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/theme/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+    
+  <!--[if IE]>
+    <style type="text/css"> 
+    . twoColFixRtHdr #mainContent { zoom: 1; }
+    </style>
+  <![endif]-->
+
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">chvck.co.uk </a></h1>
-                <nav><ul>
-                    <li><a href="/category/misc.html">misc</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<body>
+  <div class="container">
+  
+    <header>
+      <h1><a href="">chvck.co.uk</a></h1>
+    </header>
 
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="/posts/2017/Jan/15/day-15-photo-a-day/">Day 15 - photo a day</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2017-01-15T19:44:00+00:00">
-                Published: Sun 15 January 2017
-        </abbr>
+    <nav>
+    </nav>
+    <aside>
+        
+      <a href="/categories.html"><h3>Categories</h3></a>
+        <ul>
+            <li><a href="/category/misc.html">misc</a></li>
+        </ul>
 
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/gamedev.html">gamedev</a> <a href="/tag/photo-a-day-2017.html">photo-a-day-2017</a> </p>Translations:
-        <a href="/posts/2015/Jan/15/day-15-photo-a-day/">en</a>
+        <h3>Links</h3>
+        <ul>
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
 
-</footer><!-- /.post-info --><p>I spent a fair bit of yesterday afternoon and most of today getting
+        <a href="/tags.html"><h3>Tags</h3></a>
+        <ul>
+        </ul>
+        <br style="clear: both"/>
+        
+        <ul class="socials">
+        </ul>
+
+    </aside><!-- end #sidebar -->
+  
+    <div id="mainContent">
+      
+    <h2><a href=/tag/gamedev.html>Tag - gamedev</a></h2>
+      
+ 
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Sun 15 January 2017
+          </h3>
+          <h2><a href="/posts/2017/Jan/15/day-15-photo-a-day/">Day 15 - photo a day</a></h2>
+          <div id="article-summary">
+            <p>I spent a fair bit of yesterday afternoon and most of today getting
 Unreal Editor 4 to run so there's no way it's not going to be my photo a
 day! I started out in fedora 24 and kept getting the error
-<code>LLVM triggered Diagnostic Handler: unsupported call to function exp10f in main</code>,
-I wound up formatting and installing ubuntu and STILL got it.  </p>
-<p>That did not please me.  </p>
-<p>Whilst the editor would run the create/open project screen it'd bomb
-with that error in the logs when I tried to open or create a project.
-Anyway, that's jumping the gun a little.</p>
-<p></p>
-Googling this issue didn't throw up a whole lot but one of the, few,
-hits hinted at graphics drivers. I have a radeon rx200 graphics card and
-it seems that the AMD proprietary drivers have been dropped in both
-fedora 24 and ubuntu 16.04+ (I'm using ubuntu-gnome 16.10). The open
-source drivers seem to be good enough though, I've been playing Heroes
-of the Storm through wine without issues. I spent a fair bit of time
-poking around my system and googling various things, I somehow got into
-looking at opengl. I saw that my system was using a version of mesa that
-gave me opengl 3. I saw that UE4 had an opengl4 flag so decided that it
-had to be worth a go as I was pretty sure the error was related to
-graphics. In the end I tracked down the Oibaf PPA which offered up a
-newer version of mesa and llvm. I thought that it looked promising and
-then came across <a href="https://www.epicgames.com/unrealtournament/forums/showthread.php?23665-How-to-update-Open-Source-graphic-driver-in-Ubuntu">this link on the epic games
-forums</a>
-which validated it a bit so went for it. The step missing in that guide
-that I needed was to do an <code>apt-get dist-upgrade</code>. After doing that I
-rebooted and started UE4 again, created a project and hey! there we go,
-it works.</p>
-<p></p>
-Here it is in all of its glory.</p>
-<p></p>
-<img alt="" src="/images/baad1805-257b-4982-9459-60e0aee357f2.png"></p>
-</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/posts/2017/Jan/13/day-13-photo-a-day/" rel="bookmark"
-                           title="Permalink to Day 13 - photo a day">Day 13 - photo a day</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2017-01-13T20:58:00+00:00">
-                Published: Fri 13 January 2017
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/gamedev.html">gamedev</a> <a href="/tag/dirty-casuals.html">dirty-casuals</a> <a href="/tag/photo-a-day-2017.html">photo-a-day-2017</a> </p>Translations:
-        <a href="/posts/2015/Jan/13/day-13-photo-a-day/">en</a>
-
-</footer><!-- /.post-info -->                <p>Another screenshot today! Taking a bit of a break and working on my
+<code>LLVM triggered Diagnostic Handler: unsupported call to function …</code></p>
+          </div>
+      </article>
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Fri 13 January 2017
+          </h3>
+          <h2><a href="/posts/2017/Jan/13/day-13-photo-a-day/">Day 13 - photo a day</a></h2>
+          <div id="article-summary">
+            <p>Another screenshot today! Taking a bit of a break and working on my
 game, Bloom. It's very simple, move the ball left and right and finish
 in the shortest time possible. There are several tile types to
 assist/hamper in the journey and if fall off the edge or down …</p>
-                <a class="readmore" href="/posts/2017/Jan/13/day-13-photo-a-day/">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/posts/2016/Jun/26/dirty-casuals-wales-games-dev-show/" rel="bookmark"
-                           title="Permalink to Dirty Casuals @ Wales Games Dev Show">Dirty Casuals @ Wales Games Dev Show</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2016-06-26T10:45:00+01:00">
-                Published: Sun 26 June 2016
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/gamedev.html">gamedev</a> <a href="/tag/dirty-casuals.html">dirty-casuals</a> </p>
-</footer><!-- /.post-info -->                <p>On the 8th June we went to <a href="http://www.walesgamesdevshow.org/">Wales Game Development
+          </div>
+      </article>
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Sun 26 June 2016
+          </h3>
+          <h2><a href="/posts/2016/Jun/26/dirty-casuals-wales-games-dev-show/">Dirty Casuals @ Wales Games Dev Show</a></h2>
+          <div id="article-summary">
+            <p>On the 8th June we went to <a href="http://www.walesgamesdevshow.org/">Wales Game Development
 Show</a> as an exhibitor to show the
 alpha of <a href="https://github.com/dirty-casuals/Calamity">Calamity</a>. This was
 the first convention we'd be to as Dirty Casuals and, for many of us,
 the first convention we'd exhibited at. We were also supporting
 <a href="http://www.gamebuildr.io/">Gamebuildr</a> which is a …</p>
-                <a class="readmore" href="/posts/2016/Jun/26/dirty-casuals-wales-games-dev-show/">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/posts/2016/Apr/05/calamity-game/" rel="bookmark"
-                           title="Permalink to Calamity (Game)">Calamity (Game)</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2016-04-05T20:02:00+01:00">
-                Published: Tue 05 April 2016
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/charles-dixon.html">Charles Dixon</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/dev.html">dev</a> <a href="/tag/gamejam.html">gamejam</a> <a href="/tag/gamedev.html">gamedev</a> </p>
-</footer><!-- /.post-info -->                <p>I spent the weekend just gone doing a mini game jam. A first for me. The
+          </div>
+      </article>
+     
+      <article class="summary">
+          <h3>
+            </span><a class="category" href="/category/misc.html"><span class="label">misc</span></a>
+            | <a href="/author/Charles Dixon.html" class="summary-author">Charles Dixon</a>
+            | Tue 05 April 2016
+          </h3>
+          <h2><a href="/posts/2016/Apr/05/calamity-game/">Calamity (Game)</a></h2>
+          <div id="article-summary">
+            <p>I spent the weekend just gone doing a mini game jam. A first for me. The
 project is one that has existed for a little while, the game was thought
 up by my lodger, Elysia (artist), and she enlisted help from Boomer
 (programmer) and Mikey (musician). This means that I've …</p>
-                <a class="readmore" href="/posts/2016/Apr/05/calamity-game/">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
-
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
-
+          </div>
+      </article>
+<p class="paginator">
+    Page 1 / 1
+</p>
+    
+    </div><!-- end #mainContent -->
+  
+  <div class="clearfloat"></div>
+  
+    <footer>
+      <p>Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
+    </footer><!-- end #footer -->
+  
+  </div><!-- end #container -->
 </body>
 </html>
