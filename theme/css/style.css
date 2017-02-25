@@ -1,0 +1,167 @@
+* { margin: 0; padding: 0; }
+
+/* *** General Styles *** */
+
+body {
+    width: 85%;
+    text-align: left;
+    font-family: "Times New Roman"; 
+    margin-left: auto;
+    margin-right: auto;
+    color: #333333;
+}
+
+img {
+    max-width: 50%;
+    border: 1px solid #333333;
+    height: auto;
+    display: block;
+}
+
+img.preview {
+    max-width: 10%;
+    display: block;
+    float: left;
+    margin-right: 1em;
+    margin-top: 0;
+}
+
+.tag-cloud ul {
+    list-style-type: none;
+}
+
+.tag-cloud ul li {
+    display: inline;
+    margin-right: 5px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h1.title {
+    display: inline;
+}
+
+hr {
+    display: block;
+    clear: both;
+    margin-top: 15px;
+}
+
+article {
+    margin-top: 15px;
+}
+
+article:after { 
+    content: ""; 
+    display: table; 
+    clear: both; 
+}
+
+h2.post-title {
+    margin-top: 0px;
+    margin-bottom: 1em;
+}
+
+.caption {
+    font-size: 0.9em;
+    margin-top: 0;
+}
+
+.date {
+    margin-top: 0;
+}
+
+@media (max-width: 600px) {
+    .img {
+        max-width: 100%;
+    }
+    
+    img.preview {
+        max-width: 30%;
+    }
+}
+
+
+
+.tag {
+    /* Some standard .tag settings: starting point */
+    float:right;
+    text-decoration:none;
+    padding: 2px 4px;
+
+    /* Rotation transformation */
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -o-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+
+    /* Transition between this and :hover state */
+    -webkit-transition: -webkit-transform 0.1s ease-in;
+    -moz-transition: -moz-transform 0.1s ease-in;
+    -o-transition: -o-transform 0.1s ease-in;
+    transition: transform 0.1s ease-in; 
+}
+
+.tag:hover {
+    color:#fff;
+    z-index:10000;
+
+    -webkit-transform: rotate(3deg) scale(1.2);
+    -moz-transform: rotate(3deg) scale(1.2);
+    -o-transform: rotate(3deg) scale(1.2);
+    transform: rotate(3deg) scale(1.2);
+}
+
+
+.tag:nth-child(2n) {
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.tag:nth-child(4n) {
+    -webkit-transform: rotate(-8deg);
+    -moz-transform: rotate(-8deg);
+    -o-transform: rotate(-8deg);
+    transform: rotate(-8deg);
+}
+
+.tag:nth-child(5n) {
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+.tag:nth-child(2n):hover {
+    -webkit-transform: rotate(-3deg) scale(1.2);
+    -moz-transform: rotate(-3deg) scale(1.2);
+    -o-transform: rotate(-3deg) scale(1.2);
+    transform: rotate(-3deg) scale(1.2);
+}
+
+.tag:nth-child(4n):hover {
+    -webkit-transform: rotate(3deg) scale(1.2);
+    -moz-transform: rotate(3deg) scale(1.2);
+    -o-transform: rotate(3deg) scale(1.2);
+    transform: rotate(3deg) scale(1.2);
+}
+
+.tag:nth-child(5n):hover {
+    -webkit-transform: rotate(2deg) scale(1.2);
+    -moz-transform: rotate(2deg) scale(1.2);
+    -o-transform: rotate(2deg) scale(1.2);
+    transform: rotate(2deg) scale(1.2);
+}
