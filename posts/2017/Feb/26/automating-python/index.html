@@ -41,12 +41,12 @@
 		<h2><a href="/posts/2017/Feb/26/automating-python/">Automating pelican</a></h2> - <h3>Posted on Sun 26 February 2017</h3>
 	</div>
 
-      <p>So following on my post about <a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/">moving back to pelican</a> I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:</p>
-<ul>
-<li>Source content and pelican creation of output</li>
-<li>Publishing the output to github</li>
-</ul>
-<p>Starting at the beginning then, I have my output folder setup as its own github repo at <a href="http://chvck.github.io">http://chvck.github.io</a>, the rest of the blog setup and the theme will go into another repo which will have the content and output folders ignored (I'll explain why the content is ignored later). 
+      <p>So following on my post about <a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/">moving back to pelican</a> I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:
+<br>
+<em> Source content and pelican creation of output
+</em> Publishing the output to github
+<br>
+Starting at the beginning then, I have my output folder setup as its own github repo at <a href="http://chvck.github.io">http://chvck.github.io</a>, the rest of the blog setup and the theme will go into another repo which will have the content and output folders ignored (I'll explain why the content is ignored later). 
 <br>
 <br>
 To publish the output it seemed pretty obvious that I needed to have some sort of git auto commit folder watcher. There are a few git auto-commit hits on google so one of those plus a post-commit hook to push was my first idea. But, then I found <a href="https://github.com/nevik/gitwatch">gitwatch</a> which is a handy script that handles all of this for me. Worth noting, I have a ssh key stored with ssh-agent so I don't need to enter a password to push. OK cool, so now when my output folder is updated then it gets published. Rad!
@@ -58,7 +58,8 @@ Next step, and this one was tricker, was to work out how to automate the output 
 Then I found <a href="https://www.thefanclub.co.za/overgrive">overgrive</a> which claims to do what the official google drive apps do on windows/macos. For $4.99 I figured it was worth a go (turns out there's a free 14 day trial too, didn't know that though) and it's good. It's fast and it does offline sync... great! Next up I put all of my current content into a dir on google drive and then I symlinked that folder as my pelican content directory. Using the -r switch in pelican I now have automated generation. So that's generation and publishing sorted. Rad!
 <br>
 <br>
-Final piece of the puzzle is something that means that I can write posts directly on google drive (I use markdown which google drive doesn't support). Enter <a href="https://stackedit.io">stackedit</a>, a web app that I can use from any online device. It lets you write markdown (even gives a live preview of the processed markdown) and save it to google drive. So, with any luck, this post is going to be saved from stackedit and it'll appear on my blog. Here we go!</p>	
+Final piece of the puzzle is something that means that I can write posts directly on google drive (I use markdown which google drive doesn't support). Enter <a href="https://stackedit.io">stackedit</a>, a web app that I can use from any online device. It lets you write markdown (even gives a live preview of the processed markdown) and save it to google drive. So, with any luck, this post is going to be saved from stackedit and it'll appear on my blog. Here we go!</p>
+<p>Edit: It works!</p>	
         
       <h3 class="blogMeta"> Tags :
            <span><a href="/tag/dev.html">dev</a> / </span>
