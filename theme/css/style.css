@@ -80,8 +80,7 @@ article.post h3 {
 }
 
 article.post img {
-    margin-top: 10px;
-    margin-bottom: 0px;
+    margin-top: 1em;
 }
 
 article.post .article-heading {
