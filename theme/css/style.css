@@ -2,9 +2,13 @@
 
 /* *** General Styles *** */
 
-body  {
-    background-color: grey;
-    text-align: center;
+body {
+    width: 85%;
+    text-align: left;
+    font-family: "Times New Roman"; 
+    margin-left: auto;
+    margin-right: auto;
+    color: #333333;
 }
 
 blockquote {
@@ -13,10 +17,20 @@ blockquote {
     padding: 5px 0 5px 30px;
 }
 
+
 img {
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
+    max-width: 50%;
+    border: 1px solid #333333;
+    height: auto;
+    display: block;
+}
+
+img.summary {
+    max-width: 10%;
+    display: block;
+    float: left;
+    margin-right: 1em;
+    margin-top: 0;
 }
 
 ul,
@@ -31,49 +45,25 @@ ul.no-points {
 
 /* *** Layout *** */
 
-.container { 
-    text-align: left;
-    width: 780px;
-    background-color: white;
+header {
+    display: inline;
+    margin-bottom: 0.2em;
 } 
 
-header { 
-    height: 109px;
-    padding: 0 10px 0 20px;
-    background: url(../images/top.gif) no-repeat bottom;
-} 
-
-aside {
-    float: right;
-    padding: 20px 30px 10px 0;
-    text-align: right;
-    width: 150px; 
+header h3 {
+	display: inline
 }
 
-#mainContent {
-    padding: 20px 175px 10px 40px;
-    width: 565px;
-} 
+header h1 {
+    font-size: 4em;
+    font-weight: bold;
+}
 
 footer { 
-    background: url(../images/bottom.gif) no-repeat;
     font-size: 12px;
     height: 70px;
     padding: 0 10px 0 20px;
 } 
-
-/* *** Header Styles *** */
-
-header h1 {
-    font-size: 48px;
-    padding: 10px 0 0 15px;
-}
-
-header h2 {
-    font-size: 14px;
-    font-weight: normal;
-    padding-left: 15px;
-}
 
 /* *** Top Menu Styles *** */
 /* *** Blog Styles *** */
@@ -86,45 +76,20 @@ article.post {
     padding-top: 0px;
 }
 
-article .category span.label {
-    font-size: 18px;
-    vertical-align: inherit;
-}
-
-article a.category:hover {
-    text-decoration: none;
-}
-
-article .category span.label:hover {
-    color: #999;
-    background-color: transparent;
-}
-
-article.summary {
-    background: url(../images/hr.gif) top left no-repeat;
-    height: 120px;
-}
-
-article.summary:first-child {
-    background: none;
-    padding-top: 0px;
-}
-
-article h3 {
-    line-height: 21px;
-}
-
 article.post img {
     max-width: 550px;
     margin-top: 10px;
     margin-bottom: 0px;
 }
 
-article img.summary {
-    height: 120px;
-    width: 120px;
-    float: left;
-    margin-right: 15px;
+article.summary {
+    margin-top: 15px;
+}
+
+article.summary:after { 
+    content: ""; 
+    display: table; 
+    clear: both; 
 }
 
 #article-summary img {
@@ -137,51 +102,13 @@ article img.summary {
     text-align: center;
 }
 
-
-/* *** Sidebar Styles *** */
-aside img.social {
-    height: 40px;
-    width: 40px;
-    border-style: none;
+.tag-cloud ul {
+    list-style-type: none;
 }
 
-aside ul.socials {
-    padding-top: 20px;
-}
-
-aside ul.socials li {
+.tag-cloud ul li {
     display: inline;
-}
-
-aside ul {
-    line-height: 1.8em;
-    list-style: none;
-    padding-bottom: 20px;
-}
-
-aside .tag-0 {
-    font-size: 20px;
-    font-weight: normal;
-}
-
-aside .tag-1 {
-    font-size: 18px;
-    font-weight: normal;
-}
-
-aside .tag-2 {
-    font-size: 16px;
-    font-weight: normal;
-}
-
-aside .tag-3 {
-    font-size: 14px;
-    font-size: normal;
-}
-
-aside .tag-4 {
-    font-size: 12px;
-    font-size: normal;
+    margin-right: 5px;
 }
 
 .tag {
@@ -256,19 +183,6 @@ aside .tag-4 {
     transform: rotate(2deg) scale(1.2);
 }
 
-/* *** Comments Styles *** */
-
-#comments {
-    margin: 20px 0 0 20px;
-}
-
-#comments li {
-    margin-bottom: 10px;
-}
-
-.commentSep {
-    background: url(../images/hr.gif) bottom left no-repeat;
-}
 
 /* *** Footer Styles *** */
 
