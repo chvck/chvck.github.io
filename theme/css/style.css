@@ -97,6 +97,10 @@ article.summary:after {
     display: none;
 }
 
+.blogMeta {
+	margin-top: 1.5em'
+}
+
 .caption {
     font-size: 10px;
     margin: 0;
