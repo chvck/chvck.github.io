@@ -74,8 +74,8 @@ article.post {
     padding-top: 0px;
 }
 
-article .article-post h2,
-article .article-post h3 {
+article.post .article-heading h2,
+article.post .article-heading h3 {
 	display: inline;
 }
 
