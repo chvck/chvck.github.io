@@ -93,6 +93,10 @@ article.summary:after {
     clear: both; 
 }
 
+.article-summary img {
+    display: none;
+}
+
 .blogMeta {
 	margin-top: 1.5em;
 }
