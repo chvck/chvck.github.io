@@ -88,10 +88,6 @@ article.post .article-heading {
 	margin-bottom: 0.35em;
 }
 
-article.summary {
-    margin-top: 15px;
-}
-
 article.summary:after { 
     content: ""; 
     display: table; 
