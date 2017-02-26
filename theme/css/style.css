@@ -45,7 +45,7 @@ img.summary {
 
 ul,
 ol {
-    margin-left: 20px;
+    margin-left: 4em;
     line-height: 1.6em;
 }
 
@@ -56,8 +56,7 @@ ul.no-points {
 /* *** Layout *** */
 
 header {
-    display: inline;
-    margin-bottom: 0.2em;
+    margin-bottom: 1em;
 } 
 
 header h3 {
@@ -66,14 +65,7 @@ header h3 {
 
 header h1 {
     font-size: 4em;
-    font-weight: bold;
 }
-
-footer { 
-    font-size: 12px;
-    height: 70px;
-    padding: 0 10px 0 20px;
-} 
 
 /* *** Top Menu Styles *** */
 /* *** Blog Styles *** */
@@ -195,8 +187,12 @@ article.summary:after {
 
 /* *** Footer Styles *** */
 
+footer { 
+    margin: 3em 0 0 0;
+    font-size: 0.8em;
+} 
+
 footer p {
-    padding: 30px 0 0 0;
     text-align: center;
 }
 
