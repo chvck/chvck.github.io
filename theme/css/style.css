@@ -198,12 +198,10 @@ footer p {
 
 .floatR {
     float: right;
-    margin-left: 8px;
 }
 
 .floatL { 
     float: left;
-    margin-right: 8px;
 }
 
 .clearfloat {
