@@ -67,7 +67,7 @@ header h1 {
 /* *** Blog Styles *** */
 
 article.summary {
-    margin: 1em 0 1em 0;
+    margin: 1.5em 0 1.5em 0;
 }
 
 article.post {
@@ -93,12 +93,8 @@ article.summary:after {
     clear: both; 
 }
 
-#article-summary img {
-    display: none;
-}
-
 .blogMeta {
-	margin-top: 1.5em'
+	margin-top: 1.5em;
 }
 
 .caption {
