@@ -67,7 +67,7 @@ header h1 {
 /* *** Blog Styles *** */
 
 article.summary {
-    padding: 1em 0 1em 0;
+    margin: 1em 0 1em 0;
 }
 
 article.post {
