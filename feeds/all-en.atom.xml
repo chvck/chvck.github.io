@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>chvck.co.uk</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-02-24T09:13:00+00:00</updated><entry><title>Day 54 - photo a day</title><link href="/posts/2017/Feb/24/day-54-photo-a-day/" rel="alternate"></link><published>2017-02-24T09:13:00+00:00</published><updated>2017-02-24T09:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-24:/posts/2017/Feb/24/day-54-photo-a-day/</id><summary type="html">&lt;div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>chvck.co.uk</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-02-26T00:00:00+00:00</updated><entry><title>From postachio to pelican</title><link href="/posts/2017/Feb/26/postachio-to-pelican/" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/posts/2017/Feb/26/postachio-to-pelican/</id><summary type="html">&lt;p&gt;I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
+I can't have. Despite promises that they were going to improve things toward the end of last year things have also gone a bit …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
+I can't have. Despite promises that they were going to improve things toward the end of last year things have also gone a bit quiet.
+For this reason I decided to move back to pelican. This was not as trivial as it maybe could have been. Getting evernote posts into markdown
+with the images where I wanted wasn't simple. However, pelican comes with pelican-import which can import posts from a rss feed into markdown.
+Postachio only puts the last 50 posts into the rss feed so I had to do an import, move posts into a different notebook, do an import etc...&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Once I had that done I had to grab the images and put them in the right place. Luckily all of the posts in the rss appeared to have my images
+hosted on a postachio cdn. Using a simple regex I was able to write a script to locate image tags in the markdown files and then download the images
+from the urls. As a part of this the script also had to update the image url to be the new, correct, relative url. I also had to tweak pelican-import to
+look for published date rather than updated date in the feed.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Great, loads of markdown files and images. Next job, alter my old theme and then setup github pages. It's still far from being right but it's a start that'll do for now, I also need
+to create an automation process so that I don't have to manually publish, I'm not sure how I'll do that yet. It'd be easy if it wasn't for the images.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, new (kinda) site, woo! I also haven't forgotten photo a day. I'm still taking the photos but I want to work out my posting workflow before posting more
+as the images are a pain.&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 54 - photo a day</title><link href="/posts/2017/Feb/24/day-54-photo-a-day/" rel="alternate"></link><published>2017-02-24T09:13:00+00:00</published><updated>2017-02-24T09:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-24:/posts/2017/Feb/24/day-54-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Well I was going to take a photo of the dismantled shock off my mega. It
 doesn't appear to be the same shock as the tutorial and I think I'll
@@ -32,7 +48,7 @@ decent view out over Morrisons and into the hills.
 &lt;p&gt;&lt;img alt="" src="/images/5436448f-9507-4fae-9622-ddc646a6ea09.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="test"></category></entry><entry><title>Day 53 - photo a day</title><link href="/posts/2017/Feb/23/day-53-photo-a-day/" rel="alternate"></link><published>2017-02-23T08:46:00+00:00</published><updated>2017-02-23T08:46:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-23:/posts/2017/Feb/23/day-53-photo-a-day/</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 53 - photo a day</title><link href="/posts/2017/Feb/23/day-53-photo-a-day/" rel="alternate"></link><published>2017-02-23T08:46:00+00:00</published><updated>2017-02-23T08:46:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-23:/posts/2017/Feb/23/day-53-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Another normal day, fog still doesn't seem to have lifted from
 yesterday. Elysia was out tonight so I was sat in work wondering what to
