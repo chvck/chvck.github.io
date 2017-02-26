@@ -107,7 +107,9 @@ article.summary:after {
     text-align: center;
 }
 
-
+.tag-cloud {
+	margin-top: 1.5em;
+}
 
 .tag-cloud ul {
     list-style-type: none;
