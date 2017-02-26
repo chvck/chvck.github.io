@@ -41,12 +41,12 @@
 		<h2><a href="/posts/2017/Feb/26/automating-python/">Automating pelican</a></h2> - <h3>Posted on Sun 26 February 2017</h3>
 	</div>
 
-      <p>So following on my post about <a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/">moving back to pelican</a> I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:
-<br>
-<em> Source content and pelican creation of output
-</em> Publishing the output to github
-<br>
-Starting at the beginning then, I have my output folder setup as its own github repo at <a href="http://chvck.github.io">http://chvck.github.io</a>, the rest of the blog setup and the theme will go into another repo which will have the content and output folders ignored (I'll explain why the content is ignored later). 
+      <p>So following on my post about <a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/">moving back to pelican</a> I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:</p>
+<ul>
+<li>Source content and pelican creation of output</li>
+<li>Publishing the output to github</li>
+</ul>
+<p>Starting at the beginning then, I have my output folder setup as its own github repo at <a href="http://chvck.github.io">http://chvck.github.io</a>, the rest of the blog setup and the theme will go into another repo which will have the content and output folders ignored (I'll explain why the content is ignored later). 
 <br>
 <br>
 To publish the output it seemed pretty obvious that I needed to have some sort of git auto commit folder watcher. There are a few git auto-commit hits on google so one of those plus a post-commit hook to push was my first idea. But, then I found <a href="https://github.com/nevik/gitwatch">gitwatch</a> which is a handy script that handles all of this for me. Worth noting, I have a ssh key stored with ssh-agent so I don't need to enter a password to push. OK cool, so now when my output folder is updated then it gets published. Rad!
