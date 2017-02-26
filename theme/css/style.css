@@ -89,6 +89,10 @@ article.post img {
     margin-bottom: 0px;
 }
 
+article.post .article-heading {
+	margin-bottom: 0.35em;
+}
+
 article.summary {
     margin-top: 15px;
 }
