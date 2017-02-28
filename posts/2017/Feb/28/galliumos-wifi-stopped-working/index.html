@@ -65,7 +65,7 @@
 		<h2><a href="/posts/2017/Feb/28/galliumos-wifi-stopped-working/">GalliumOS wifi stopped working</a></h2> - <h3>Posted on Tue 28 February 2017</h3>
 	</div>
 
-      <p>I just fixed my chromebook (seems that the fuse in the charger has gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before I knew that to do. I just thought that I'd make a note in case it helps someone else or I forget... It seems to be when the battery has totally drained.
+      <p>I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a while to work out last time though, lots of pulling error from dmeg and googling. I just thought that I'd make a note in case it helps someone else or I forget... It seems to be when the battery has totally drained.
 <br>
 <br>
 The fix is pretty simple, take a look at your clock. For me this issue has always been that the clock has jumped ahead to the year 2154 which has somehow screwed up the wifi, could be messing up crypto stuff I guess? Anyway, setting the clock to manual and resetting back to today fixes it for me. Once the wifi reconnects I can set it back to sync the clock to a remote server. Seems a bit catch-22, the wifi can't connect because the date is totally invalid and the clock can't set itself because the wifi is down.  </p>	
