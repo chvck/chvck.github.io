@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <meta name="author" content="chvck">
+  <meta name="description" content="Pointless, sometimes amusing and deeply uninteresting to 99.7% of the population. A site about random occurances and things that I spend my time doing. Posts ranging from multiple sclerosis to food to mountain biking, a lot of mountain biking." />
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  <title>GalliumOS wifi stopped working</title>
+  <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+  
+    <!-- OpenGraph tags -->
+    <meta property="og:site_name" content="chvck.co.uk">
+
+    <meta property="og:image" content="http://www.gravatar.com/avatar/3c7055a61f3e23511c27771d70897053?s=256&d=mm&r=g">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="chvck.co.uk">
+    <meta property="og:url" content="http://chvck.co.uk">
+    <meta property="og:description" content="Pointless, sometimes amusing and deeply uninteresting to 99.7% of the population. A site about random occurances and things that I spend my time doing. Posts ranging from multiple sclerosis to food to mountain biking, a lot of mountain biking.">
+
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@https://twitter.com/chvck">
+
+    <meta name="twitter:creator" content="@https://twitter.com/chvck">
+    <meta name="twitter:image:src" content="http://www.gravatar.com/avatar/3c7055a61f3e23511c27771d70897053?s=256&d=mm&r=g">
+    <meta name="twitter:domain" content="http://chvck.co.uk">
+    
+  <!--[if IE]>
+    <style type="text/css"> 
+    . twoColFixRtHdr #mainContent { zoom: 1; }
+    </style>
+  <![endif]-->
+
+</head>
+
+<body>  
+    <header>
+      <h1><a href="/">A Pelican Blog</a></h1>
+      <h3>
+        <a href="https://twitter.com/chvck">Twitter</a> |
+        <a href="http://dirty-casuals.co.uk">Dirty Casuals</a>
+      </h3>
+    </header>
+
+    <nav>
+    </nav>
+   
+    <div id="mainContent">
+      
+      
+ 
+
+  <article class="post">
+    <div class="article-heading">
+		<h2><a href="/galliumos-wifi-stopped-working.html">GalliumOS wifi stopped working</a></h2> - <h3>Posted on Tue 28 February 2017</h3>
+	</div>
+
+      <p>I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a while to work out last time though, lots of pulling error from dmeg and googling. I just thought that I'd make a note in case it helps someone else or I forget... It seems to be when the battery has totally drained.
+<br>
+<br>
+The fix is pretty simple, take a look at your clock. For me this issue has always been that the clock has jumped ahead to the year 2154 which has somehow screwed up the wifi, could be messing up crypto stuff I guess? Anyway, setting the clock to manual and resetting back to today fixes it for me. Once the wifi reconnects I can set it back to sync the clock to a remote server. Seems a bit catch-22, the wifi can't connect because the date is totally invalid and the clock can't set itself because the wifi is down.  </p>	
+        
+      <h3 class="blogMeta"> Tags :
+           <span><a href="/tag/random.html">random</a> / </span>
+           <span><a href="/tag/dev.html">dev</a> / </span>
+      </h3>
+      
+  </article>
+    
+    </div><!-- end #mainContent -->
+  
+  <div class="clearfloat"></div>
+  
+    <footer>
+      <p>Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
+    </footer><!-- end #footer -->
+</body>
+</html>

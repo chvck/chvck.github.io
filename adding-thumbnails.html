@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <meta name="author" content="chvck">
+  <meta name="description" content="Pointless, sometimes amusing and deeply uninteresting to 99.7% of the population. A site about random occurances and things that I spend my time doing. Posts ranging from multiple sclerosis to food to mountain biking, a lot of mountain biking." />
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  <title>Adding thumbnails</title>
+  <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+  
+    <!-- OpenGraph tags -->
+    <meta property="og:site_name" content="chvck.co.uk">
+
+    <meta property="og:image" content="http://www.gravatar.com/avatar/3c7055a61f3e23511c27771d70897053?s=256&d=mm&r=g">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="chvck.co.uk">
+    <meta property="og:url" content="http://chvck.co.uk">
+    <meta property="og:description" content="Pointless, sometimes amusing and deeply uninteresting to 99.7% of the population. A site about random occurances and things that I spend my time doing. Posts ranging from multiple sclerosis to food to mountain biking, a lot of mountain biking.">
+
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@https://twitter.com/chvck">
+
+    <meta name="twitter:creator" content="@https://twitter.com/chvck">
+    <meta name="twitter:image:src" content="http://www.gravatar.com/avatar/3c7055a61f3e23511c27771d70897053?s=256&d=mm&r=g">
+    <meta name="twitter:domain" content="http://chvck.co.uk">
+    
+  <!--[if IE]>
+    <style type="text/css"> 
+    . twoColFixRtHdr #mainContent { zoom: 1; }
+    </style>
+  <![endif]-->
+
+</head>
+
+<body>  
+    <header>
+      <h1><a href="/">A Pelican Blog</a></h1>
+      <h3>
+        <a href="https://twitter.com/chvck">Twitter</a> |
+        <a href="http://dirty-casuals.co.uk">Dirty Casuals</a>
+      </h3>
+    </header>
+
+    <nav>
+    </nav>
+   
+    <div id="mainContent">
+      
+      
+ 
+
+  <article class="post">
+    <div class="article-heading">
+		<h2><a href="/adding-thumbnails.html">Adding thumbnails</a></h2> - <h3>Posted on Tue 28 February 2017</h3>
+	</div>
+
+      <p>I sent a link to this blog to my mate and commented that  github pages were a bit slow to serve it. He replied ""shouldn't be, github pages are usually pretty snappy", he then went on to say "however, you are linking to your full sized images on the index page". Ah, oops! Good point that... He sent me a link to a script that he'd used for generating thumbnails from existing images so I decided that I'd just hack on that and change it to my needs. Before doing that, I decided to have a bit of a Google for pelican thumbnails - it didn't seem to me that I'd be the first person to be doing this. I discovered <a href="https://github.com/getpelican/pelican-plugins/tree/master/thumbnailer">pelican thumbnailer</a> which looked ideal to me. 
+<br>
+<br>
+Armed with the thumbnailer I did some testing. Yup, it generated thumbnails from my images, great! The next step was linking to these images from my posts, I decided the simple way to do this was to add a new metadata field to my posts called "Thumbnail: " just containing the path to where the thumbnail should be once generated. Well, I wasn't going to do this manually was I? I wrote a little script to find the first image in my markdown (if any) and then take the path and add a new line as detailed above. Bit of testing and all looked good. As can be seen in my photo a day posts the links work and the index page is loading much faster, at time of testing: 7.7mb down to 232kb!</p>	
+        
+      <h3 class="blogMeta"> Tags :
+           <span><a href="/tag/dev.html">dev</a> / </span>
+      </h3>
+      
+  </article>
+    
+    </div><!-- end #mainContent -->
+  
+  <div class="clearfloat"></div>
+  
+    <footer>
+      <p>Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
+    </footer><!-- end #footer -->
+</body>
+</html>
