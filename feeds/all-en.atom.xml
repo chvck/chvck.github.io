@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-03-01T23:13:00+00:00</updated><entry><title>Day 60 - photo a day</title><link href="/day-60-photo-a-day-2017.html" rel="alternate"></link><published>2017-03-01T23:13:00+00:00</published><updated>2017-03-01T23:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-03-01:/day-60-photo-a-day-2017.html</id><summary type="html">&lt;p&gt;Today was really nice weather so I decided that I was going to finish at 4 and ride up to nant. I knocked off at 4 and it started raining, typical. I decided that I was going regardless and I had a really fun ride, fun until I hit the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was really nice weather so I decided that I was going to finish at 4 and ride up to nant. I knocked off at 4 and it started raining, typical. I decided that I was going regardless and I had a really fun ride, fun until I hit the road home anyway. I PR'd a couple of descents and wasn't far off my PRs on a lot of others, I also had a play in the skills area to see how the ebike was to ride there. It was fine, I did a couple of laps of the middle jumps and a couple of laps of the pump track and it felt good on both. That means trouble for the mega! The reason the road home wasn't much fun was because by that point my hands and feet were freezing. 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>chvck.co.uk</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-03-01T23:13:00+00:00</updated><entry><title>Day 60 - photo a day</title><link href="/posts/2017/Mar/01/day-60-photo-a-day-2017/" rel="alternate"></link><published>2017-03-01T23:13:00+00:00</published><updated>2017-03-01T23:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-03-01:/posts/2017/Mar/01/day-60-photo-a-day-2017/</id><summary type="html">&lt;p&gt;Today was really nice weather so I decided that I was going to finish at 4 and ride up to nant. I knocked off at 4 and it started raining, typical. I decided that I was going regardless and I had a really fun ride, fun until I hit the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was really nice weather so I decided that I was going to finish at 4 and ride up to nant. I knocked off at 4 and it started raining, typical. I decided that I was going regardless and I had a really fun ride, fun until I hit the road home anyway. I PR'd a couple of descents and wasn't far off my PRs on a lot of others, I also had a play in the skills area to see how the ebike was to ride there. It was fine, I did a couple of laps of the middle jumps and a couple of laps of the pump track and it felt good on both. That means trouble for the mega! The reason the road home wasn't much fun was because by that point my hands and feet were freezing. 
 &lt;br&gt;
 &lt;br&gt;
 It was too cold/wet to stop for a photo so instead here's a screengrab from the specialized app. The charts tab has loads more information about things such as my power output during the ride, the bikes power output during the ride, speed, elevation etc... As can be seen I used a decent whack of my 460Wh the battery gives me but I was in turbo (50%) mode for the entire ride so no surprise there.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Ride details" src="/images/day-60-photo-a-day.png"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 59 - photo a day</title><link href="/day-59-photo-a-day.html" rel="alternate"></link><published>2017-03-01T23:00:00+00:00</published><updated>2017-03-01T23:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-03-01:/day-59-photo-a-day.html</id><summary type="html">&lt;p&gt;I had the second day of Agile training today which was actually really good. It was focused on scrum and more in depth than yesterday. We got to see how to actually implement parts of it as well as theory, lots to take away. At home, I've mostly just done …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I had the second day of Agile training today which was actually really good. It was focused on scrum and more in depth than yesterday. We got to see how to actually implement parts of it as well as theory, lots to take away. At home, I've mostly just done thumbnails on this site and then worked on gamebuildr as well as an interlude for cooking. I made my own pesto following &lt;a href="https://glutenfreegoddess.blogspot.co.uk/2008/02/winter-pesto.html"&gt;a recipe by gluten goddess&lt;/a&gt;. For the herbs I used mint, basil, parsley and coriander. I also threw some tomatoes and spinach into the pasta at the end for a bit of added health.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Pasta and pesto" src="/images/day-59-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>GalliumOS wifi stopped working</title><link href="/galliumos-wifi-stopped-working.html" rel="alternate"></link><published>2017-02-28T19:11:00+00:00</published><updated>2017-02-28T19:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-28:/galliumos-wifi-stopped-working.html</id><summary type="html">&lt;p&gt;I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a while to work out last time though, lots of pulling error from dmeg and googling. I just thought that I'd make a note in case it helps someone else or I forget... It seems to be when the battery has totally drained.
+&lt;p&gt;&lt;img alt="Ride details" src="/images/day-60-photo-a-day.png"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 59 - photo a day</title><link href="/posts/2017/Mar/01/day-59-photo-a-day/" rel="alternate"></link><published>2017-03-01T23:00:00+00:00</published><updated>2017-03-01T23:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-03-01:/posts/2017/Mar/01/day-59-photo-a-day/</id><summary type="html">&lt;p&gt;I had the second day of Agile training today which was actually really good. It was focused on scrum and more in depth than yesterday. We got to see how to actually implement parts of it as well as theory, lots to take away. At home, I've mostly just done …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I had the second day of Agile training today which was actually really good. It was focused on scrum and more in depth than yesterday. We got to see how to actually implement parts of it as well as theory, lots to take away. At home, I've mostly just done thumbnails on this site and then worked on gamebuildr as well as an interlude for cooking. I made my own pesto following &lt;a href="https://glutenfreegoddess.blogspot.co.uk/2008/02/winter-pesto.html"&gt;a recipe by gluten goddess&lt;/a&gt;. For the herbs I used mint, basil, parsley and coriander. I also threw some tomatoes and spinach into the pasta at the end for a bit of added health.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pasta and pesto" src="/images/day-59-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>GalliumOS wifi stopped working</title><link href="/posts/2017/Feb/28/galliumos-wifi-stopped-working/" rel="alternate"></link><published>2017-02-28T19:11:00+00:00</published><updated>2017-02-28T19:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-28:/posts/2017/Feb/28/galliumos-wifi-stopped-working/</id><summary type="html">&lt;p&gt;I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I just fixed my chromebook (seems that the fuse in the charger had gone, so simple fix) which runs GalliumOS but on booting the wifi had stopped working. This isn't the first time that it's happened and I've fixed it before so I knew that to do. Took me a while to work out last time though, lots of pulling error from dmeg and googling. I just thought that I'd make a note in case it helps someone else or I forget... It seems to be when the battery has totally drained.
 &lt;br&gt;
 &lt;br&gt;
-The fix is pretty simple, take a look at your clock. For me this issue has always been that the clock has jumped ahead to the year 2154 which has somehow screwed up the wifi, could be messing up crypto stuff I guess? Anyway, setting the clock to manual and resetting back to today fixes it for me. Once the wifi reconnects I can set it back to sync the clock to a remote server. Seems a bit catch-22, the wifi can't connect because the date is totally invalid and the clock can't set itself because the wifi is down.  &lt;/p&gt;</content><category term="random"></category><category term="dev"></category></entry><entry><title>Adding thumbnails</title><link href="/adding-thumbnails.html" rel="alternate"></link><published>2017-02-28T18:26:00+00:00</published><updated>2017-02-28T18:26:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-28:/adding-thumbnails.html</id><summary type="html">&lt;p&gt;I sent a link to this blog to my mate and commented that  github pages were a bit slow to serve it. He replied ""shouldn't be, github pages are usually pretty snappy", he then went on to say "however, you are linking to your full sized images on the index …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I sent a link to this blog to my mate and commented that  github pages were a bit slow to serve it. He replied ""shouldn't be, github pages are usually pretty snappy", he then went on to say "however, you are linking to your full sized images on the index page". Ah, oops! Good point that... He sent me a link to a script that he'd used for generating thumbnails from existing images so I decided that I'd just hack on that and change it to my needs. Before doing that, I decided to have a bit of a Google for pelican thumbnails - it didn't seem to me that I'd be the first person to be doing this. I discovered &lt;a href="https://github.com/getpelican/pelican-plugins/tree/master/thumbnailer"&gt;pelican thumbnailer&lt;/a&gt; which looked ideal to me. 
+The fix is pretty simple, take a look at your clock. For me this issue has always been that the clock has jumped ahead to the year 2154 which has somehow screwed up the wifi, could be messing up crypto stuff I guess? Anyway, setting the clock to manual and resetting back to today fixes it for me. Once the wifi reconnects I can set it back to sync the clock to a remote server. Seems a bit catch-22, the wifi can't connect because the date is totally invalid and the clock can't set itself because the wifi is down.  &lt;/p&gt;</content><category term="random"></category><category term="dev"></category></entry><entry><title>Adding thumbnails</title><link href="/posts/2017/Feb/28/adding-thumbnails/" rel="alternate"></link><published>2017-02-28T18:26:00+00:00</published><updated>2017-02-28T18:26:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-28:/posts/2017/Feb/28/adding-thumbnails/</id><summary type="html">&lt;p&gt;I sent a link to this blog to my mate and commented that  github pages were a bit slow to serve it. He replied ""shouldn't be, github pages are usually pretty snappy", he then went on to say "however, you are linking to your full sized images on the index …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I sent a link to this blog to my mate and commented that  github pages were a bit slow to serve it. He replied ""shouldn't be, github pages are usually pretty snappy", he then went on to say "however, you are linking to your full sized images on the index page". Ah, oops! Good point that... He sent me a link to a script that he'd used for generating thumbnails from existing images so I decided that I'd just hack on that and change it to my needs. Before doing that, I decided to have a bit of a Google for pelican thumbnails - it didn't seem to me that I'd be the first person to be doing this. I discovered &lt;a href="https://github.com/getpelican/pelican-plugins/tree/master/thumbnailer"&gt;pelican thumbnailer&lt;/a&gt; which looked ideal to me. 
 &lt;br&gt;
 &lt;br&gt;
-Armed with the thumbnailer I did some testing. Yup, it generated thumbnails from my images, great! The next step was linking to these images from my posts, I decided the simple way to do this was to add a new metadata field to my posts called "Thumbnail: " just containing the path to where the thumbnail should be once generated. Well, I wasn't going to do this manually was I? I wrote a little script to find the first image in my markdown (if any) and then take the path and add a new line as detailed above. Bit of testing and all looked good. As can be seen in my photo a day posts the links work and the index page is loading much faster, at time of testing: 7.7mb down to 232kb!&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 58 - photo a day</title><link href="/day-58-photo-a-day-2017.html" rel="alternate"></link><published>2017-02-27T23:10:00+00:00</published><updated>2017-02-27T23:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-27:/day-58-photo-a-day-2017.html</id><summary type="html">&lt;p&gt;Today at work was day 1 of 2 of Agile methodology training. It's been quite good so far, filling in gaps in my knowledge. Tomorrow looks like it's more focused on scrum and will be more in depth on the actual implementation which will be good. Outside of work has …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today at work was day 1 of 2 of Agile methodology training. It's been quite good so far, filling in gaps in my knowledge. Tomorrow looks like it's more focused on scrum and will be more in depth on the actual implementation which will be good. Outside of work has not been exciting, it's been hailing on n off all day. I went to CK stores this evening and realised I haven't photo'd that yet. It's not exactly an inspiring building or of importance in my life, although I do end up going there quite often. Anyway, I like the colours in the photo so...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Ck Stores" src="/images/day-58-photo-a-day.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 57 - photo a day</title><link href="/day-57-photo-a-day.html" rel="alternate"></link><published>2017-02-27T00:00:00+00:00</published><updated>2017-02-27T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-27:/day-57-photo-a-day.html</id><summary type="html">&lt;p&gt;It's been properly windy today and even though I got ready to go riding I decided to not ride. Instead, I've been working on post automation
+Armed with the thumbnailer I did some testing. Yup, it generated thumbnails from my images, great! The next step was linking to these images from my posts, I decided the simple way to do this was to add a new metadata field to my posts called "Thumbnail: " just containing the path to where the thumbnail should be once generated. Well, I wasn't going to do this manually was I? I wrote a little script to find the first image in my markdown (if any) and then take the path and add a new line as detailed above. Bit of testing and all looked good. As can be seen in my photo a day posts the links work and the index page is loading much faster, at time of testing: 7.7mb down to 232kb!&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 58 - photo a day</title><link href="/posts/2017/Feb/27/day-58-photo-a-day-2017/" rel="alternate"></link><published>2017-02-27T23:10:00+00:00</published><updated>2017-02-27T23:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-27:/posts/2017/Feb/27/day-58-photo-a-day-2017/</id><summary type="html">&lt;p&gt;Today at work was day 1 of 2 of Agile methodology training. It's been quite good so far, filling in gaps in my knowledge. Tomorrow looks like it's more focused on scrum and will be more in depth on the actual implementation which will be good. Outside of work has …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today at work was day 1 of 2 of Agile methodology training. It's been quite good so far, filling in gaps in my knowledge. Tomorrow looks like it's more focused on scrum and will be more in depth on the actual implementation which will be good. Outside of work has not been exciting, it's been hailing on n off all day. I went to CK stores this evening and realised I haven't photo'd that yet. It's not exactly an inspiring building or of importance in my life, although I do end up going there quite often. Anyway, I like the colours in the photo so...&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ck Stores" src="/images/day-58-photo-a-day.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 57 - photo a day</title><link href="/posts/2017/Feb/27/day-57-photo-a-day/" rel="alternate"></link><published>2017-02-27T00:00:00+00:00</published><updated>2017-02-27T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-27:/posts/2017/Feb/27/day-57-photo-a-day/</id><summary type="html">&lt;p&gt;It's been properly windy today and even though I got ready to go riding I decided to not ride. Instead, I've been working on post automation
 and did a spot of gardening. My vegetable garden was somewhat overgrown, it's still not quite ready. When I had the windows replaced I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;It's been properly windy today and even though I got ready to go riding I decided to not ride. Instead, I've been working on post automation
 and did a spot of gardening. My vegetable garden was somewhat overgrown, it's still not quite ready. When I had the windows replaced I had to
 remove a bush/shrub and I put the clippings into the compost, they're a bit woody so haven't composted. That was job number one, fish all of
 that out of the heap. Job 2 was tame the brambles, which was easy enough to do with the help of some gloves. Job 3 was clearing, the lawn was
 having a good go at reclaiming the veg patch for itself so I had to pull up all of the grass and also needed to clear out a load of wood and leaves.
 I need to wait until it's dry before I can do the weeding as the soil clumps together so I can't fork it over and pull out the weeds just yet. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="/images/day-57-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Automating pelican</title><link href="/automating-python.html" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/automating-python.html</id><summary type="html">&lt;p&gt;So following on my post about &lt;a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/"&gt;moving back to pelican&lt;/a&gt; I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did …&lt;/p&gt;</summary><content type="html">&lt;p&gt;So following on my post about &lt;a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/"&gt;moving back to pelican&lt;/a&gt; I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/day-57-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Automating pelican</title><link href="/posts/2017/Feb/26/automating-python/" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/posts/2017/Feb/26/automating-python/</id><summary type="html">&lt;p&gt;So following on my post about &lt;a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/"&gt;moving back to pelican&lt;/a&gt; I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did …&lt;/p&gt;</summary><content type="html">&lt;p&gt;So following on my post about &lt;a href="http://chvck.co.uk/posts/2017/Feb/26/postachio-to-pelican/"&gt;moving back to pelican&lt;/a&gt; I needed to automate some stuff. Google wasn't quite giving me the answers that I wanted. What I wanted was a full end to end automation process, i.e. I write a post, it appears on my blog. I did a bit of thinking and decided there were 2 steps to this:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Source content and pelican creation of output&lt;/li&gt;
 &lt;li&gt;Publishing the output to github&lt;/li&gt;
@@ -38,14 +38,14 @@ Then I found &lt;a href="https://www.thefanclub.co.za/overgrive"&gt;overgrive&lt
 Final piece of the puzzle is something that means that I can write posts directly on google drive (I use markdown which google drive doesn't support). Enter &lt;a href="https://stackedit.io"&gt;stackedit&lt;/a&gt;, a web app that I can use from any online device. It lets you write markdown (even gives a live preview of the processed markdown) and save it to google drive. So, with any luck, this post is going to be saved from stackedit and it'll appear on my blog. Here we go!
 &lt;br&gt;
 &lt;br&gt;
-Edit: It works!&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 56 - photo a day</title><link href="/day-56-photo-a-day.html" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/day-56-photo-a-day.html</id><summary type="html">&lt;p&gt;The weather today wasn't great but I decided to ride anyway. I wanted to give my legs a bit of
+Edit: It works!&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 56 - photo a day</title><link href="/posts/2017/Feb/26/day-56-photo-a-day/" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/posts/2017/Feb/26/day-56-photo-a-day/</id><summary type="html">&lt;p&gt;The weather today wasn't great but I decided to ride anyway. I wanted to give my legs a bit of
 a test so decided to ride the mega again. I drove up to Nant to do a bit of a loop. I ended up doing a Pendam loop
 plus the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The weather today wasn't great but I decided to ride anyway. I wanted to give my legs a bit of
 a test so decided to ride the mega again. I drove up to Nant to do a bit of a loop. I ended up doing a Pendam loop
 plus the moorlands climb (and then back down the climb), on reaching the top of the climb I decided that it probably
 wasn't a good idea to try ride Zorro and the leg burner. I think I made the right choice, my legs were feeling pretty weak by the time
 I got to high as a kite. Still, was nice to get out and that bike feels great to ride as it's so light (relatively)!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="/images/IMG_20170225_150057023.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>From postachio to pelican</title><link href="/postachio-to-pelican.html" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/postachio-to-pelican.html</id><summary type="html">&lt;p&gt;I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
+&lt;p&gt;&lt;img alt="" src="/images/IMG_20170225_150057023.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>From postachio to pelican</title><link href="/posts/2017/Feb/26/postachio-to-pelican/" rel="alternate"></link><published>2017-02-26T00:00:00+00:00</published><updated>2017-02-26T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-26:/posts/2017/Feb/26/postachio-to-pelican/</id><summary type="html">&lt;p&gt;I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
 I can't have. Despite promises that they were going to improve things toward the end of last year things have also gone a bit …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
 I can't have. Despite promises that they were going to improve things toward the end of last year things have also gone a bit quiet.
 For this reason I decided to move back to pelican. This was not as trivial as it maybe could have been. Getting evernote posts into markdown
@@ -61,12 +61,12 @@ look for published date rather than updated date in the feed.&lt;/p&gt;
 to create an automation process so that I don't have to manually publish, I'm not sure how I'll do that yet. It'd be easy if it wasn't for the images.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Anyway, new (kinda) site, woo! I also haven't forgotten photo a day. I'm still taking the photos but I want to work out my posting workflow before posting more
-as the images are a pain. Hopefully I'll get that nailed soon.&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 55 - photo a day</title><link href="/day-55-photo-a-day.html" rel="alternate"></link><published>2017-02-25T00:00:00+00:00</published><updated>2017-02-25T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-25:/day-55-photo-a-day.html</id><summary type="html">&lt;p&gt;I knocked off work at 3 so that I could get straight up nant. As mentioned, I took my mega TR with me. The shock seems to be in less
+as the images are a pain. Hopefully I'll get that nailed soon.&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Day 55 - photo a day</title><link href="/posts/2017/Feb/25/day-55-photo-a-day/" rel="alternate"></link><published>2017-02-25T00:00:00+00:00</published><updated>2017-02-25T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-25:/posts/2017/Feb/25/day-55-photo-a-day/</id><summary type="html">&lt;p&gt;I knocked off work at 3 so that I could get straight up nant. As mentioned, I took my mega TR with me. The shock seems to be in less
 than ideal condition! Anyway, the skills area was pretty busy and I rode all of the lines. Does seem that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I knocked off work at 3 so that I could get straight up nant. As mentioned, I took my mega TR with me. The shock seems to be in less
 than ideal condition! Anyway, the skills area was pretty busy and I rode all of the lines. Does seem that I can longer remember how to
 ride jumps though... It was fun watching the people who most definitely can though and the lines are pretty friendly so attempting
 to jump doesn't result in gruesome death anyway. I also did a run of high as a kite which felt good on a much lighter bike than I usually ride!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="/images/IMG_20170224_160355227.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 54 - photo a day</title><link href="/day-54-photo-a-day.html" rel="alternate"></link><published>2017-02-24T09:13:00+00:00</published><updated>2017-02-24T09:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-24:/day-54-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;p&gt;&lt;img alt="" src="/images/IMG_20170224_160355227.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 54 - photo a day</title><link href="/posts/2017/Feb/24/day-54-photo-a-day/" rel="alternate"></link><published>2017-02-24T09:13:00+00:00</published><updated>2017-02-24T09:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-24:/posts/2017/Feb/24/day-54-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Well I was going to take a photo of the dismantled shock off my mega. It
 doesn't appear to be the same shock as the tutorial and I think I'll
@@ -99,7 +99,7 @@ decent view out over Morrisons and into the hills.
 &lt;p&gt;&lt;img alt="" src="/images/5436448f-9507-4fae-9622-ddc646a6ea09.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 53 - photo a day</title><link href="/day-53-photo-a-day.html" rel="alternate"></link><published>2017-02-23T08:46:00+00:00</published><updated>2017-02-23T08:46:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-23:/day-53-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 53 - photo a day</title><link href="/posts/2017/Feb/23/day-53-photo-a-day/" rel="alternate"></link><published>2017-02-23T08:46:00+00:00</published><updated>2017-02-23T08:46:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-23:/posts/2017/Feb/23/day-53-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Another normal day, fog still doesn't seem to have lifted from
 yesterday. Elysia was out tonight so I was sat in work wondering what to
@@ -128,7 +128,7 @@ bought some nice olive bread.
 &lt;p&gt;&lt;img alt="" src="/images/4bc85f25-dab2-479f-961e-f82058952371.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 52 - photo a day</title><link href="/day-52-photo-a-day.html" rel="alternate"></link><published>2017-02-22T08:57:00+00:00</published><updated>2017-02-22T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-22:/day-52-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 52 - photo a day</title><link href="/posts/2017/Feb/22/day-52-photo-a-day/" rel="alternate"></link><published>2017-02-22T08:57:00+00:00</published><updated>2017-02-22T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-22:/posts/2017/Feb/22/day-52-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 I actually did something different this evening, and totally forgot to
 take a photo. At least it's something that'll happen again so I can get
@@ -172,7 +172,7 @@ from the office today... This didn't lift for the entire day.
 &lt;p&gt;&lt;img alt="" src="/images/f9717fb7-901d-43cb-b55c-ed6869e82dd7.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 51 - photo a day</title><link href="/day-51-photo-a-day.html" rel="alternate"></link><published>2017-02-21T08:43:00+00:00</published><updated>2017-02-21T08:43:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-21:/day-51-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 51 - photo a day</title><link href="/posts/2017/Feb/21/day-51-photo-a-day/" rel="alternate"></link><published>2017-02-21T08:43:00+00:00</published><updated>2017-02-21T08:43:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-21:/posts/2017/Feb/21/day-51-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This is getting a bit tedious due to my day to day life just not being
 that interesting. Another day of same old, except today I baked a cake.
@@ -202,7 +202,7 @@ bottom stuck a little bit.
 &lt;p&gt;&lt;img alt="" src="/images/e085d1e1-b9e5-4905-8318-1e3a75f4e090.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 50 - photo a day</title><link href="/day-50-photo-a-day.html" rel="alternate"></link><published>2017-02-20T17:09:00+00:00</published><updated>2017-02-20T17:09:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-20:/day-50-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 50 - photo a day</title><link href="/posts/2017/Feb/20/day-50-photo-a-day/" rel="alternate"></link><published>2017-02-20T17:09:00+00:00</published><updated>2017-02-20T17:09:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-20:/posts/2017/Feb/20/day-50-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 I've spent most of today working on gamebuildr so haven't had anything
 exciting to photo. Elysia got given some raw wool recently and she
@@ -231,7 +231,7 @@ Anyway, a bath tub full of wool.
 &lt;p&gt;&lt;img alt="" src="/images/a6efcfea-9946-4599-b33e-dcf3247bbc6a.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 49 - photo a day</title><link href="/day-49-photo-a-day.html" rel="alternate"></link><published>2017-02-19T10:14:00+00:00</published><updated>2017-02-19T10:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-19:/day-49-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 49 - photo a day</title><link href="/posts/2017/Feb/19/day-49-photo-a-day/" rel="alternate"></link><published>2017-02-19T10:14:00+00:00</published><updated>2017-02-19T10:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-19:/posts/2017/Feb/19/day-49-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today has been quite glorious weather so I decided this morning that I
 was going riding. I hadn't fully planned on where just that I might try
@@ -260,7 +260,7 @@ did 57.5km with 2450m elevation gain so happy enough!
 &lt;p&gt;&lt;img alt="" src="/images/d230f0f2-210d-4581-bb2e-e7cd0abfda1f.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 48 - photo a day</title><link href="/day-48-photo-a-day.html" rel="alternate"></link><published>2017-02-18T08:53:00+00:00</published><updated>2017-02-18T08:53:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-18:/day-48-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 48 - photo a day</title><link href="/posts/2017/Feb/18/day-48-photo-a-day/" rel="alternate"></link><published>2017-02-18T08:53:00+00:00</published><updated>2017-02-18T08:53:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-18:/posts/2017/Feb/18/day-48-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 For a while now I've been looking at sleep trackers with an eye to try
 improve my sleep by working out ideal sleep lengths etc... I've been
@@ -355,7 +355,7 @@ I am!&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/df4ebd94-cd3e-4a18-bf9f-0534b4b5cb1e.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 47 - photo a day</title><link href="/day-47-photo-a-day.html" rel="alternate"></link><published>2017-02-17T08:22:00+00:00</published><updated>2017-02-17T08:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-17:/day-47-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 47 - photo a day</title><link href="/posts/2017/Feb/17/day-47-photo-a-day/" rel="alternate"></link><published>2017-02-17T08:22:00+00:00</published><updated>2017-02-17T08:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-17:/posts/2017/Feb/17/day-47-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This morning I was sat in work looking out wishing I was riding my bike,
 the weather was great. I decided that I was going out after work for
@@ -390,7 +390,7 @@ push myself much. Hills were no problem though, just a bit slow!
 &lt;p&gt;&lt;img alt="" src="/images/552a9ac0-7c22-4fa7-a96e-12ce77c3df53.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 46 - photo a day</title><link href="/day-46-photo-a-day.html" rel="alternate"></link><published>2017-02-16T16:19:00+00:00</published><updated>2017-02-16T16:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-16:/day-46-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 46 - photo a day</title><link href="/posts/2017/Feb/16/day-46-photo-a-day/" rel="alternate"></link><published>2017-02-16T16:19:00+00:00</published><updated>2017-02-16T16:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-16:/posts/2017/Feb/16/day-46-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Well, definitely nothing of interest today. Here's a photo of Mexican
 stuffed Portobello mushrooms! Very tasty they were too.
@@ -430,7 +430,7 @@ stuffed Portobello mushrooms! Very tasty they were too.
 &lt;p&gt;&lt;img alt="" src="/images/976d6a15-2f9b-47c3-8c1e-f413d1876810.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 45 - photo a day</title><link href="/day-45-photo-a-day.html" rel="alternate"></link><published>2017-02-14T15:42:00+00:00</published><updated>2017-02-14T15:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-14:/day-45-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 45 - photo a day</title><link href="/posts/2017/Feb/14/day-45-photo-a-day/" rel="alternate"></link><published>2017-02-14T15:42:00+00:00</published><updated>2017-02-14T15:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-14:/posts/2017/Feb/14/day-45-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This one isn't a happy fun time photo but part of the point of this was
 as a partial ongoing log. It's an incontinence bed protector pad thing.
@@ -473,7 +473,7 @@ and be more regimented. No caffeine in the afternoon and no drinks after
 &lt;p&gt;&lt;img alt="" src="/images/c76c0660-3880-4c47-a21e-90a77edb5eb3.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 44 - photo a day</title><link href="/day-44-photo-a-day.html" rel="alternate"></link><published>2017-02-14T09:38:00+00:00</published><updated>2017-02-14T09:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-14:/day-44-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 44 - photo a day</title><link href="/posts/2017/Feb/14/day-44-photo-a-day/" rel="alternate"></link><published>2017-02-14T09:38:00+00:00</published><updated>2017-02-14T09:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-14:/posts/2017/Feb/14/day-44-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 My most recent bike purchase. I'm trying to get as many tools etc... on
 the bike as I can so that I can do most rides without a bag. I have the
@@ -505,7 +505,7 @@ everything I need for a trailside repair.
 &lt;p&gt;&lt;img alt="" src="/images/9829f568-6d7e-4866-bbe0-641f42747fb0.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 43 - photo a day</title><link href="/day-43-photo-a-day.html" rel="alternate"></link><published>2017-02-13T10:44:00+00:00</published><updated>2017-02-13T10:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/day-43-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 43 - photo a day</title><link href="/posts/2017/Feb/13/day-43-photo-a-day/" rel="alternate"></link><published>2017-02-13T10:44:00+00:00</published><updated>2017-02-13T10:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/posts/2017/Feb/13/day-43-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Got to bed at 5:30 this morning having spent a lot of the night
 discussing which half of the body should be fish in a merman/mermaid and
@@ -533,7 +533,7 @@ home...
 &lt;p&gt;&lt;img alt="" src="/images/a7fd31b8-9110-40d1-a2be-2354ddb9f236.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 42 - photo a day</title><link href="/day-42-photo-a-day.html" rel="alternate"></link><published>2017-02-13T10:43:00+00:00</published><updated>2017-02-13T10:43:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/day-42-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 42 - photo a day</title><link href="/posts/2017/Feb/13/day-42-photo-a-day/" rel="alternate"></link><published>2017-02-13T10:43:00+00:00</published><updated>2017-02-13T10:43:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/posts/2017/Feb/13/day-42-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Ben and I made a trip into the Malverns on our bikes, we gave up at the
 top of the first hill. A bit too much beer was consumed last night!
@@ -560,7 +560,7 @@ watching the rugby and then drinking/eating.
 &lt;p&gt;&lt;img alt="" src="/images/628f4bad-28a4-487d-a024-c991ecd6978f.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 41 - photo a day</title><link href="/day-41-photo-a-day.html" rel="alternate"></link><published>2017-02-13T10:41:00+00:00</published><updated>2017-02-13T10:41:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/day-41-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 41 - photo a day</title><link href="/posts/2017/Feb/13/day-41-photo-a-day/" rel="alternate"></link><published>2017-02-13T10:41:00+00:00</published><updated>2017-02-13T10:41:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-13:/posts/2017/Feb/13/day-41-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This weekend we're celebrating Ed's 30th birthday. We've booked an old
 manor house just next to the Malvern Hills, the house is rather
@@ -602,7 +602,7 @@ impressive...
 &lt;p&gt;&lt;img alt="" src="/images/021f51a4-8a9e-4792-b227-3da79b6994bb.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 40 - photo a day</title><link href="/day-40-photo-a-day.html" rel="alternate"></link><published>2017-02-10T08:12:00+00:00</published><updated>2017-02-10T08:12:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-10:/day-40-photo-a-day.html</id><summary type="html">&lt;p&gt;Elysia and I went out for food tonight, we'd both wanted to go to
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 40 - photo a day</title><link href="/posts/2017/Feb/10/day-40-photo-a-day/" rel="alternate"></link><published>2017-02-10T08:12:00+00:00</published><updated>2017-02-10T08:12:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-10:/posts/2017/Feb/10/day-40-photo-a-day/</id><summary type="html">&lt;p&gt;Elysia and I went out for food tonight, we'd both wanted to go to
 &lt;a href="https://pysgoty.co.uk/home/"&gt;Pystgoty fish restaurant&lt;/a&gt; for a while so
 we finally got round to booking and went. I knew that the place was
 small but it really is tiny! Four two person tables in a row is the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Elysia and I went out for food tonight, we'd both wanted to go to
@@ -618,7 +618,7 @@ both tasty, I probably could have just eaten the fish soup all night it
 was amazing. Anyway, here's a hake bake.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/388722fa-bcd5-4b1d-bd8e-6884b13a2bf1.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 39 - photo a day</title><link href="/day-39-photo-a-day.html" rel="alternate"></link><published>2017-02-09T09:57:00+00:00</published><updated>2017-02-09T09:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-09:/day-39-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 39 - photo a day</title><link href="/posts/2017/Feb/09/day-39-photo-a-day/" rel="alternate"></link><published>2017-02-09T09:57:00+00:00</published><updated>2017-02-09T09:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-09:/posts/2017/Feb/09/day-39-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 As I've done \~800km on the levo now I felt like it was probably about
 (past) time to service the shock and forks. Nothing hugely involved,
@@ -647,7 +647,7 @@ that it's actually the saddle!
 &lt;p&gt;&lt;img alt="" src="/images/37d27987-d9d0-4ff0-b0b0-afbb61d26628.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 38 - photo a day</title><link href="/day-38-photo-a-day.html" rel="alternate"></link><published>2017-02-08T08:51:00+00:00</published><updated>2017-02-08T08:51:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-08:/day-38-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 38 - photo a day</title><link href="/posts/2017/Feb/08/day-38-photo-a-day/" rel="alternate"></link><published>2017-02-08T08:51:00+00:00</published><updated>2017-02-08T08:51:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-08:/posts/2017/Feb/08/day-38-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This is getting difficult now, once again I've done nothing of interest
 today so nothing interesting to photograph either. I started making the
@@ -675,7 +675,7 @@ form of point to one end of each but then we're good to go.
 &lt;p&gt;&lt;img alt="" src="/images/637c1753-d90c-433e-90fb-0b13f9cc6a69.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 37 - photo a day</title><link href="/day-37-photo-a-day.html" rel="alternate"></link><published>2017-02-06T22:01:00+00:00</published><updated>2017-02-06T22:01:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-06:/day-37-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 37 - photo a day</title><link href="/posts/2017/Feb/06/day-37-photo-a-day/" rel="alternate"></link><published>2017-02-06T22:01:00+00:00</published><updated>2017-02-06T22:01:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-06:/posts/2017/Feb/06/day-37-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Not a whole lot to say about today... I left work quite late and picked
 Elysia up from work so decided to pop into Coffee No.1 whilst I waited
@@ -702,7 +702,7 @@ americano and it was pretty tasty, the staff were really nice too.
 &lt;p&gt;&lt;img alt="" src="/images/cf800f13-1eb3-4019-a9d4-f8fc8660e860.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 36 - photo a day</title><link href="/day-36-photo-a-day.html" rel="alternate"></link><published>2017-02-05T21:23:00+00:00</published><updated>2017-02-05T21:23:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-05:/day-36-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 36 - photo a day</title><link href="/posts/2017/Feb/05/day-36-photo-a-day/" rel="alternate"></link><published>2017-02-05T21:23:00+00:00</published><updated>2017-02-05T21:23:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-05:/posts/2017/Feb/05/day-36-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 For Christmas I got Elysia some giant wool to make a blanket with. Today
 we decided to have a go with it and see what's what. We tried a bit of
@@ -731,7 +731,7 @@ I'll cut that in half and we can use that.
 &lt;p&gt;&lt;img alt="" src="/images/7fc8a1b5-d013-4d71-b245-0fb70424265d.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 35 - photo a day</title><link href="/day-35-photo-a-day.html" rel="alternate"></link><published>2017-02-05T08:57:00+00:00</published><updated>2017-02-05T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-05:/day-35-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 35 - photo a day</title><link href="/posts/2017/Feb/05/day-35-photo-a-day/" rel="alternate"></link><published>2017-02-05T08:57:00+00:00</published><updated>2017-02-05T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-05:/posts/2017/Feb/05/day-35-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Went for a ride out to nant-y-moch today, it was really low which was
 odd. I'm still wondering why. The new tyres feel pretty awesome,
@@ -773,7 +773,7 @@ definitely preferring them to the plus tyres.
 &lt;p&gt;&lt;img alt="" src="/images/ca39dbfd-9c8e-4d50-a022-b10dea3f7227.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 34 - photo a day</title><link href="/day-34-photo-a-day.html" rel="alternate"></link><published>2017-02-03T23:27:00+00:00</published><updated>2017-02-03T23:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-03:/day-34-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 34 - photo a day</title><link href="/posts/2017/Feb/03/day-34-photo-a-day/" rel="alternate"></link><published>2017-02-03T23:27:00+00:00</published><updated>2017-02-03T23:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-03:/posts/2017/Feb/03/day-34-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 You can probably imagine how happy I was to find cake recipes in the oms
 cookbook. I had a flick through and decided to make an orange cake
@@ -817,8 +817,8 @@ normal cake so definitely happy!
 &lt;p&gt;&lt;img alt="" src="/images/a2dad257-ca77-4c00-a491-091f23424740.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 62 - photo a day</title><link href="/day-62-photo-a-day-2017.html" rel="alternate"></link><published>2017-02-03T23:10:00+00:00</published><updated>2017-02-03T23:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-03:/day-62-photo-a-day-2017.html</id><summary type="html">&lt;p&gt;Today was another fairly typical day at work although we've decided to adopt agile for the next 4 weeks, so 2 sprints. This afternoon we spent a while creating a product backlog. Should be cool to see how this goes! After work I went to the tip to get rid …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was another fairly typical day at work although we've decided to adopt agile for the next 4 weeks, so 2 sprints. This afternoon we spent a while creating a product backlog. Should be cool to see how this goes! After work I went to the tip to get rid of all the stuff I pulled out of the veg garden the other day. The photo is actually of something that came yesterday. I decided to buy the book of Dune after watching the original film again the other day. I started reading it last night but made it about 2 pages in before my mind did that wandering into sleep thing.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Dune the book" src="/images/day-62-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 33 - photo a day</title><link href="/day-33-photo-a-day.html" rel="alternate"></link><published>2017-02-02T22:55:00+00:00</published><updated>2017-02-02T22:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-02:/day-33-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 62 - photo a day</title><link href="/posts/2017/Feb/03/day-62-photo-a-day-2017/" rel="alternate"></link><published>2017-02-03T23:10:00+00:00</published><updated>2017-02-03T23:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-03:/posts/2017/Feb/03/day-62-photo-a-day-2017/</id><summary type="html">&lt;p&gt;Today was another fairly typical day at work although we've decided to adopt agile for the next 4 weeks, so 2 sprints. This afternoon we spent a while creating a product backlog. Should be cool to see how this goes! After work I went to the tip to get rid …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was another fairly typical day at work although we've decided to adopt agile for the next 4 weeks, so 2 sprints. This afternoon we spent a while creating a product backlog. Should be cool to see how this goes! After work I went to the tip to get rid of all the stuff I pulled out of the veg garden the other day. The photo is actually of something that came yesterday. I decided to buy the book of Dune after watching the original film again the other day. I started reading it last night but made it about 2 pages in before my mind did that wandering into sleep thing.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Dune the book" src="/images/day-62-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 33 - photo a day</title><link href="/posts/2017/Feb/02/day-33-photo-a-day/" rel="alternate"></link><published>2017-02-02T22:55:00+00:00</published><updated>2017-02-02T22:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-02:/posts/2017/Feb/02/day-33-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 The 50mph gusts showing on the weather forecasts should have put me off
 riding, but they didn't. I didn't quite get as far as nant, I couldn't
@@ -846,7 +846,7 @@ Anyway, there was a big rainbow!
 &lt;p&gt;&lt;img alt="" src="/images/12521acc-ad98-44ca-a535-1a786fd9d138.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 32 - photo a day</title><link href="/day-32-photo-a-day.html" rel="alternate"></link><published>2017-02-01T21:48:00+00:00</published><updated>2017-02-01T21:48:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-01:/day-32-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 32 - photo a day</title><link href="/posts/2017/Feb/01/day-32-photo-a-day/" rel="alternate"></link><published>2017-02-01T21:48:00+00:00</published><updated>2017-02-01T21:48:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-01:/posts/2017/Feb/01/day-32-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Woo, completed a month! Not sure how I'm going to manage another 11...
 Anyway, a few(couple of?) months ago I lent a neighbour my bottle capper
@@ -875,7 +875,7 @@ again...
 &lt;p&gt;&lt;img alt="" src="/images/eebc7cfa-f545-4d51-b1d3-f5b6df53ff93.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 31 - photo a day</title><link href="/day-31-photo-a-day.html" rel="alternate"></link><published>2017-02-01T08:47:00+00:00</published><updated>2017-02-01T08:47:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-01:/day-31-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 31 - photo a day</title><link href="/posts/2017/Feb/01/day-31-photo-a-day/" rel="alternate"></link><published>2017-02-01T08:47:00+00:00</published><updated>2017-02-01T08:47:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-02-01:/posts/2017/Feb/01/day-31-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 I pre-ordered this cookbook at the beginning of January and it arrived
 at 7pm on Sunday (!). I've had a flick through and there are loads of
@@ -903,7 +903,7 @@ need to vet to see if they meet my requirements.
 &lt;p&gt;&lt;img alt="" src="/images/ea5518ff-2d9d-4d60-809e-6932ed3d880a.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 30 - photo a day</title><link href="/day-30-photo-a-day.html" rel="alternate"></link><published>2017-01-31T07:50:00+00:00</published><updated>2017-01-31T07:50:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-31:/day-30-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 30 - photo a day</title><link href="/posts/2017/Jan/31/day-30-photo-a-day/" rel="alternate"></link><published>2017-01-31T07:50:00+00:00</published><updated>2017-01-31T07:50:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-31:/posts/2017/Jan/31/day-30-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Another normal day. This evening we made \[Moroccan spiced
 pie\](&lt;http://www.bbcgoodfood.com/recipes/2295/moroccan-spiced-pie&gt;)
@@ -949,7 +949,7 @@ it before pouring that mix over the pie.
 &lt;p&gt;&lt;img alt="" src="/images/5c87bd23-45f9-44cf-9830-824ee7e643bc.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 29 - photo a day</title><link href="/day-29-photo-a-day.html" rel="alternate"></link><published>2017-01-29T20:08:00+00:00</published><updated>2017-01-29T20:08:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-29:/day-29-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 29 - photo a day</title><link href="/posts/2017/Jan/29/day-29-photo-a-day/" rel="alternate"></link><published>2017-01-29T20:08:00+00:00</published><updated>2017-01-29T20:08:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-29:/posts/2017/Jan/29/day-29-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today I went back to near Oswestry for a meal at Plas yn dinas in
 Llanfechain with my family and my Dad's ladyfriend's family so that
@@ -977,7 +977,7 @@ cakes and then tempura battered sea bass. Would recommend for sure.
 &lt;p&gt;&lt;img alt="" src="/images/5cda4920-d85b-4671-aad9-03bd9784ec73.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 28 - photo a day</title><link href="/day-28-photo-a-day.html" rel="alternate"></link><published>2017-01-28T18:58:00+00:00</published><updated>2017-01-28T18:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-28:/day-28-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 28 - photo a day</title><link href="/posts/2017/Jan/28/day-28-photo-a-day/" rel="alternate"></link><published>2017-01-28T18:58:00+00:00</published><updated>2017-01-28T18:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-28:/posts/2017/Jan/28/day-28-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 For my 30th one of the presents that my family got me was a framed beano
 comic that was released the day that I was born. I used to read the
@@ -1007,7 +1007,7 @@ with it. Anyway, today I decided to get round to hanging it.
 &lt;p&gt;&lt;img alt="" src="/images/7ec5f7f3-706c-45c1-84ef-7355e927ae6f.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 27 -photo a day</title><link href="/day-27-photo-a-day.html" rel="alternate"></link><published>2017-01-28T08:57:00+00:00</published><updated>2017-01-28T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-28:/day-27-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 27 -photo a day</title><link href="/posts/2017/Jan/28/day-27-photo-a-day/" rel="alternate"></link><published>2017-01-28T08:57:00+00:00</published><updated>2017-01-28T08:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-28:/posts/2017/Jan/28/day-27-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Despite this being the view from the car park at the nant visitor centre
 it's not one I often go to see. I don't tend to drive up there and when
@@ -1031,7 +1031,7 @@ I'm pretty sure the new tyres are faster too.
 &lt;p&gt;&lt;img alt="" src="/images/35ff9d96-fe84-4dc0-ad6d-7bb623176bf6.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 26 - photo a day</title><link href="/day-26-photo-a-day.html" rel="alternate"></link><published>2017-01-26T23:23:00+00:00</published><updated>2017-01-26T23:23:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-26:/day-26-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 26 - photo a day</title><link href="/posts/2017/Jan/26/day-26-photo-a-day/" rel="alternate"></link><published>2017-01-26T23:23:00+00:00</published><updated>2017-01-26T23:23:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-26:/posts/2017/Jan/26/day-26-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Lately I've been questioning if I eat enough calories during a normal
 day. I tend to just eat two (big) meals a day plus a bit of fruit as a
@@ -1068,7 +1068,7 @@ baked for a bit longer but that's something I know for next time.
 &lt;p&gt;&lt;img alt="" src="/images/e999c75d-0d5b-4cbb-91a6-c458ad71aa9e.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 25 - photo a day</title><link href="/day-25-photo-a-day.html" rel="alternate"></link><published>2017-01-25T23:13:00+00:00</published><updated>2017-01-25T23:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-25:/day-25-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 25 - photo a day</title><link href="/posts/2017/Jan/25/day-25-photo-a-day/" rel="alternate"></link><published>2017-01-25T23:13:00+00:00</published><updated>2017-01-25T23:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-25:/posts/2017/Jan/25/day-25-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 New rubber! I've been riding 3.0" purgatorys on the ebike and whilst
 theyre generally pretty good I wanted to try something more square in
@@ -1110,7 +1110,7 @@ look tiny in the bike compared to the 3s!
 &lt;p&gt;&lt;img alt="" src="/images/c0189835-8288-4cbb-8ef8-59eaa78f72c6.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 24 - photo a day</title><link href="/day-24-photo-a-day.html" rel="alternate"></link><published>2017-01-24T18:34:00+00:00</published><updated>2017-01-24T18:34:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-24:/day-24-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 24 - photo a day</title><link href="/posts/2017/Jan/24/day-24-photo-a-day/" rel="alternate"></link><published>2017-01-24T18:34:00+00:00</published><updated>2017-01-24T18:34:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-24:/posts/2017/Jan/24/day-24-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 When I got in from riding yesterday I was in a somewhat productive mood
 and wound up starting to clean the oven. I bought some oven price quite
@@ -1134,7 +1134,7 @@ shinier... The grime that came off the racks is pretty horrible!
 &lt;p&gt;&lt;img alt="" src="/images/b3bc2978-2255-4d74-82ae-65f20c6bdea1.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 23 - photo a day</title><link href="/day-23-photo-a-day.html" rel="alternate"></link><published>2017-01-23T20:22:00+00:00</published><updated>2017-01-23T20:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-23:/day-23-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 23 - photo a day</title><link href="/posts/2017/Jan/23/day-23-photo-a-day/" rel="alternate"></link><published>2017-01-23T20:22:00+00:00</published><updated>2017-01-23T20:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-23:/posts/2017/Jan/23/day-23-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 How better to finish off a three day weekend than a ride in the Dyfi
 forest? I headed over with Bean and Steph today and we rode some of our
@@ -1163,7 +1163,7 @@ and mostly sunny.
 &lt;p&gt;&lt;img alt="" src="/images/cd596985-d526-41b2-a2c3-2912d602c5d0.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 22 - photo a day</title><link href="/day-22-photo-a-day.html" rel="alternate"></link><published>2017-01-23T08:41:00+00:00</published><updated>2017-01-23T08:41:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-23:/day-22-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I went to ride the masochists trail at myherin with Ben, Rich,
+&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 22 - photo a day</title><link href="/posts/2017/Jan/23/day-22-photo-a-day/" rel="alternate"></link><published>2017-01-23T08:41:00+00:00</published><updated>2017-01-23T08:41:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-23:/posts/2017/Jan/23/day-22-photo-a-day/</id><summary type="html">&lt;p&gt;Today I went to ride the masochists trail at myherin with Ben, Rich,
 Bean and Steph. It was great, the trails were running well and even the
 tech climbs seem to have been smoothed out a bit. The weather was cold
 but dry, there were patches dusted with snow. The …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today I went to ride the masochists trail at myherin with Ben, Rich,
@@ -1176,7 +1176,7 @@ from the top at cefn croes windfarm, so here are some.&lt;/p&gt;
 &lt;img alt="" src="/images/fbdb5060-01eb-40ba-b750-557d161082fb.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/a647e3d3-70eb-4716-ad96-fbc2a4aec0a6.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Day 21 - photo a day</title><link href="/day-21-photo-a-day.html" rel="alternate"></link><published>2017-01-22T17:19:00+00:00</published><updated>2017-01-22T17:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-22:/day-21-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Day 21 - photo a day</title><link href="/posts/2017/Jan/22/day-21-photo-a-day/" rel="alternate"></link><published>2017-01-22T17:19:00+00:00</published><updated>2017-01-22T17:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-22:/posts/2017/Jan/22/day-21-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 I actually missed this one. I dropped my phone in the toilet so it was
 turned off for most of the day try to dry it out, I then forgot to take
@@ -1202,7 +1202,7 @@ instead, that can go in its place.
 &lt;p&gt;&lt;img alt="" src="/images/7195e08d-819f-4b24-a833-debdd083f3c2.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 20 - photo a day</title><link href="/day-20-photo-a-day.html" rel="alternate"></link><published>2017-01-20T23:21:00+00:00</published><updated>2017-01-20T23:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-20:/day-20-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 20 - photo a day</title><link href="/posts/2017/Jan/20/day-20-photo-a-day/" rel="alternate"></link><published>2017-01-20T23:21:00+00:00</published><updated>2017-01-20T23:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-20:/posts/2017/Jan/20/day-20-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 This weekend is the dyfi winter warm-up, but I'm not riding it. Bean and
 Steph entered but he messaged me a couple of weeks ago saying that we
@@ -1226,7 +1226,7 @@ Steph tomorrow night. Ben is here now, sooo
 &lt;p&gt;&lt;img alt="" src="/images/77a598ae-a643-46bc-a5e2-fc3595ed380c.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 19 - photo a day</title><link href="/day-19-photo-a-day.html" rel="alternate"></link><published>2017-01-19T19:42:00+00:00</published><updated>2017-01-19T19:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-19:/day-19-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 19 - photo a day</title><link href="/posts/2017/Jan/19/day-19-photo-a-day/" rel="alternate"></link><published>2017-01-19T19:42:00+00:00</published><updated>2017-01-19T19:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-19:/posts/2017/Jan/19/day-19-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today is Elysia's birthday. I'm cooking jerk salmon with steamed
 veggies, salad and roasted sweet potatoes which should be nice. For her
@@ -1252,7 +1252,7 @@ it!
 &lt;p&gt;&lt;img alt="" src="/images/f1651b43-7121-4638-8835-15446201419e.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 18 - photo a day</title><link href="/day-18-photo-a-day.html" rel="alternate"></link><published>2017-01-19T09:21:00+00:00</published><updated>2017-01-19T09:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-19:/day-18-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 18 - photo a day</title><link href="/posts/2017/Jan/19/day-18-photo-a-day/" rel="alternate"></link><published>2017-01-19T09:21:00+00:00</published><updated>2017-01-19T09:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-19:/posts/2017/Jan/19/day-18-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Elysia's birthday tomorrow so we went out with some of her friends for
 food. We went to Casablanca and this time I decided to try the grilled
@@ -1275,7 +1275,7 @@ Service as ever was also great, a nice evening.
 &lt;p&gt;&lt;img alt="" src="/images/60aaf245-1fe7-47fb-9737-35eecedbeee2.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 17 - photo a day</title><link href="/day-17-photo-a-day.html" rel="alternate"></link><published>2017-01-18T08:49:00+00:00</published><updated>2017-01-18T08:49:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-18:/day-17-photo-a-day.html</id><summary type="html">&lt;p&gt;A pretty standard day really so not much exciting again. 2 litres of
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 17 - photo a day</title><link href="/posts/2017/Jan/18/day-17-photo-a-day/" rel="alternate"></link><published>2017-01-18T08:49:00+00:00</published><updated>2017-01-18T08:49:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-18:/posts/2017/Jan/18/day-17-photo-a-day/</id><summary type="html">&lt;p&gt;A pretty standard day really so not much exciting again. 2 litres of
 cold pressed flaxseed oil! I've frozen 1.75 litres of it as it doesn't
 keep for long. Why? That [oms diet] (http://overcomingms.org) again,
 flaxseed oil is very high in omega 3 fats and they recommend …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A pretty standard day really so not much exciting again. 2 litres of
@@ -1289,7 +1289,7 @@ nutty, and it doesn't coat your mouth in a film like some other oils
 would do at least it's easy to take.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/da71cea7-ce2c-4e38-a2a6-8632434a166d.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 16 - photo a day</title><link href="/day-16-photo-a-day.html" rel="alternate"></link><published>2017-01-16T20:52:00+00:00</published><updated>2017-01-16T20:52:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-16:/day-16-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 16 - photo a day</title><link href="/posts/2017/Jan/16/day-16-photo-a-day/" rel="alternate"></link><published>2017-01-16T20:52:00+00:00</published><updated>2017-01-16T20:52:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-16:/posts/2017/Jan/16/day-16-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 I've spent today off work being ill so done not a whole lot. This
 evening I decided to do something non-strenuous and make some hummus and
@@ -1331,7 +1331,7 @@ chapatis. Never made chapatis before, worked out pretty well!
 &lt;p&gt;&lt;img alt="" src="/images/8c312a85-9f86-45ee-8c4d-c17e0975eae7.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 15 - photo a day</title><link href="/day-15-photo-a-day.html" rel="alternate"></link><published>2017-01-15T19:44:00+00:00</published><updated>2017-01-15T19:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-15:/day-15-photo-a-day.html</id><summary type="html">&lt;p&gt;I spent a fair bit of yesterday afternoon and most of today getting
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 15 - photo a day</title><link href="/posts/2017/Jan/15/day-15-photo-a-day/" rel="alternate"></link><published>2017-01-15T19:44:00+00:00</published><updated>2017-01-15T19:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-15:/posts/2017/Jan/15/day-15-photo-a-day/</id><summary type="html">&lt;p&gt;I spent a fair bit of yesterday afternoon and most of today getting
 Unreal Editor 4 to run so there's no way it's not going to be my photo a
 day! I started out in fedora 24 and kept getting the error
 &lt;code&gt;LLVM triggered Diagnostic Handler: unsupported call to function …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;I spent a fair bit of yesterday afternoon and most of today getting
@@ -1366,7 +1366,7 @@ it works.&lt;/p&gt;
 Here it is in all of its glory.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/baad1805-257b-4982-9459-60e0aee357f2.png"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="gamedev"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 14 - photo a day</title><link href="/day-14-photo-a-day.html" rel="alternate"></link><published>2017-01-14T15:09:00+00:00</published><updated>2017-01-14T15:09:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-14:/day-14-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="gamedev"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 14 - photo a day</title><link href="/posts/2017/Jan/14/day-14-photo-a-day/" rel="alternate"></link><published>2017-01-14T15:09:00+00:00</published><updated>2017-01-14T15:09:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-14:/posts/2017/Jan/14/day-14-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today I went for a ride with Paul, general idea I had in mind was to
 ride toboggan and secret descent stopping off at some local woods on the
@@ -1404,7 +1404,7 @@ to just mess about!
 &lt;p&gt;&lt;img alt="" src="/images/53d67865-3c5c-4768-a022-1c5af60c0d4b.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 13 - photo a day</title><link href="/day-13-photo-a-day.html" rel="alternate"></link><published>2017-01-13T20:58:00+00:00</published><updated>2017-01-13T20:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-13:/day-13-photo-a-day.html</id><summary type="html">&lt;p&gt;Another screenshot today! Taking a bit of a break and working on my
+&lt;/p&gt;</content><category term="riding"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 13 - photo a day</title><link href="/posts/2017/Jan/13/day-13-photo-a-day/" rel="alternate"></link><published>2017-01-13T20:58:00+00:00</published><updated>2017-01-13T20:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-13:/posts/2017/Jan/13/day-13-photo-a-day/</id><summary type="html">&lt;p&gt;Another screenshot today! Taking a bit of a break and working on my
 game, Bloom. It's very simple, move the ball left and right and finish
 in the shortest time possible. There are several tile types to
 assist/hamper in the journey and if fall off the edge or down …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Another screenshot today! Taking a bit of a break and working on my
@@ -1417,7 +1417,7 @@ at time of writing. Webgl also isn't the most amazing platform so expect
 some hiccups!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/7b0be1f8-c9e1-44ac-9e11-cfbb30560ca8.png"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="gamedev"></category><category term="dirty-casuals"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 12 - photo a day</title><link href="/day-12-photo-a-day.html" rel="alternate"></link><published>2017-01-12T17:44:00+00:00</published><updated>2017-01-12T17:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-12:/day-12-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="gamedev"></category><category term="dirty-casuals"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 12 - photo a day</title><link href="/posts/2017/Jan/12/day-12-photo-a-day/" rel="alternate"></link><published>2017-01-12T17:44:00+00:00</published><updated>2017-01-12T17:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-12:/posts/2017/Jan/12/day-12-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Screenshots count as photos right? Well, I think that they do. Well this
 one is the results of my vitamin d test. The overcomingms book says that
@@ -1444,7 +1444,7 @@ should be pretty easy to boost it a touch more.
 &lt;p&gt;&lt;img alt="" src="/images/4ba163e8-2317-4408-b4c0-494bd2d396c8.png"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 11 - photo a day</title><link href="/day-11-photo-a-day.html" rel="alternate"></link><published>2017-01-11T22:10:00+00:00</published><updated>2017-01-11T22:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-11:/day-11-photo-a-day.html</id><summary type="html">&lt;p&gt;Yeah, food is probably going to end up featuring quite heavily in this.
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 11 - photo a day</title><link href="/posts/2017/Jan/11/day-11-photo-a-day/" rel="alternate"></link><published>2017-01-11T22:10:00+00:00</published><updated>2017-01-11T22:10:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-11:/posts/2017/Jan/11/day-11-photo-a-day/</id><summary type="html">&lt;p&gt;Yeah, food is probably going to end up featuring quite heavily in this.
 Tonight I decided that I could get away with it as this is something I
 hadn't made in a really long time - &lt;a href="http://www.bbc.co.uk/food/recipes/seabassandsalmoncevi_87098"&gt;salmon
 ceviche&lt;/a&gt;.
@@ -1457,7 +1457,7 @@ The salmon was done nicely, "cooked" outside and raw in middle. This
 might sound stupid but it was a bit too citrusy for me to eat much of.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/53610cc8-1442-4abc-b71a-000cb4cd2196.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 10 - photo a day</title><link href="/day-10-photo-a-day.html" rel="alternate"></link><published>2017-01-10T22:34:00+00:00</published><updated>2017-01-10T22:34:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-10:/day-10-photo-a-day.html</id><summary type="html">&lt;p&gt;Tonight I baked some brownies from an &lt;a href="https://overcomingms.org/recovery-program/recipes/sweets-desserts/chocolate-brownies-2/"&gt;overcomingms
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 10 - photo a day</title><link href="/posts/2017/Jan/10/day-10-photo-a-day/" rel="alternate"></link><published>2017-01-10T22:34:00+00:00</published><updated>2017-01-10T22:34:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-10:/posts/2017/Jan/10/day-10-photo-a-day/</id><summary type="html">&lt;p&gt;Tonight I baked some brownies from an &lt;a href="https://overcomingms.org/recovery-program/recipes/sweets-desserts/chocolate-brownies-2/"&gt;overcomingms
 recipe&lt;/a&gt;.
 It's almost actually not bad for you I think. The taste is quite nice,
 it's not very sweet and it's fairly heavy. Next time I think I'll add
@@ -1470,7 +1470,7 @@ chopped oranges to give it pockets of sweetness. All in, pretty good
 result for a first making, a good base to build off.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="OMS brownies" src="/images/4b5858c6-1187-4750-a21a-c5952f95e27b.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 9 - photo a day</title><link href="/day-9-photo-a-day.html" rel="alternate"></link><published>2017-01-09T23:22:00+00:00</published><updated>2017-01-09T23:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-09:/day-9-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 9 - photo a day</title><link href="/posts/2017/Jan/09/day-9-photo-a-day/" rel="alternate"></link><published>2017-01-09T23:22:00+00:00</published><updated>2017-01-09T23:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-09:/posts/2017/Jan/09/day-9-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Tonight I went for my first night ride of 2017. It was warm and dry
 although the ground was soaked so I got pretty wet anyway. Here's a
@@ -1548,7 +1548,7 @@ pretty terrible photo.
 &lt;p&gt;&lt;img alt="" src="/images/492bd888-afc8-4e7f-ac50-f58e8b88d825.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 8 - photo a day</title><link href="/day-8-photo-a-day.html" rel="alternate"></link><published>2017-01-08T17:40:00+00:00</published><updated>2017-01-08T17:40:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-08:/day-8-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 8 - photo a day</title><link href="/posts/2017/Jan/08/day-8-photo-a-day/" rel="alternate"></link><published>2017-01-08T17:40:00+00:00</published><updated>2017-01-08T17:40:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-08:/posts/2017/Jan/08/day-8-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today, Elysia and I went for another walk. This time we went to
 Gogerddan woods to walk up the little hill. It was rather foggy so the
@@ -1598,7 +1598,7 @@ end (it was only 3km total!).
 &lt;p&gt;&lt;img alt="" src="/images/f1df5528-cb77-495e-a807-a01ef365a8b1.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 7 - photo a day</title><link href="/day-7-photo-a-day.html" rel="alternate"></link><published>2017-01-08T09:11:00+00:00</published><updated>2017-01-08T09:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-08:/day-7-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 7 - photo a day</title><link href="/posts/2017/Jan/08/day-7-photo-a-day/" rel="alternate"></link><published>2017-01-08T09:11:00+00:00</published><updated>2017-01-08T09:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-08:/posts/2017/Jan/08/day-7-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Yeah I forgot to post the photo again. For Christmas Elysia bought me a
 mushroom log, these mushrooms are the first pickings. I think that
@@ -1648,7 +1648,7 @@ they're oyster mushrooms. They taste pretty good!
 &lt;div&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 6 - photo a day</title><link href="/day-6-photo-a-day.html" rel="alternate"></link><published>2017-01-06T11:31:00+00:00</published><updated>2017-01-06T11:31:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-06:/day-6-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I received me some post! What I got was maybe a bit unusual; a
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 6 - photo a day</title><link href="/posts/2017/Jan/06/day-6-photo-a-day/" rel="alternate"></link><published>2017-01-06T11:31:00+00:00</published><updated>2017-01-06T11:31:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-06:/posts/2017/Jan/06/day-6-photo-a-day/</id><summary type="html">&lt;p&gt;Today I received me some post! What I got was maybe a bit unusual; a
 pack of litmus strips and a vitamin d test kit. Why? I'll tell you why.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 I bought the litmus paper because of a conversation I had with a
@@ -1676,7 +1676,7 @@ prick finger, dab blood in three spots and send off to an NHS clinic,
 simples.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/7016dafb-167d-4e6a-82e7-b5d2b304fa16.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 5 - photo a day</title><link href="/day-5-photo-a-day.html" rel="alternate"></link><published>2017-01-05T19:42:00+00:00</published><updated>2017-01-05T19:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-05:/day-5-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category><category term="photo-a-day-2017"></category></entry><entry><title>Day 5 - photo a day</title><link href="/posts/2017/Jan/05/day-5-photo-a-day/" rel="alternate"></link><published>2017-01-05T19:42:00+00:00</published><updated>2017-01-05T19:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-05:/posts/2017/Jan/05/day-5-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today Elysia left her job so was feeling a bit down, I decided that I'd
 take her out for some food. We went to Casablanca, a Morrocan
@@ -1701,7 +1701,7 @@ stuffed afterward.
 &lt;p&gt;&lt;img alt="" src="/images/eabc52cc-adea-4bfd-b2b9-bb9fa0890782.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 4 - photo a day</title><link href="/day-4-photo-a-day.html" rel="alternate"></link><published>2017-01-05T08:39:00+00:00</published><updated>2017-01-05T08:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-05:/day-4-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category><category term="food"></category></entry><entry><title>Day 4 - photo a day</title><link href="/posts/2017/Jan/05/day-4-photo-a-day/" rel="alternate"></link><published>2017-01-05T08:39:00+00:00</published><updated>2017-01-05T08:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-05:/posts/2017/Jan/05/day-4-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 No, I didn't forget to take the photo yesterday I just forgot to post
 it! This time it's a photo of my xmas present from Hollie, she made each
@@ -1726,7 +1726,7 @@ my office for now.
 &lt;p&gt;&lt;img alt="" src="/images/468f5add-8dba-4d2c-bcd2-4f4fabeb651b.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 3 - photo a day</title><link href="/day-3-photo-a-day.html" rel="alternate"></link><published>2017-01-03T22:27:00+00:00</published><updated>2017-01-03T22:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-03:/day-3-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 3 - photo a day</title><link href="/posts/2017/Jan/03/day-3-photo-a-day/" rel="alternate"></link><published>2017-01-03T22:27:00+00:00</published><updated>2017-01-03T22:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-03:/posts/2017/Jan/03/day-3-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 First workday of the year. Problem with most workdays is that I go to
 work and then go home and don't really do anything of interest. This
@@ -1749,7 +1749,7 @@ hadn't been to PJM since my undergrad so here's a photo of it.
 &lt;p&gt;&lt;img alt="" src="/images/af06ced9-ec63-47a1-8a7b-c8e46365835e.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 2 - photo a day</title><link href="/day-2-photo-a-day.html" rel="alternate"></link><published>2017-01-02T12:57:00+00:00</published><updated>2017-01-02T12:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-02:/day-2-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 2 - photo a day</title><link href="/posts/2017/Jan/02/day-2-photo-a-day/" rel="alternate"></link><published>2017-01-02T12:57:00+00:00</published><updated>2017-01-02T12:57:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-02:/posts/2017/Jan/02/day-2-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Today my wrist/hand was giving me some issues so I decided not to ride.
 Instead, I went for a brief, muddy, walk with Elysia around the woods at
@@ -1780,7 +1780,7 @@ a lovely day so it was nice to get out.
 &lt;div&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 1 - photo a day</title><link href="/day-1-photo-a-day.html" rel="alternate"></link><published>2017-01-01T14:58:00+00:00</published><updated>2017-01-01T14:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-01:/day-1-photo-a-day.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 1 - photo a day</title><link href="/posts/2017/Jan/01/day-1-photo-a-day/" rel="alternate"></link><published>2017-01-01T14:58:00+00:00</published><updated>2017-01-01T14:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-01-01:/posts/2017/Jan/01/day-1-photo-a-day/</id><summary type="html">&lt;div&gt;
 
 Another year, another attempt. Hopefully I'll do a bit better this year
 but I doubt it!
@@ -1831,7 +1831,7 @@ really like.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/a25ab9e0-eb9f-465c-8472-067f81925864.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Dirty Casuals @ Wales Games Dev Show</title><link href="/dirty-casuals-wales-games-dev-show.html" rel="alternate"></link><published>2016-06-26T10:45:00+00:00</published><updated>2016-06-26T10:45:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-06-26:/dirty-casuals-wales-games-dev-show.html</id><summary type="html">&lt;p&gt;On the 8th June we went to &lt;a href="http://www.walesgamesdevshow.org/"&gt;Wales Game Development
+&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Dirty Casuals @ Wales Games Dev Show</title><link href="/posts/2016/Jun/26/dirty-casuals-wales-games-dev-show/" rel="alternate"></link><published>2016-06-26T10:45:00+01:00</published><updated>2016-06-26T10:45:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-06-26:/posts/2016/Jun/26/dirty-casuals-wales-games-dev-show/</id><summary type="html">&lt;p&gt;On the 8th June we went to &lt;a href="http://www.walesgamesdevshow.org/"&gt;Wales Game Development
 Show&lt;/a&gt; as an exhibitor to show the
 alpha of &lt;a href="https://github.com/dirty-casuals/Calamity"&gt;Calamity&lt;/a&gt;. This was
 the first convention we'd be to as Dirty Casuals and, for many of us,
@@ -1886,7 +1886,7 @@ how to make mochi for sure!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 All in all a fun day out and hopefully we'll go again next year with a
 more polished game.&lt;/p&gt;
-&lt;/p&gt;</content><category term="gamedev"></category><category term="dirty-casuals"></category></entry><entry><title>Following up</title><link href="/following-up.html" rel="alternate"></link><published>2016-06-21T07:24:00+00:00</published><updated>2016-06-21T07:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-06-21:/following-up.html</id><summary type="html">&lt;p&gt;This post follows up on the last couple that I've written, a couple of
+&lt;/p&gt;</content><category term="gamedev"></category><category term="dirty-casuals"></category></entry><entry><title>Following up</title><link href="/posts/2016/Jun/21/following-up/" rel="alternate"></link><published>2016-06-21T07:24:00+01:00</published><updated>2016-06-21T07:24:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-06-21:/posts/2016/Jun/21/following-up/</id><summary type="html">&lt;p&gt;This post follows up on the last couple that I've written, a couple of
 weeks ago I had two follow up appointments; one with urodynamics and the
 other with the MS nurse.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -1929,7 +1929,7 @@ poached eggs on toast with them for breakfast everyday but now I just
 have a couple of spoonfuls of yoghurt with jam mixed through.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 All in, things seem to be going pretty well!&lt;/p&gt;
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>A visit with Urodynamics</title><link href="/a-visit-with-urodynamics.html" rel="alternate"></link><published>2016-05-20T07:29:00+00:00</published><updated>2016-05-20T07:29:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-05-20:/a-visit-with-urodynamics.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>A visit with Urodynamics</title><link href="/posts/2016/May/20/a-visit-with-urodynamics/" rel="alternate"></link><published>2016-05-20T07:29:00+01:00</published><updated>2016-05-20T07:29:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-05-20:/posts/2016/May/20/a-visit-with-urodynamics/</id><summary type="html">&lt;div&gt;
 
 On Thursday I had an appointment at the Urodynamics department in
 Bronglais. I actually managed to park in the hospital car park for once
@@ -2052,7 +2052,7 @@ That'll be different...&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/e30d82cf-fc13-4c69-8135-265ce253c01c.jpg"&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Post-appointment letter</title><link href="/post-appointment-letter.html" rel="alternate"></link><published>2016-04-16T08:20:00+00:00</published><updated>2016-04-16T08:20:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-16:/post-appointment-letter.html</id><summary type="html">&lt;p&gt;Yesterday I received a letter from the hospital, 3.5 days since my
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Post-appointment letter</title><link href="/posts/2016/Apr/16/post-appointment-letter/" rel="alternate"></link><published>2016-04-16T08:20:00+01:00</published><updated>2016-04-16T08:20:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-16:/posts/2016/Apr/16/post-appointment-letter/</id><summary type="html">&lt;p&gt;Yesterday I received a letter from the hospital, 3.5 days since my
 appointment to the letter being with me - I swear they haven't been that
 quick before! This is a letter from Dr Pearson to my GP, I get CC'd in
 on it. The first thing that I noticed …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Yesterday I received a letter from the hospital, 3.5 days since my
@@ -2083,7 +2083,7 @@ continence team think too so I'll have to see how that develops. I'm
 actually kind of hopeful for the catheter, as odd as that may sound.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 All in, pretty positive I reckon.&lt;/p&gt;
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Change of Medication</title><link href="/change-of-medication.html" rel="alternate"></link><published>2016-04-11T10:26:00+00:00</published><updated>2016-04-11T10:26:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-11:/change-of-medication.html</id><summary type="html">&lt;p&gt;Today, I had an appointment with the MS team down in Swansea Morriston
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Change of Medication</title><link href="/posts/2016/Apr/11/change-of-medication/" rel="alternate"></link><published>2016-04-11T10:26:00+01:00</published><updated>2016-04-11T10:26:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-11:/posts/2016/Apr/11/change-of-medication/</id><summary type="html">&lt;p&gt;Today, I had an appointment with the MS team down in Swansea Morriston
 hospital. I had 2 goals going into the appointment; get something to fix
 my bladder and change my MS medication. I got to the hospital and spent
 5 - 10 minutes trying to park before just abandoning the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today, I had an appointment with the MS team down in Swansea Morriston
@@ -2160,7 +2160,7 @@ test. I went to check in for the blood test and was told there was a 1.5
 hour wait, that wound up being 2 hours but that's life eh. All in all
 not too bad and hopefully should start on the new meds in a couple of
 weeks time.&lt;/p&gt;
-&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Calamity (Game)</title><link href="/calamity-game.html" rel="alternate"></link><published>2016-04-05T20:02:00+00:00</published><updated>2016-04-05T20:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-05:/calamity-game.html</id><summary type="html">&lt;p&gt;I spent the weekend just gone doing a mini game jam. A first for me. The
+&lt;/p&gt;</content><category term="multiple-sclerosis"></category></entry><entry><title>Calamity (Game)</title><link href="/posts/2016/Apr/05/calamity-game/" rel="alternate"></link><published>2016-04-05T20:02:00+01:00</published><updated>2016-04-05T20:02:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-04-05:/posts/2016/Apr/05/calamity-game/</id><summary type="html">&lt;p&gt;I spent the weekend just gone doing a mini game jam. A first for me. The
 project is one that has existed for a little while, the game was thought
 up by my lodger, Elysia (artist), and she enlisted help from Boomer
 (programmer) and Mikey (musician). This means that I've …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I spent the weekend just gone doing a mini game jam. A first for me. The
@@ -2326,7 +2326,7 @@ Glowy pentagram:  &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 A noticeboard, I'm not sure what that note is about:  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/40ec9cb9-d519-4234-a916-59c7a802231b.png"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="dev"></category><category term="gamejam"></category><category term="gamedev"></category></entry><entry><title>Riding Elan Valley</title><link href="/riding-elan-valley.html" rel="alternate"></link><published>2016-03-28T09:25:00+00:00</published><updated>2016-03-28T09:25:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-03-28:/riding-elan-valley.html</id><summary type="html">&lt;p&gt;A weekend or 2 ago I made plans to go down to South Wales and ride road
+&lt;/p&gt;</content><category term="dev"></category><category term="gamejam"></category><category term="gamedev"></category></entry><entry><title>Riding Elan Valley</title><link href="/posts/2016/Mar/28/riding-elan-valley/" rel="alternate"></link><published>2016-03-28T09:25:00+01:00</published><updated>2016-03-28T09:25:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2016-03-28:/posts/2016/Mar/28/riding-elan-valley/</id><summary type="html">&lt;p&gt;A weekend or 2 ago I made plans to go down to South Wales and ride road
 bikes with some old friends from Shropshire, as well as the weekend I
 also had Monday and Friday off. We were staying a couple of miles south
 of Builth Wells in the arse …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A weekend or 2 ago I made plans to go down to South Wales and ride road
@@ -2472,7 +2472,7 @@ then I think that I'd have been pretty happy, a bit too much road for my
 liking but fun and it really is an awesome place with fantastic views.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://connect.garmin.com/modern/activity/1089861297"&gt;Garmin route&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My day off - Day 5</title><link href="/my-day-off-day-5.html" rel="alternate"></link><published>2015-09-08T12:19:00+00:00</published><updated>2015-09-08T12:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-08:/my-day-off-day-5.html</id><summary type="html">&lt;p&gt;Early start to get down to bike park Wales. We managed to get there at
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My day off - Day 5</title><link href="/posts/2015/Sep/08/my-day-off-day-5/" rel="alternate"></link><published>2015-09-08T12:19:00+01:00</published><updated>2015-09-08T12:19:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-08:/posts/2015/Sep/08/my-day-off-day-5/</id><summary type="html">&lt;p&gt;Early start to get down to bike park Wales. We managed to get there at
 around half ten and after faffing around were ready to ride at around
 eleven. We were riding up rather than on the uplift as it's always
 booked up and the ride up isn't so bad …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Early start to get down to bike park Wales. We managed to get there at
@@ -2509,7 +2509,7 @@ bottom. Pork belly was ok but nothing great really. The red was very
 fast and had some decent sized jumps in it. I popped off of a rock
 kicker not realising it was a double and duly landed on the up slope of
 the landing, glad I was on the full sus!&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 4</title><link href="/my-week-off-day-4.html" rel="alternate"></link><published>2015-09-06T19:19:00+00:00</published><updated>2015-09-06T19:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-06:/my-week-off-day-4.html</id><summary type="html">&lt;p&gt;Today was supposed to be BPW but as the weather forecast was looking
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 4</title><link href="/posts/2015/Sep/06/my-week-off-day-4/" rel="alternate"></link><published>2015-09-06T19:19:00+01:00</published><updated>2015-09-06T19:19:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-06:/posts/2015/Sep/06/my-week-off-day-4/</id><summary type="html">&lt;p&gt;Today was supposed to be BPW but as the weather forecast was looking
 good we decided that we'd get Cadair done as that'd be miserable in
 rainy weather. The first few km were road and then fireroad, that
 changed to a couple of km of rutty, holey grass which was …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was supposed to be BPW but as the weather forecast was looking
@@ -2565,7 +2565,7 @@ ridden up and down a mountain in Wales!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 I stitched together some video of the top, it felt a loooot faster than
 it looks! We also had a bit of a moment at the end of the video.&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 3</title><link href="/my-week-off-day-3.html" rel="alternate"></link><published>2015-09-06T19:15:00+00:00</published><updated>2015-09-06T19:15:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-06:/my-week-off-day-3.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 3</title><link href="/posts/2015/Sep/06/my-week-off-day-3/" rel="alternate"></link><published>2015-09-06T19:15:00+01:00</published><updated>2015-09-06T19:15:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-09-06:/posts/2015/Sep/06/my-week-off-day-3/</id><summary type="html">&lt;div&gt;
 
 Today was supposed to be the woods and Nant. Taylor said that he
 wouldn't be around until a bit late on so we decided we'd do a nant
@@ -2656,7 +2656,7 @@ cleanly, even then it wasn't fast...&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 2</title><link href="/my-week-off-day-2.html" rel="alternate"></link><published>2015-08-31T09:05:00+00:00</published><updated>2015-08-31T09:05:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-31:/my-week-off-day-2.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 2</title><link href="/posts/2015/Aug/31/my-week-off-day-2/" rel="alternate"></link><published>2015-08-31T09:05:00+01:00</published><updated>2015-08-31T09:05:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-31:/posts/2015/Aug/31/my-week-off-day-2/</id><summary type="html">&lt;div&gt;
 
 I spent around 4 hours today in the woods, half of that was probably
 working on my new track. I've got one fallen tree left to take out and a
@@ -2728,7 +2728,7 @@ also scaring me a little!&lt;/p&gt;
 &lt;div&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 1 (Saturday)</title><link href="/my-week-off-day-1-saturday.html" rel="alternate"></link><published>2015-08-29T15:14:00+00:00</published><updated>2015-08-29T15:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-29:/my-week-off-day-1-saturday.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>My week off - Day 1 (Saturday)</title><link href="/posts/2015/Aug/29/my-week-off-day-1-saturday/" rel="alternate"></link><published>2015-08-29T15:14:00+01:00</published><updated>2015-08-29T15:14:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-29:/posts/2015/Aug/29/my-week-off-day-1-saturday/</id><summary type="html">&lt;div&gt;
 
 Well I have the next week off so some biking is going to occur. Despite
 being worried back in February that 10 days of holiday (not including
@@ -2854,7 +2854,7 @@ wooden and I have another week of riding to go yet :)&lt;/p&gt;
 &lt;div&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Transcambrian Way</title><link href="/transcambrian-way.html" rel="alternate"></link><published>2015-08-05T17:38:00+00:00</published><updated>2015-08-05T17:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-05:/transcambrian-way.html</id><summary type="html">&lt;p&gt;So this is a ride that's been in my sights for some years now, it's not
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Transcambrian Way</title><link href="/posts/2015/Aug/05/transcambrian-way/" rel="alternate"></link><published>2015-08-05T17:38:00+01:00</published><updated>2015-08-05T17:38:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-08-05:/posts/2015/Aug/05/transcambrian-way/</id><summary type="html">&lt;p&gt;So this is a ride that's been in my sights for some years now, it's not
 until recently I've actually acquired the level of fitness necessary to
 give it a bash though.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3033,7 +3033,7 @@ has donated.&lt;/p&gt;
 route&lt;/a&gt;. &lt;a href="https://picasaweb.google.com/101988781183714130798/TranscambrianWay"&gt;Link to
 the
 album&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Mach n back 100</title><link href="/mach-n-back-100.html" rel="alternate"></link><published>2015-05-25T08:42:00+00:00</published><updated>2015-05-25T08:42:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-05-25:/mach-n-back-100.html</id><summary type="html">&lt;p&gt;A 100km ride has been on the cards for me for a while, it's something
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>Mach n back 100</title><link href="/posts/2015/May/25/mach-n-back-100/" rel="alternate"></link><published>2015-05-25T08:42:00+01:00</published><updated>2015-05-25T08:42:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-05-25:/posts/2015/May/25/mach-n-back-100/</id><summary type="html">&lt;p&gt;A 100km ride has been on the cards for me for a while, it's something
 that I've really wanted to do. As an aside I've attempted a ride with
 2km of elevation a few times and always failed too. A couple of weeks
 ago I decided to set the May …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A 100km ride has been on the cards for me for a while, it's something
@@ -3128,7 +3128,7 @@ distance and some lessons were learnt. The big one being food related. A
 cracking ride with a mixed bag of terrain, trails and weather!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/7e035d6c-f546-4425-a5b4-f9215965204c.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>The Dyfi Enduro</title><link href="/the-dyfi-enduro.html" rel="alternate"></link><published>2015-05-07T21:49:00+00:00</published><updated>2015-05-07T21:49:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-05-07:/the-dyfi-enduro.html</id><summary type="html">&lt;p&gt;About that time of year again, sure has gone fast! I was unsure how I
+&lt;/p&gt;</content><category term="riding"></category></entry><entry><title>The Dyfi Enduro</title><link href="/posts/2015/May/07/the-dyfi-enduro/" rel="alternate"></link><published>2015-05-07T21:49:00+01:00</published><updated>2015-05-07T21:49:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-05-07:/posts/2015/May/07/the-dyfi-enduro/</id><summary type="html">&lt;p&gt;About that time of year again, sure has gone fast! I was unsure how I
 was going to ride it this year: see how quick I could get round or just
 chill out and socialize. I knew that Ben and Steph would taking it at a
 sociable pace so figured …&lt;/p&gt;</summary><content type="html">&lt;p&gt;About that time of year again, sure has gone fast! I was unsure how I
@@ -3168,7 +3168,7 @@ with him too.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 Another cracking Dyfi Enduro, big thanks to everyone involved in the
 running of it!&lt;/p&gt;
-&lt;/p&gt;</content><category term="dyfi"></category><category term="riding"></category></entry><entry><title>Photo a Day - Giving up</title><link href="/photo-a-day-giving-up.html" rel="alternate"></link><published>2015-02-22T15:14:00+00:00</published><updated>2015-02-22T15:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-22:/photo-a-day-giving-up.html</id><summary type="html">&lt;div&gt;
+&lt;/p&gt;</content><category term="dyfi"></category><category term="riding"></category></entry><entry><title>Photo a Day - Giving up</title><link href="/posts/2015/Feb/22/photo-a-day-giving-up/" rel="alternate"></link><published>2015-02-22T15:14:00+00:00</published><updated>2015-02-22T15:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-22:/posts/2015/Feb/22/photo-a-day-giving-up/</id><summary type="html">&lt;div&gt;
 
 I've decided to give up on the photo a day, day 50 seemed like a good
 milestone to stop at. I wanted to try make each photo have a bit of
@@ -3185,7 +3185,7 @@ time to bring it to a stop.
 
 &lt;/div&gt;
 
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 50 - Photo a Day</title><link href="/day-50-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:31:00+00:00</published><updated>2015-02-19T20:31:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-50-photo-a-day.html</id><summary type="html">&lt;p&gt;I've managed 50 days! I realised that I haven't yet done a photo of the
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 50 - Photo a Day</title><link href="/posts/2015/Feb/19/day-50-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:31:00+00:00</published><updated>2015-02-19T20:31:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-50-photo-a-day/</id><summary type="html">&lt;p&gt;I've managed 50 days! I realised that I haven't yet done a photo of the
 coaster I got for doing the Dyfi warmup. It feels very worthy of day 50
 :).&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3195,7 +3195,7 @@ coaster I got for doing the Dyfi warmup. It feels very worthy of day 50
 :).&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/26f73427-f0d8-4bc0-b083-ec4945344f3c.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 49 - Photo a Day</title><link href="/day-49-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:30:00+00:00</published><updated>2015-02-19T20:30:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-49-photo-a-day.html</id><summary type="html">&lt;p&gt;This is the view from the kitchen at work, it's not bad at all! Getting
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 49 - Photo a Day</title><link href="/posts/2015/Feb/19/day-49-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:30:00+00:00</published><updated>2015-02-19T20:30:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-49-photo-a-day/</id><summary type="html">&lt;p&gt;This is the view from the kitchen at work, it's not bad at all! Getting
 ready to take this photo I saw a red kite and two ducks on the little
 pond that can't be seen in this photo, rad as.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3205,7 +3205,7 @@ ready to take this photo I saw a red kite and two ducks on the little
 pond that can't be seen in this photo, rad as.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/0595c3c9-beaa-4aaf-a7ec-f7060d6f9465.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 48 - Photo a Day</title><link href="/day-48-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:27:00+00:00</published><updated>2015-02-19T20:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-48-photo-a-day.html</id><summary type="html">&lt;p&gt;This is where my place of work is now, the Aberystwyth Science Park!
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 48 - Photo a Day</title><link href="/posts/2015/Feb/19/day-48-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:27:00+00:00</published><updated>2015-02-19T20:27:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-48-photo-a-day/</id><summary type="html">&lt;p&gt;This is where my place of work is now, the Aberystwyth Science Park!
 Working for &lt;a href="http://west%20-%20coast.biz"&gt;West Coast Software&lt;/a&gt;. It's
 less than a mile from home and takes me a couple of minutes to ride to
 and from.&lt;/p&gt;
@@ -3217,7 +3217,7 @@ less than a mile from home and takes me a couple of minutes to ride to
 and from.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/eb8659f2-0b64-4afc-97b2-9fd206f8b623.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 47 - Photo a Day</title><link href="/day-47-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:21:00+00:00</published><updated>2015-02-19T20:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-47-photo-a-day.html</id><summary type="html">&lt;p&gt;I can't say much about this one really, other than chilblains! They
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 47 - Photo a Day</title><link href="/posts/2015/Feb/19/day-47-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:21:00+00:00</published><updated>2015-02-19T20:21:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-47-photo-a-day/</id><summary type="html">&lt;p&gt;I can't say much about this one really, other than chilblains! They
 probably won't fall off, they don't normally fall off.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/a9308036-eeb6-41f2-96d2-ae56cf0a24c8.jpg"&gt;&lt;/p&gt;
@@ -3225,7 +3225,7 @@ probably won't fall off, they don't normally fall off.&lt;/p&gt;
 probably won't fall off, they don't normally fall off.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/a9308036-eeb6-41f2-96d2-ae56cf0a24c8.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 46 - Photo a Day</title><link href="/day-46-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:20:00+00:00</published><updated>2015-02-19T20:20:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-46-photo-a-day.html</id><summary type="html">&lt;p&gt;Been a while since I last made a packed lunch. I made a big roast pork
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 46 - Photo a Day</title><link href="/posts/2015/Feb/19/day-46-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:20:00+00:00</published><updated>2015-02-19T20:20:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-46-photo-a-day/</id><summary type="html">&lt;p&gt;Been a while since I last made a packed lunch. I made a big roast pork
 joint today so my lunch tomorrow is pork baps with a bit of cracking and
 the last cup cake.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3235,7 +3235,7 @@ joint today so my lunch tomorrow is pork baps with a bit of cracking and
 the last cup cake.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/d03e12f2-3dea-4103-8ed1-bfeab541955f.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 45 - Photo a Day</title><link href="/day-45-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:19:00+00:00</published><updated>2015-02-19T20:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-45-photo-a-day.html</id><summary type="html">&lt;p&gt;I don't know what it is with these students but today's ride we meet at
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 45 - Photo a Day</title><link href="/posts/2015/Feb/19/day-45-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:19:00+00:00</published><updated>2015-02-19T20:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-45-photo-a-day/</id><summary type="html">&lt;p&gt;I don't know what it is with these students but today's ride we meet at
 9. 9 on a Saturday! We went up Banc y Darren way and I left them at the
 top of the leg burner to do some different bits. I'd never ridden the
 Bony Goch climb …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I don't know what it is with these students but today's ride we meet at
@@ -3245,7 +3245,7 @@ Bony Goch climb backwards before, it was a really quite pleasant way to
 get back!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/cebb9d23-c748-4c3b-a442-8912c66d252f.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 44 - Photo a Day</title><link href="/day-44-photo-a-day.html" rel="alternate"></link><published>2015-02-19T20:07:00+00:00</published><updated>2015-02-19T20:07:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/day-44-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I decided to go and explore a couple of bridleways up nant, ones
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 44 - Photo a Day</title><link href="/posts/2015/Feb/19/day-44-photo-a-day/" rel="alternate"></link><published>2015-02-19T20:07:00+00:00</published><updated>2015-02-19T20:07:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-19:/posts/2015/Feb/19/day-44-photo-a-day/</id><summary type="html">&lt;p&gt;Today I decided to go and explore a couple of bridleways up nant, ones
 I'd not done before.  &lt;/p&gt;
 &lt;p&gt;The first new one linked the highest bit of the mountain road down to
 the bont goch climb, making more climb before getting to nant. It
@@ -3265,7 +3265,7 @@ went straight for the bridleway. All that I can really say about it is
 that the track isn't well defined and wasn't great! Oh well.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/52bc4875-9792-4e3f-a8c6-f483ac5237f1.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 43 - Photo a Day</title><link href="/day-43-photo-a-day.html" rel="alternate"></link><published>2015-02-12T22:15:00+00:00</published><updated>2015-02-12T22:15:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-12:/day-43-photo-a-day.html</id><summary type="html">&lt;p&gt;Today Andy and Teesh moved in so I decided to bake cupcakes! They're
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 43 - Photo a Day</title><link href="/posts/2015/Feb/12/day-43-photo-a-day/" rel="alternate"></link><published>2015-02-12T22:15:00+00:00</published><updated>2015-02-12T22:15:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-12:/posts/2015/Feb/12/day-43-photo-a-day/</id><summary type="html">&lt;p&gt;Today Andy and Teesh moved in so I decided to bake cupcakes! They're
 quite simple vanilla ones as I didn't have loads of stuff, I also made
 buttercream but it was a really strange recipe and didn't work out well.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3275,7 +3275,7 @@ quite simple vanilla ones as I didn't have loads of stuff, I also made
 buttercream but it was a really strange recipe and didn't work out well.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/d6a17978-a730-4228-af52-dc7e6ea455fc.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 42 - Photo a Day</title><link href="/day-42-photo-a-day.html" rel="alternate"></link><published>2015-02-12T22:14:00+00:00</published><updated>2015-02-12T22:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-12:/day-42-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I sorted out my spare room so that Andy and Teesh can move in.
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 42 - Photo a Day</title><link href="/posts/2015/Feb/12/day-42-photo-a-day/" rel="alternate"></link><published>2015-02-12T22:14:00+00:00</published><updated>2015-02-12T22:14:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-12:/posts/2015/Feb/12/day-42-photo-a-day/</id><summary type="html">&lt;p&gt;Today I sorted out my spare room so that Andy and Teesh can move in.
 It'll be nice to have people around the house! Room took some work to
 get looking remotely presentable and the windows definitely need
 replacing!&lt;/p&gt;
@@ -3287,7 +3287,7 @@ get looking remotely presentable and the windows definitely need
 replacing!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/5f861a7c-4b10-4599-a1c8-537dd552ee71.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 41 - Photo a Day</title><link href="/day-41-photo-a-day.html" rel="alternate"></link><published>2015-02-11T21:51:00+00:00</published><updated>2015-02-11T21:51:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-11:/day-41-photo-a-day.html</id><summary type="html">&lt;p&gt;When I left aber today it was cold and foggy. It continued that way all
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 41 - Photo a Day</title><link href="/posts/2015/Feb/11/day-41-photo-a-day/" rel="alternate"></link><published>2015-02-11T21:51:00+00:00</published><updated>2015-02-11T21:51:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-11:/posts/2015/Feb/11/day-41-photo-a-day/</id><summary type="html">&lt;p&gt;When I left aber today it was cold and foggy. It continued that way all
 the way up through Banc y darren but pretty much as soon as I reached
 the Nant area the clouds parted and the sun came out to play! I stopped
 at the cafe for a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;When I left aber today it was cold and foggy. It continued that way all
@@ -3311,7 +3311,7 @@ A few bonus pics&lt;/p&gt;
 &lt;img alt="" src="/images/d81f31fb-b606-4923-b44f-306606a4197c.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/8fae4b0b-9ae2-4634-8c20-0be7517eb70f.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 40 - Photo a Day</title><link href="/day-40-photo-a-day.html" rel="alternate"></link><published>2015-02-10T11:05:00+00:00</published><updated>2015-02-10T11:05:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-10:/day-40-photo-a-day.html</id><summary type="html">&lt;p&gt;This week I have a week off between jobs so I'll most likely ride bikes
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 40 - Photo a Day</title><link href="/posts/2015/Feb/10/day-40-photo-a-day/" rel="alternate"></link><published>2015-02-10T11:05:00+00:00</published><updated>2015-02-10T11:05:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-10:/posts/2015/Feb/10/day-40-photo-a-day/</id><summary type="html">&lt;p&gt;This week I have a week off between jobs so I'll most likely ride bikes
 a bit. However, today I decided to tackle the ceiling in the shower
 room. It had ceiling tiles that were going a bit mouldy and starting to
 peel. I managed to get them off, which …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This week I have a week off between jobs so I'll most likely ride bikes
@@ -3321,7 +3321,7 @@ peel. I managed to get them off, which took ages, and put on the first
 coat of paint.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/7f868912-0236-40f8-a7ef-98ca8ce59eb0.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 39 - Photo a Day</title><link href="/day-39-photo-a-day.html" rel="alternate"></link><published>2015-02-09T00:02:00+00:00</published><updated>2015-02-09T00:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-09:/day-39-photo-a-day.html</id><summary type="html">&lt;p&gt;Last night (well, yesterday) I made pulled pork ready for us for when we
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 39 - Photo a Day</title><link href="/posts/2015/Feb/09/day-39-photo-a-day/" rel="alternate"></link><published>2015-02-09T00:02:00+00:00</published><updated>2015-02-09T00:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-09:/posts/2015/Feb/09/day-39-photo-a-day/</id><summary type="html">&lt;p&gt;Last night (well, yesterday) I made pulled pork ready for us for when we
 got in from our ride. It was good, we had it with tikka chicken wings,
 crusty bread and a BBQ sauce that I made. This bowl was just about full
 yesterday, this is all that is …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Last night (well, yesterday) I made pulled pork ready for us for when we
@@ -3330,7 +3330,7 @@ crusty bread and a BBQ sauce that I made. This bowl was just about full
 yesterday, this is all that is left now!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/8b4481a0-6b48-4124-bd00-8ac35ce6b905.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 38 - Photo a Day</title><link href="/day-38-photo-a-day.html" rel="alternate"></link><published>2015-02-09T00:00:00+00:00</published><updated>2015-02-09T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-09:/day-38-photo-a-day.html</id><summary type="html">&lt;p&gt;This weekend Rich and Ben are vistiting so today we rode out to Nant via
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 38 - Photo a Day</title><link href="/posts/2015/Feb/09/day-38-photo-a-day/" rel="alternate"></link><published>2015-02-09T00:00:00+00:00</published><updated>2015-02-09T00:00:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-09:/posts/2015/Feb/09/day-38-photo-a-day/</id><summary type="html">&lt;p&gt;This weekend Rich and Ben are vistiting so today we rode out to Nant via
 the Bont Goch climb and back down the Ty Cam descent. We had fantastic
 weather and managed both cake at the VC and beer at the tiddly widdle,
 good times.&lt;/p&gt;
@@ -3342,7 +3342,7 @@ weather and managed both cake at the VC and beer at the tiddly widdle,
 good times.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/2a9a813f-1fcf-4cb5-af79-7a0a233df9d2.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 37 - Photo a Day</title><link href="/day-37-photo-a-day.html" rel="alternate"></link><published>2015-02-08T23:58:00+00:00</published><updated>2015-02-08T23:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/day-37-photo-a-day.html</id><summary type="html">&lt;p&gt;Well today is my last day of working for Exony/eGain so I thought that
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 37 - Photo a Day</title><link href="/posts/2015/Feb/08/day-37-photo-a-day/" rel="alternate"></link><published>2015-02-08T23:58:00+00:00</published><updated>2015-02-08T23:58:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/posts/2015/Feb/08/day-37-photo-a-day/</id><summary type="html">&lt;p&gt;Well today is my last day of working for Exony/eGain so I thought that
 I'd take a photo of my work setup before it's gone forever more. The
 laptop has now been sent back to Exony HQ and goodbye's said. On to new
 things, which is both scary and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Well today is my last day of working for Exony/eGain so I thought that
@@ -3351,7 +3351,7 @@ laptop has now been sent back to Exony HQ and goodbye's said. On to new
 things, which is both scary and exciting!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/93e298ca-7f88-4210-80bd-52a27670ca81.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 36 - Photo a Day</title><link href="/day-36-photo-a-day.html" rel="alternate"></link><published>2015-02-08T23:55:00+00:00</published><updated>2015-02-08T23:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/day-36-photo-a-day.html</id><summary type="html">&lt;p&gt;This afternoon, given that tomorrow is my last day and that I have no
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 36 - Photo a Day</title><link href="/posts/2015/Feb/08/day-36-photo-a-day/" rel="alternate"></link><published>2015-02-08T23:55:00+00:00</published><updated>2015-02-08T23:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/posts/2015/Feb/08/day-36-photo-a-day/</id><summary type="html">&lt;p&gt;This afternoon, given that tomorrow is my last day and that I have no
 work to do, I went for a ride with a couple of the AberMTB guys. It was
 a tad chilly and Pendam lake was fully frozen over. The ride was good
 and the sun was out …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This afternoon, given that tomorrow is my last day and that I have no
@@ -3360,7 +3360,7 @@ a tad chilly and Pendam lake was fully frozen over. The ride was good
 and the sun was out, nice!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/0713831a-a687-4456-bdc4-95e8e64e904d.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 35 - Photo a Day</title><link href="/day-35-photo-a-day.html" rel="alternate"></link><published>2015-02-08T23:53:00+00:00</published><updated>2015-02-08T23:53:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/day-35-photo-a-day.html</id><summary type="html">&lt;p&gt;First off, a note that the next 4 days have all been written on the same
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 35 - Photo a Day</title><link href="/posts/2015/Feb/08/day-35-photo-a-day/" rel="alternate"></link><published>2015-02-08T23:53:00+00:00</published><updated>2015-02-08T23:53:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-08:/posts/2015/Feb/08/day-35-photo-a-day/</id><summary type="html">&lt;p&gt;First off, a note that the next 4 days have all been written on the same
 day but I can assure you that the photos were taken on the respective
 days. I might start writing more of the posts on the same day when I get
 round to it, like …&lt;/p&gt;</summary><content type="html">&lt;p&gt;First off, a note that the next 4 days have all been written on the same
@@ -3370,7 +3370,7 @@ round to it, like this. So this photo is of a banana bread load that I
 made, simply because I like banana bread!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/3d08a61f-de29-420b-aff7-8ad53e5131b2.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 34 - Photo a Day</title><link href="/day-34-photo-a-day.html" rel="alternate"></link><published>2015-02-03T22:54:00+00:00</published><updated>2015-02-03T22:54:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-03:/day-34-photo-a-day.html</id><summary type="html">&lt;p&gt;I'm bored of trying to find a chain lube that lasts a long ride here in
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 34 - Photo a Day</title><link href="/posts/2015/Feb/03/day-34-photo-a-day/" rel="alternate"></link><published>2015-02-03T22:54:00+00:00</published><updated>2015-02-03T22:54:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-03:/posts/2015/Feb/03/day-34-photo-a-day/</id><summary type="html">&lt;p&gt;I'm bored of trying to find a chain lube that lasts a long ride here in
 the winter, all of the ones that I've tried just don't work as well as
 I'd like. I read about people using putolin which is designed for
 motorbikes, it's a wax that you soak …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm bored of trying to find a chain lube that lasts a long ride here in
@@ -3381,7 +3381,7 @@ stove and drop chain in. Apparently it lasts ages between applications
 too, we shall see. The tin is massive, going to last ages!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/3121f07d-1994-4f6b-b0fc-a5652aa18efe.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 33 - Photo a Day</title><link href="/day-33-photo-a-day.html" rel="alternate"></link><published>2015-02-03T09:25:00+00:00</published><updated>2015-02-03T09:25:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-03:/day-33-photo-a-day.html</id><summary type="html">&lt;p&gt;Cut me some slack, I fell off a bike yesterday! Another normal day with
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 33 - Photo a Day</title><link href="/posts/2015/Feb/03/day-33-photo-a-day/" rel="alternate"></link><published>2015-02-03T09:25:00+00:00</published><updated>2015-02-03T09:25:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-03:/posts/2015/Feb/03/day-33-photo-a-day/</id><summary type="html">&lt;p&gt;Cut me some slack, I fell off a bike yesterday! Another normal day with
 nothing exciting to report so it's time for a photo of my food again.
 This time it's roasted pork belly with steamed vegetables. Good it was
 too!&lt;/p&gt;
@@ -3393,7 +3393,7 @@ This time it's roasted pork belly with steamed vegetables. Good it was
 too!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/3676ce0e-90cc-4cb1-9c0f-1202001afd26.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 32 - Photo a Day</title><link href="/day-32-photo-a-day.html" rel="alternate"></link><published>2015-02-01T17:24:00+00:00</published><updated>2015-02-01T17:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-01:/day-32-photo-a-day.html</id><summary type="html">&lt;p&gt;Today, for some unknown reason, I decided to ride my road bike. I was
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 32 - Photo a Day</title><link href="/posts/2015/Feb/01/day-32-photo-a-day/" rel="alternate"></link><published>2015-02-01T17:24:00+00:00</published><updated>2015-02-01T17:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-02-01:/posts/2015/Feb/01/day-32-photo-a-day/</id><summary type="html">&lt;p&gt;Today, for some unknown reason, I decided to ride my road bike. I was
 quite bored by the time I got to the end of Bow Street and very nearly
 just went to Borth and back but I wanted to check out the climb from
 Talybont to Anglers. The climb …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today, for some unknown reason, I decided to ride my road bike. I was
@@ -3414,7 +3414,7 @@ Despite the ride being rubbish and me confirming that I dislike road
 biking I did manage to find a view I hadn't seen before and took a snap.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/f87b1dc5-77a6-482c-b258-9c69552f0fd9.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 31 - Photo a Day</title><link href="/day-31-photo-a-day.html" rel="alternate"></link><published>2015-01-31T16:17:00+00:00</published><updated>2015-01-31T16:17:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-31:/day-31-photo-a-day.html</id><summary type="html">&lt;p&gt;Hurrah I've managed a whole month of photos! Today I went for a shortish
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 31 - Photo a Day</title><link href="/posts/2015/Jan/31/day-31-photo-a-day/" rel="alternate"></link><published>2015-01-31T16:17:00+00:00</published><updated>2015-01-31T16:17:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-31:/posts/2015/Jan/31/day-31-photo-a-day/</id><summary type="html">&lt;p&gt;Hurrah I've managed a whole month of photos! Today I went for a shortish
 ride up Nant, just toboggan and then over to the main trails and did a
 Pendam loop. First ride on the 44s and, wow, they're properly nice. Had
 to back the rebound off a touch as …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hurrah I've managed a whole month of photos! Today I went for a shortish
@@ -3432,7 +3432,7 @@ dropped, pretty rad!&lt;/p&gt;
 And a bonus photo:&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/8ccefb13-5197-4932-9a51-48d8353dcfba.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 30 - Photo a Day</title><link href="/day-30-photo-a-day.html" rel="alternate"></link><published>2015-01-30T22:38:00+00:00</published><updated>2015-01-30T22:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-30:/day-30-photo-a-day.html</id><summary type="html">&lt;p&gt;Unfortunately today I'm feeling totally washed out, don't know why. I
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 30 - Photo a Day</title><link href="/posts/2015/Jan/30/day-30-photo-a-day/" rel="alternate"></link><published>2015-01-30T22:38:00+00:00</published><updated>2015-01-30T22:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-30:/posts/2015/Jan/30/day-30-photo-a-day/</id><summary type="html">&lt;p&gt;Unfortunately today I'm feeling totally washed out, don't know why. I
 only just remembered to take a photo so it's the delightful view from my
 bed, you best feel privileged.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3442,7 +3442,7 @@ only just remembered to take a photo so it's the delightful view from my
 bed, you best feel privileged.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/4f749766-2e6d-4a8b-8006-bf895bda8d9e.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 29 - Photo a Day</title><link href="/day-29-photo-a-day.html" rel="alternate"></link><published>2015-01-30T09:24:00+00:00</published><updated>2015-01-30T09:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-30:/day-29-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I finished hanging bits off of the new frame. I've had to bodge
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 29 - Photo a Day</title><link href="/posts/2015/Jan/30/day-29-photo-a-day/" rel="alternate"></link><published>2015-01-30T09:24:00+00:00</published><updated>2015-01-30T09:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-30:/posts/2015/Jan/30/day-29-photo-a-day/</id><summary type="html">&lt;p&gt;Today I finished hanging bits off of the new frame. I've had to bodge
 the front brake a bit as my mount is 200mm and rotor is 203 so washers
 were required. Looking forward to riding it now.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3452,7 +3452,7 @@ the front brake a bit as my mount is 200mm and rotor is 203 so washers
 were required. Looking forward to riding it now.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="" src="/images/5062d92b-ae0c-489c-959e-61e09e3a1f82.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 28 - Photo a Day</title><link href="/day-28-photo-a-day.html" rel="alternate"></link><published>2015-01-28T20:11:00+00:00</published><updated>2015-01-28T20:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-28:/day-28-photo-a-day.html</id><summary type="html">&lt;p&gt;Christmas Eve I had a stack in the Dyfi and whilst correcting my bars
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 28 - Photo a Day</title><link href="/posts/2015/Jan/28/day-28-photo-a-day/" rel="alternate"></link><published>2015-01-28T20:11:00+00:00</published><updated>2015-01-28T20:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-28:/posts/2015/Jan/28/day-28-photo-a-day/</id><summary type="html">&lt;p&gt;Christmas Eve I had a stack in the Dyfi and whilst correcting my bars
 Andy noticed that my bottom headset cup was very loose, most likely
 borked frame. Turns out that Stu, his brother, had an identical frame
 that I could buy... Whilst at it Andy could sell me his …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Christmas Eve I had a stack in the Dyfi and whilst correcting my bars
@@ -3469,7 +3469,7 @@ fit and remove the bottom cup from the old frame by hand...&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 27 - Photo a Day</title><link href="/day-27-photo-a-day.html" rel="alternate"></link><published>2015-01-27T19:18:00+00:00</published><updated>2015-01-27T19:18:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-27:/day-27-photo-a-day.html</id><summary type="html">&lt;p&gt;Generally speaking I'm against taking photos of my food but I really
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 27 - Photo a Day</title><link href="/posts/2015/Jan/27/day-27-photo-a-day/" rel="alternate"></link><published>2015-01-27T19:18:00+00:00</published><updated>2015-01-27T19:18:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-27:/posts/2015/Jan/27/day-27-photo-a-day/</id><summary type="html">&lt;p&gt;Generally speaking I'm against taking photos of my food but I really
 wanted to share this one. It's a thai red curry and it's, frankly, just
 bloody amazing. It's really easy to make, tastes great and the
 ingredients aren't ridiculously hard to get hold of.The recipe is
@@ -3490,7 +3490,7 @@ ingredients aren't ridiculously hard to get hold of.The recipe is
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 26 - Photo a Day</title><link href="/day-26-photo-a-day.html" rel="alternate"></link><published>2015-01-26T21:05:00+00:00</published><updated>2015-01-26T21:05:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-26:/day-26-photo-a-day.html</id><summary type="html">&lt;p&gt;This morning I went for a ride round Nant with Bean, bit of a spin down
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 26 - Photo a Day</title><link href="/posts/2015/Jan/26/day-26-photo-a-day/" rel="alternate"></link><published>2015-01-26T21:05:00+00:00</published><updated>2015-01-26T21:05:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-26:/posts/2015/Jan/26/day-26-photo-a-day/</id><summary type="html">&lt;p&gt;This morning I went for a ride round Nant with Bean, bit of a spin down
 after the winter warmup. I had a job interview in the afternoon so I
 didn't want to ride anything too wild! Got offered the job just for
 reference :). We did a standard YstwythMTB loop …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This morning I went for a ride round Nant with Bean, bit of a spin down
@@ -3509,7 +3509,7 @@ hopefully they don't log the full trail.&lt;/p&gt;
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 25 - Photo a Day</title><link href="/day-25-photo-a-day.html" rel="alternate"></link><published>2015-01-25T17:37:00+00:00</published><updated>2015-01-25T17:37:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-25:/day-25-photo-a-day.html</id><summary type="html">&lt;p&gt;Today was the Dyfi Winter Warmup. We left around 9:30 to give Taylor
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 25 - Photo a Day</title><link href="/posts/2015/Jan/25/day-25-photo-a-day/" rel="alternate"></link><published>2015-01-25T17:37:00+00:00</published><updated>2015-01-25T17:37:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-25:/posts/2015/Jan/25/day-25-photo-a-day/</id><summary type="html">&lt;p&gt;Today was the Dyfi Winter Warmup. We left around 9:30 to give Taylor
 time to try buy a ticket, luckily he was able to. We got there around
 10:30 and signed on then we started riding at around 11. It was a rad
 event and we managed 2 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today was the Dyfi Winter Warmup. We left around 9:30 to give Taylor
@@ -3528,7 +3528,7 @@ saw loads of familiar faces!&lt;/p&gt;
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 24 - Photo a Day</title><link href="/day-24-photo-a-day.html" rel="alternate"></link><published>2015-01-24T20:48:00+00:00</published><updated>2015-01-24T20:48:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-24:/day-24-photo-a-day.html</id><summary type="html">&lt;p&gt;It's Dyfi winter warmup weekend! Today I picked up Zop from the station
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 24 - Photo a Day</title><link href="/posts/2015/Jan/24/day-24-photo-a-day/" rel="alternate"></link><published>2015-01-24T20:48:00+00:00</published><updated>2015-01-24T20:48:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-24:/posts/2015/Jan/24/day-24-photo-a-day/</id><summary type="html">&lt;p&gt;It's Dyfi winter warmup weekend! Today I picked up Zop from the station
 and cracked on up to Nant to meet up with Andy and Taylor, although Andy
 isn't actually riding tomorrow. Turns out that Taylor also doesn't have
 a ticket, skills. He's going to try talk nicely to the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;It's Dyfi winter warmup weekend! Today I picked up Zop from the station
@@ -3546,7 +3546,7 @@ the scree and this photo is of Taylor and Zop on the steep scree corner.&lt;/p&g
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 23 - Photo a Day</title><link href="/day-23-photo-a-day.html" rel="alternate"></link><published>2015-01-23T22:02:00+00:00</published><updated>2015-01-23T22:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-23:/day-23-photo-a-day.html</id><summary type="html">&lt;p&gt;This Sunday coming is the Dyfi Winter Warmup. I have people staying with
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 23 - Photo a Day</title><link href="/posts/2015/Jan/23/day-23-photo-a-day/" rel="alternate"></link><published>2015-01-23T22:02:00+00:00</published><updated>2015-01-23T22:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-23:/posts/2015/Jan/23/day-23-photo-a-day/</id><summary type="html">&lt;p&gt;This Sunday coming is the Dyfi Winter Warmup. I have people staying with
 me this weekend as there are a few of us riding the event. Also a small
 group of us going to riding Nant tomorrow. I have Taylor and Dan staying
 with me tomorrow night and Dan n …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This Sunday coming is the Dyfi Winter Warmup. I have people staying with
@@ -3564,7 +3564,7 @@ cakes&lt;/a&gt;  &lt;/p&gt;
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 22 - Photo a Day</title><link href="/day-22-photo-a-day.html" rel="alternate"></link><published>2015-01-22T21:54:00+00:00</published><updated>2015-01-22T21:54:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-22:/day-22-photo-a-day.html</id><summary type="html">&lt;p&gt;I'm on a role with these thoroughly uninteresting photos, but I've had
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 22 - Photo a Day</title><link href="/posts/2015/Jan/22/day-22-photo-a-day/" rel="alternate"></link><published>2015-01-22T21:54:00+00:00</published><updated>2015-01-22T21:54:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-22:/posts/2015/Jan/22/day-22-photo-a-day/</id><summary type="html">&lt;p&gt;I'm on a role with these thoroughly uninteresting photos, but I've had
 some things on my mind of late so hopefully I'll pick it all back up
 come this weekend! Today is half of a falafel burger, which I what I had
 for my evening meal - falafel burgers, chips n …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm on a role with these thoroughly uninteresting photos, but I've had
@@ -3579,7 +3579,7 @@ for my evening meal - falafel burgers, chips n beans.&lt;/p&gt;
 https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 )&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 21 - Photo a Day</title><link href="/day-21-photo-a-day.html" rel="alternate"></link><published>2015-01-21T22:24:00+00:00</published><updated>2015-01-21T22:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-21:/day-21-photo-a-day.html</id><summary type="html">&lt;p&gt;Another day in the office, followed by a 4 hour drive in the dark. At
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 21 - Photo a Day</title><link href="/posts/2015/Jan/21/day-21-photo-a-day/" rel="alternate"></link><published>2015-01-21T22:24:00+00:00</published><updated>2015-01-21T22:24:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-21:/posts/2015/Jan/21/day-21-photo-a-day/</id><summary type="html">&lt;p&gt;Another day in the office, followed by a 4 hour drive in the dark. At
 least I'm now home but it's another uninspired photo! This one of the
 doors to the office.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3595,7 +3595,7 @@ doors to the office.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 20 - Photo a Day</title><link href="/day-20-photo-a-day.html" rel="alternate"></link><published>2015-01-20T21:13:00+00:00</published><updated>2015-01-20T21:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-20:/day-20-photo-a-day.html</id><summary type="html">&lt;p&gt;Being away from home and spending all of my time in the office or where
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 20 - Photo a Day</title><link href="/posts/2015/Jan/20/day-20-photo-a-day/" rel="alternate"></link><published>2015-01-20T21:13:00+00:00</published><updated>2015-01-20T21:13:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-20:/posts/2015/Jan/20/day-20-photo-a-day/</id><summary type="html">&lt;p&gt;Being away from home and spending all of my time in the office or where
 I'm staying is making a photo a bit more difficult. Today we have a
 photo of my Toshiba Chromebook. It's a good little machine. Boots fast
 and I like ChromeOS. Aside from the trackpad it …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Being away from home and spending all of my time in the office or where
@@ -3609,7 +3609,7 @@ guess the volume meets their acceptable limits but not mine.  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/9d4098cd-0873-4423-8889-aebca34ed1b2.jpg"&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 19 - Photo a Day</title><link href="/day-19-photo-a-day.html" rel="alternate"></link><published>2015-01-20T19:22:00+00:00</published><updated>2015-01-20T19:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-20:/day-19-photo-a-day.html</id><summary type="html">&lt;p&gt;My new boss is flying over from the US and will be in the office
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 19 - Photo a Day</title><link href="/posts/2015/Jan/20/day-19-photo-a-day/" rel="alternate"></link><published>2015-01-20T19:22:00+00:00</published><updated>2015-01-20T19:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-20:/posts/2015/Jan/20/day-19-photo-a-day/</id><summary type="html">&lt;p&gt;My new boss is flying over from the US and will be in the office
 tomorrow so I decided I'd better be in the office. I left straight after
 work and got to where I'm staying (with a guy from work) around 21:30.
 This photo is of the room …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My new boss is flying over from the US and will be in the office
@@ -3620,7 +3620,7 @@ effort!  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="/images/be04edd4-3d07-44eb-a764-d3e8c95bb5f7.jpg"&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 18 - Photo a Day</title><link href="/day-18-photo-a-day.html" rel="alternate"></link><published>2015-01-18T17:44:00+00:00</published><updated>2015-01-18T17:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-18:/day-18-photo-a-day.html</id><summary type="html">&lt;p&gt;Today's photo is from the Banc-y-darren road looking out toward the
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 18 - Photo a Day</title><link href="/posts/2015/Jan/18/day-18-photo-a-day/" rel="alternate"></link><published>2015-01-18T17:44:00+00:00</published><updated>2015-01-18T17:44:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-18:/posts/2015/Jan/18/day-18-photo-a-day/</id><summary type="html">&lt;p&gt;Today's photo is from the Banc-y-darren road looking out toward the
 mountain road and the sea. I cheated a bit for today's rideout by
 parking at Pwll Crwn which meant that I didn't have to climb back up to
 the Waun at the end of the ride. I bumped into …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today's photo is from the Banc-y-darren road looking out toward the
@@ -3636,7 +3636,7 @@ a rock, all good.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 17 - Photo a Day</title><link href="/day-17-photo-a-day.html" rel="alternate"></link><published>2015-01-17T16:45:00+00:00</published><updated>2015-01-17T16:45:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-17:/day-17-photo-a-day.html</id><summary type="html">&lt;p&gt;tl;dr the postie arrived so I went riding...&lt;/p&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 17 - Photo a Day</title><link href="/posts/2015/Jan/17/day-17-photo-a-day/" rel="alternate"></link><published>2015-01-17T16:45:00+00:00</published><updated>2015-01-17T16:45:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-17:/posts/2015/Jan/17/day-17-photo-a-day/</id><summary type="html">&lt;p&gt;tl;dr the postie arrived so I went riding...&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 Looking out to the sea from the forest car park on the mountain road up
 the Nant. I fitted my 10 speed kit to my hardtail this morning and then
@@ -3658,7 +3658,7 @@ Fridge back from Dave! Not an overall PR but only 2s off, I'll get sub
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 16 - Photo a Day</title><link href="/day-16-photo-a-day.html" rel="alternate"></link><published>2015-01-16T19:03:00+00:00</published><updated>2015-01-16T19:03:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-16:/day-16-photo-a-day.html</id><summary type="html">&lt;p&gt;Another super exciting photo this one - expect many, many more of this
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 16 - Photo a Day</title><link href="/posts/2015/Jan/16/day-16-photo-a-day/" rel="alternate"></link><published>2015-01-16T19:03:00+00:00</published><updated>2015-01-16T19:03:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-16:/posts/2015/Jan/16/day-16-photo-a-day/</id><summary type="html">&lt;p&gt;Another super exciting photo this one - expect many, many more of this
 calibre... I've been painting all of the skirting-y bits around my
 stairs, so this photo is of the latest painting. Wasn't hugely bothered
 about getting paint on the, apparently already, painted stairs or the
@@ -3673,7 +3673,7 @@ on the stairs, not a great colour imo!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 15 - Photo a Day</title><link href="/day-15-photo-a-day.html" rel="alternate"></link><published>2015-01-15T21:35:00+00:00</published><updated>2015-01-15T21:35:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-15:/day-15-photo-a-day.html</id><summary type="html">&lt;p&gt;Given the horrendous wind that we're getting at the moment, along with
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 15 - Photo a Day</title><link href="/posts/2015/Jan/15/day-15-photo-a-day/" rel="alternate"></link><published>2015-01-15T21:35:00+00:00</published><updated>2015-01-15T21:35:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-15:/posts/2015/Jan/15/day-15-photo-a-day/</id><summary type="html">&lt;p&gt;Given the horrendous wind that we're getting at the moment, along with
 intermittent hail today, I decided to forego a ride this evening.
 Instead, I went for a run at lunch time, my first in Gogerddan woods. It
 wasn't long at 2.5km but the steep hill ensured that it …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Given the horrendous wind that we're getting at the moment, along with
@@ -3687,7 +3687,7 @@ somewhere sunnier, from the top of the hill.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 14 - Photo a Day</title><link href="/day-14-photo-a-day.html" rel="alternate"></link><published>2015-01-14T22:01:00+00:00</published><updated>2015-01-14T22:01:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-14:/day-14-photo-a-day.html</id><summary type="html">&lt;p&gt;This evening I went up to Nant with the big bike for a short spin. The
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 14 - Photo a Day</title><link href="/posts/2015/Jan/14/day-14-photo-a-day/" rel="alternate"></link><published>2015-01-14T22:01:00+00:00</published><updated>2015-01-14T22:01:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-14:/posts/2015/Jan/14/day-14-photo-a-day/</id><summary type="html">&lt;p&gt;This evening I went up to Nant with the big bike for a short spin. The
 weather was really quite terrible! It was raining and the wind was
 unreal, I spent most of the ride unable to see because of the rain on my
 glasses and them steaming up slightly …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This evening I went up to Nant with the big bike for a short spin. The
@@ -3702,7 +3702,7 @@ enjoyed myself and it reminded me how much fun my big bike is.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 13 - Photo a Day</title><link href="/day-13-photo-a-day.html" rel="alternate"></link><published>2015-01-13T21:33:00+00:00</published><updated>2015-01-13T21:33:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-13:/day-13-photo-a-day.html</id><summary type="html">&lt;p&gt;Today's photo is the view from my bedroom window this morning when I
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 13 - Photo a Day</title><link href="/posts/2015/Jan/13/day-13-photo-a-day/" rel="alternate"></link><published>2015-01-13T21:33:00+00:00</published><updated>2015-01-13T21:33:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-13:/posts/2015/Jan/13/day-13-photo-a-day/</id><summary type="html">&lt;p&gt;Today's photo is the view from my bedroom window this morning when I
 opened my blind. Exciting stuff eh? Sun in Winter is always good, part
 of the reason for choosing this photo is what happened with the rest of
 the day. By 9 it was tipping down, by 10 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today's photo is the view from my bedroom window this morning when I
@@ -3720,7 +3720,7 @@ just came home. It's just been hailing again.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 12 - Photo a Day</title><link href="/day-12-photo-a-day.html" rel="alternate"></link><published>2015-01-12T16:06:00+00:00</published><updated>2015-01-12T16:06:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-12:/day-12-photo-a-day.html</id><summary type="html">&lt;p&gt;Today's photo isn't hugely inspired but it's of my bird feeders, with a
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 12 - Photo a Day</title><link href="/posts/2015/Jan/12/day-12-photo-a-day/" rel="alternate"></link><published>2015-01-12T16:06:00+00:00</published><updated>2015-01-12T16:06:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-12:/posts/2015/Jan/12/day-12-photo-a-day/</id><summary type="html">&lt;p&gt;Today's photo isn't hugely inspired but it's of my bird feeders, with a
 Great Tit on one and a Blackbird on the ground. It seems that the birds
 really prefer the sunflower hearts to the mixed seeds. My office (not
 where the photo was taken) looks out with the feeders …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today's photo isn't hugely inspired but it's of my bird feeders, with a
@@ -3734,7 +3734,7 @@ distraction from work. The peg basket really needs to go though!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 11 - Photo a Day</title><link href="/day-11-photo-a-day.html" rel="alternate"></link><published>2015-01-11T15:16:00+00:00</published><updated>2015-01-11T15:16:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-11:/day-11-photo-a-day.html</id><summary type="html">&lt;p&gt;Yesterday I did a ride out to Nant and felt absolutely fine until I
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 11 - Photo a Day</title><link href="/posts/2015/Jan/11/day-11-photo-a-day/" rel="alternate"></link><published>2015-01-11T15:16:00+00:00</published><updated>2015-01-11T15:16:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-11:/posts/2015/Jan/11/day-11-photo-a-day/</id><summary type="html">&lt;p&gt;Yesterday I did a ride out to Nant and felt absolutely fine until I
 really didn't. I was feeling quite good but taking it a little bit easy
 when I suddenly just faded, my legs still had energy but I just felt
 really tired. I still did the complete ride …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Yesterday I did a ride out to Nant and felt absolutely fine until I
@@ -3767,7 +3767,7 @@ link&lt;/a&gt;&lt;/p&gt;
 Top" src="https://lh6.googleusercontent.com/-fuWNitopZvU/VLKV9M0HvjI/AAAAAAAAGxM/3uDp9o9Jqg8/s640/P1000845.JPG"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="Waymarkers" src="https://lh3.googleusercontent.com/-kfWDtMlLMpM/VLKV9Qw31-I/AAAAAAAAGxQ/KFchvMwxqK0/s640/P1000847.JPG"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 10 - Photo a Day</title><link href="/day-10-photo-a-day.html" rel="alternate"></link><published>2015-01-10T17:12:00+00:00</published><updated>2015-01-10T17:12:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-10:/day-10-photo-a-day.html</id><summary type="html">&lt;p&gt;Today's photo is of Aberystwyth recycling centre, finally got round to
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 10 - Photo a Day</title><link href="/posts/2015/Jan/10/day-10-photo-a-day/" rel="alternate"></link><published>2015-01-10T17:12:00+00:00</published><updated>2015-01-10T17:12:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-10:/posts/2015/Jan/10/day-10-photo-a-day/</id><summary type="html">&lt;p&gt;Today's photo is of Aberystwyth recycling centre, finally got round to
 going. I certainly picked the right day and time, drove straight in and
 there was barely anyone there. The skips were pretty much empty too. My
 garage is looking much, much more spacious now. Need another trip to
@@ -3782,7 +3782,7 @@ sorted!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 9 - Photo a Day</title><link href="/day-9-photo-a-day.html" rel="alternate"></link><published>2015-01-09T14:22:00+00:00</published><updated>2015-01-09T14:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-09:/day-9-photo-a-day.html</id><summary type="html">&lt;p&gt;Today's photo is of the main entrance to the outpatients department at
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 9 - Photo a Day</title><link href="/posts/2015/Jan/09/day-9-photo-a-day/" rel="alternate"></link><published>2015-01-09T14:22:00+00:00</published><updated>2015-01-09T14:22:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-09:/posts/2015/Jan/09/day-9-photo-a-day/</id><summary type="html">&lt;p&gt;Today's photo is of the main entrance to the outpatients department at
 Bronglais hospital. I had an appointment with a nurse in the Urodynamic
 clinic, thanks to my MS increasing both frequency and urgency of me
 needing to urinate. The appointment went well, the nurse was happy
@@ -3799,7 +3799,7 @@ better.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 8 - Photo a Day</title><link href="/day-8-photo-a-day.html" rel="alternate"></link><published>2015-01-08T14:55:00+00:00</published><updated>2015-01-08T14:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-08:/day-8-photo-a-day.html</id><summary type="html">&lt;p&gt;It finally arrived, my weights bench. I don't plan on doing any serious
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 8 - Photo a Day</title><link href="/posts/2015/Jan/08/day-8-photo-a-day/" rel="alternate"></link><published>2015-01-08T14:55:00+00:00</published><updated>2015-01-08T14:55:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-08:/posts/2015/Jan/08/day-8-photo-a-day/</id><summary type="html">&lt;p&gt;It finally arrived, my weights bench. I don't plan on doing any serious
 lifting, I'd just like a bit more muscle for padding my bones when I
 crash into trees, rocks etc... I'd also like to improve my core as
 that's just generally useful in just about everything and hopefully …&lt;/p&gt;</summary><content type="html">&lt;p&gt;It finally arrived, my weights bench. I don't plan on doing any serious
@@ -3820,7 +3820,7 @@ spanners. All in all happy with it.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 7 - Photo a Day</title><link href="/day-7-photo-a-day.html" rel="alternate"></link><published>2015-01-07T16:02:00+00:00</published><updated>2015-01-07T16:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-07:/day-7-photo-a-day.html</id><summary type="html">&lt;p&gt;Beginning to feel better, hurrah! Been waiting for a package to arrive
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 7 - Photo a Day</title><link href="/posts/2015/Jan/07/day-7-photo-a-day/" rel="alternate"></link><published>2015-01-07T16:02:00+00:00</published><updated>2015-01-07T16:02:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-07:/posts/2015/Jan/07/day-7-photo-a-day/</id><summary type="html">&lt;p&gt;Beginning to feel better, hurrah! Been waiting for a package to arrive
 all day today, wish it was with DPD - I'd know what time it was coming
 then. Anyway, today's photo is of the state of my rear lawn. It doesn't
 look great does it? Puddles, big blue bins and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Beginning to feel better, hurrah! Been waiting for a package to arrive
@@ -3844,7 +3844,7 @@ the year with it all looking better and some vegetables growing!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 6 - Photo a Day</title><link href="/day-6-photo-a-day.html" rel="alternate"></link><published>2015-01-06T20:39:00+00:00</published><updated>2015-01-06T20:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-06:/day-6-photo-a-day.html</id><summary type="html">&lt;p&gt;Day 6 and already I'm struggling, to be fair though being ill really
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 6 - Photo a Day</title><link href="/posts/2015/Jan/06/day-6-photo-a-day/" rel="alternate"></link><published>2015-01-06T20:39:00+00:00</published><updated>2015-01-06T20:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-06:/posts/2015/Jan/06/day-6-photo-a-day/</id><summary type="html">&lt;p&gt;Day 6 and already I'm struggling, to be fair though being ill really
 isn't doing me any favours. Trying to get out and do something
 interesting isn't on the cards, I'm about ready to go to sleep and it's
 not even 21:00 yet. As such today I'm taking an …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Day 6 and already I'm struggling, to be fair though being ill really
@@ -3858,7 +3858,7 @@ face" src="https://lh3.googleusercontent.com/-qn5Txxw-jXg/VKxWbg1YOsI/AAAAAAAAGt
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 5 - Photo a Day</title><link href="/day-5-photo-a-day.html" rel="alternate"></link><published>2015-01-05T18:11:00+00:00</published><updated>2015-01-05T18:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-05:/day-5-photo-a-day.html</id><summary type="html">&lt;p&gt;First day back at work this year and, as expected, first day when I've
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 5 - Photo a Day</title><link href="/posts/2015/Jan/05/day-5-photo-a-day/" rel="alternate"></link><published>2015-01-05T18:11:00+00:00</published><updated>2015-01-05T18:11:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-05:/posts/2015/Jan/05/day-5-photo-a-day/</id><summary type="html">&lt;p&gt;First day back at work this year and, as expected, first day when I've
 been a little lost what to photo. I'm still keen to not just take photos
 or random stuff and want things that I can write a bit of something
 about. So today is an indiscriminate bottle …&lt;/p&gt;</summary><content type="html">&lt;p&gt;First day back at work this year and, as expected, first day when I've
@@ -3881,7 +3881,7 @@ bottle" src="https://lh6.googleusercontent.com/-zRymHwVmbok/VKrVUnCN4eI/AAAAAAAA
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Album
 link&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 4 - Photo a Day</title><link href="/day-4-photo-a-day.html" rel="alternate"></link><published>2015-01-04T16:56:00+00:00</published><updated>2015-01-04T16:56:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-04:/day-4-photo-a-day.html</id><summary type="html">&lt;p&gt;Today I was due to ride the Red Kite Frozen Devil but I made a call
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 4 - Photo a Day</title><link href="/posts/2015/Jan/04/day-4-photo-a-day/" rel="alternate"></link><published>2015-01-04T16:56:00+00:00</published><updated>2015-01-04T16:56:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-04:/posts/2015/Jan/04/day-4-photo-a-day/</id><summary type="html">&lt;p&gt;Today I was due to ride the Red Kite Frozen Devil but I made a call
 yesterday that I was going to have to bail due to my cold. I arranged to
 do a bit of nant ride with Andy as he was over this way surfing this
 morning. I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today I was due to ride the Red Kite Frozen Devil but I made a call
@@ -3897,7 +3897,7 @@ looking out down the valley with a few red kites floating around.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="Andy looking down the
 valley" src="https://lh4.googleusercontent.com/-83kfJOKw4fM/VKlwPENKYqI/AAAAAAAAGrs/pEmBwTVF8Ic/s640/P1000837.JPG"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 3 - Photo a Day</title><link href="/day-3-photo-a-day.html" rel="alternate"></link><published>2015-01-03T12:16:00+00:00</published><updated>2015-01-03T12:16:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-03:/day-3-photo-a-day.html</id><summary type="html">&lt;p&gt;Still ill. Luckily, my first &lt;a href="http://www.thespicery.com/"&gt;The Spicery&lt;/a&gt;
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 3 - Photo a Day</title><link href="/posts/2015/Jan/03/day-3-photo-a-day/" rel="alternate"></link><published>2015-01-03T12:16:00+00:00</published><updated>2015-01-03T12:16:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-03:/posts/2015/Jan/03/day-3-photo-a-day/</id><summary type="html">&lt;p&gt;Still ill. Luckily, my first &lt;a href="http://www.thespicery.com/"&gt;The Spicery&lt;/a&gt;
 box arrived today. I got given a subscription for xmas from my family.
 The idea is that each month you get sent a box with the spices for a
 meal, you buy the remaining ingredients and make the meal. There's a
@@ -3922,7 +3922,7 @@ box" src="https://lh5.googleusercontent.com/-4zF2q02bVCA/VKfdR7tON8I/AAAAAAAAGrM
 &lt;p&gt;&lt;/p&gt;
 &lt;a href="https://picasaweb.google.com/101988781183714130798/PhotoADay2015?authuser=0&amp;amp;feat=directlink"&gt;Link to
 album&lt;/a&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 2 - Photo a Day</title><link href="/day-2-photo-a-day.html" rel="alternate"></link><published>2015-01-02T12:38:00+00:00</published><updated>2015-01-02T12:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-02:/day-2-photo-a-day.html</id><summary type="html">&lt;p&gt;Following on yesterday's photo, today I had a bit of a garage sort out.
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 2 - Photo a Day</title><link href="/posts/2015/Jan/02/day-2-photo-a-day/" rel="alternate"></link><published>2015-01-02T12:38:00+00:00</published><updated>2015-01-02T12:38:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-02:/posts/2015/Jan/02/day-2-photo-a-day/</id><summary type="html">&lt;p&gt;Following on yesterday's photo, today I had a bit of a garage sort out.
 Almost everything on the left through the door (not the lawnmower!) is
 for the tip. Should be loads of room once all of that stuff is gone :).&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -3932,7 +3932,7 @@ Almost everything on the left through the door (not the lawnmower!) is
 for the tip. Should be loads of room once all of that stuff is gone :).&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="Shed" src="https://lh5.googleusercontent.com/-1shuNX_LV1Y/VKaEVug0YUI/AAAAAAAAGqE/OVkKgJQnvcY/s640/IMG_20150102_114203.jpg"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 1 - Photo a Day</title><link href="/day-1-photo-a-day.html" rel="alternate"></link><published>2015-01-01T13:39:00+00:00</published><updated>2015-01-01T13:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-01:/day-1-photo-a-day.html</id><summary type="html">&lt;p&gt;A new year has rolled around and once again I've decided to attempt a
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Day 1 - Photo a Day</title><link href="/posts/2015/Jan/01/day-1-photo-a-day/" rel="alternate"></link><published>2015-01-01T13:39:00+00:00</published><updated>2015-01-01T13:39:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2015-01-01:/posts/2015/Jan/01/day-1-photo-a-day/</id><summary type="html">&lt;p&gt;A new year has rolled around and once again I've decided to attempt a
 photo a day. I strongly suspect that before January ends that I'll be
 doing a photo a week but hopefully this'll drive me to get out more and
 do some interesting things.&lt;/p&gt;
@@ -3952,7 +3952,7 @@ time goes by!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img alt="Brake
 bleeding" src="https://lh3.googleusercontent.com/-GXxkGcB5Ddw/VKVPUvYX0-I/AAAAAAAAGos/nmVohvxNnl0/s640/P1000835.JPG"&gt;&lt;/p&gt;
-&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Changing Platform</title><link href="/changing-platform.html" rel="alternate"></link><published>2014-12-22T22:19:00+00:00</published><updated>2014-12-22T22:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2014-12-22:/changing-platform.html</id><summary type="html">&lt;p&gt;I write posts somewhat sporadically and I'm quite good at forgetting how
+&lt;/p&gt;</content><category term="photo-a-day-2015"></category></entry><entry><title>Changing Platform</title><link href="/posts/2014/Dec/22/changing-platform/" rel="alternate"></link><published>2014-12-22T22:19:00+00:00</published><updated>2014-12-22T22:19:00+00:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2014-12-22:/posts/2014/Dec/22/changing-platform/</id><summary type="html">&lt;p&gt;I write posts somewhat sporadically and I'm quite good at forgetting how
 my pelican setup works. For this reason I decided to change the
 technology behind my blog. Moving away from using pelican and hosting on
 github pages to &lt;a href="http://postach.io/"&gt;Postachio&lt;/a&gt;. Postachio is a blogging
