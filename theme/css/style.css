@@ -40,6 +40,12 @@ img.summary {
     }
 }
 
+@media (min-height: 1024px) {
+	img.summary {
+        max-height: 12em;
+    }
+}
+
 ul,
 ol {
     margin-left: 4em;
