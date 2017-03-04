@@ -31,18 +31,12 @@ img.summary {
     float: left;
     margin-right: 1em;
     margin-top: 0;
-    max-height: 100%
+	max-height: 12em;
 }
 
 @media (max-width: 1280px) {
 	img.summary {
         max-width: 30%;
-    }
-}
-
-@media (min-height: 1024px) {
-	img.summary {
-        max-height: 12em;
     }
 }
 
