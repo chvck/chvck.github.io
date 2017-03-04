@@ -25,20 +25,17 @@ img {
     display: block;
 }
 
-.summary .thumb {
-    width: 15%;
+img.summary {
+    max-width: 15%;
     display: block;
     float: left;
     margin-right: 1em;
     margin-top: 0;
-}
-
-img.summary {
 	max-height: 12em;
 }
 
 @media (max-width: 1280px) {
-	.summary .thumb {
+	img.summary {
         max-width: 30%;
     }
 }
