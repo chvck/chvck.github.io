@@ -14,7 +14,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
-  <title>Day 69 - photo a day</title>
+  <title>Day 15 - photo a day</title>
   <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
   
     <!-- OpenGraph tags -->
@@ -45,7 +45,7 @@
 
 <body>  
     <header>
-      <h1><a href="/">chvck.co.uk</a></h1>
+      <h1><a href="/">A Pelican Blog</a></h1>
       <p>
         <a href="https://twitter.com/chvck">Twitter</a> |
         <a href="http://dirty-casuals.co.uk">Dirty Casuals</a>
@@ -62,24 +62,45 @@
 
   <article class="post">
     <div class="article-heading">
-		<h2><a href="/posts/2017/Mar/10/day-69-photo-a-day-2017/">Day 69 - photo a day</a></h2> - <h3>Posted on Fri 10 March 2017</h3>
+		<h2><a href="/day-15-photo-a-day.html">Day 15 - photo a day</a></h2> - <h3>Posted on Sun 15 January 2017</h3>
 	</div>
 
-      <p>Following on from yesterday's escapade into gardening, today I went from work to 
-<a href="http://www.charliesdirect.co.uk/">Charlies stores</a> to buy a lawn aerator. My rear lawn is basically
-becoming a bog and moss is slowly taking over from grass. A friend suggested aerating it, the tool
-is only a tenner so I figured it was worth a go. Unfortunately the problem with places like Charlies is
-that it's impossible to go in and only come out with what you went in for. So I now also have a new bow
-saw and a pair of gardening gloves (my old ones were full of holes, not great for pulling brambles). Still, less
-than 15 quid spent so not too bad!
-<br>
-<br>
-The lawn is now full of holes so hopefully that'll help. I also removed another little shrub and started work on the trees.
-I've taken one down by chopping off all of the fronds individually so I can actually dispose of them, I still need to cut out more
-of the trunk. That'll be tough going. Certainly already looks better in my opinion.</p>
-<p><img alt="Dune the book" src="/images/day-69-photo-a-day-2017.jpg"></p>	
+      <p>I spent a fair bit of yesterday afternoon and most of today getting
+Unreal Editor 4 to run so there's no way it's not going to be my photo a
+day! I started out in fedora 24 and kept getting the error
+<code>LLVM triggered Diagnostic Handler: unsupported call to function exp10f in main</code>,
+I wound up formatting and installing ubuntu and STILL got it.  </p>
+<p>That did not please me.  </p>
+<p>Whilst the editor would run the create/open project screen it'd bomb
+with that error in the logs when I tried to open or create a project.
+Anyway, that's jumping the gun a little.</p>
+<p></p>
+Googling this issue didn't throw up a whole lot but one of the, few,
+hits hinted at graphics drivers. I have a radeon rx200 graphics card and
+it seems that the AMD proprietary drivers have been dropped in both
+fedora 24 and ubuntu 16.04+ (I'm using ubuntu-gnome 16.10). The open
+source drivers seem to be good enough though, I've been playing Heroes
+of the Storm through wine without issues. I spent a fair bit of time
+poking around my system and googling various things, I somehow got into
+looking at opengl. I saw that my system was using a version of mesa that
+gave me opengl 3. I saw that UE4 had an opengl4 flag so decided that it
+had to be worth a go as I was pretty sure the error was related to
+graphics. In the end I tracked down the Oibaf PPA which offered up a
+newer version of mesa and llvm. I thought that it looked promising and
+then came across <a href="https://www.epicgames.com/unrealtournament/forums/showthread.php?23665-How-to-update-Open-Source-graphic-driver-in-Ubuntu">this link on the epic games
+forums</a>
+which validated it a bit so went for it. The step missing in that guide
+that I needed was to do an <code>apt-get dist-upgrade</code>. After doing that I
+rebooted and started UE4 again, created a project and hey! there we go,
+it works.</p>
+<p></p>
+Here it is in all of its glory.</p>
+<p></p>
+<img alt="" src="/images/baad1805-257b-4982-9459-60e0aee357f2.png"></p>
+</p>	
         
       <h3 class="blogMeta"> Tags :
+           <span><a href="/tag/gamedev.html">gamedev</a> / </span>
            <span><a href="/tag/photo-a-day-2017.html">photo-a-day-2017</a> / </span>
       </h3>
       

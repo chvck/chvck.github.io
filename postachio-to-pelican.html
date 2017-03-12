@@ -14,7 +14,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
-  <title>Day 69 - photo a day</title>
+  <title>From postachio to pelican</title>
   <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
   
     <!-- OpenGraph tags -->
@@ -45,7 +45,7 @@
 
 <body>  
     <header>
-      <h1><a href="/">chvck.co.uk</a></h1>
+      <h1><a href="/">A Pelican Blog</a></h1>
       <p>
         <a href="https://twitter.com/chvck">Twitter</a> |
         <a href="http://dirty-casuals.co.uk">Dirty Casuals</a>
@@ -62,25 +62,28 @@
 
   <article class="post">
     <div class="article-heading">
-		<h2><a href="/posts/2017/Mar/10/day-69-photo-a-day-2017/">Day 69 - photo a day</a></h2> - <h3>Posted on Fri 10 March 2017</h3>
+		<h2><a href="/postachio-to-pelican.html">From postachio to pelican</a></h2> - <h3>Posted on Sun 26 February 2017</h3>
 	</div>
 
-      <p>Following on from yesterday's escapade into gardening, today I went from work to 
-<a href="http://www.charliesdirect.co.uk/">Charlies stores</a> to buy a lawn aerator. My rear lawn is basically
-becoming a bog and moss is slowly taking over from grass. A friend suggested aerating it, the tool
-is only a tenner so I figured it was worth a go. Unfortunately the problem with places like Charlies is
-that it's impossible to go in and only come out with what you went in for. So I now also have a new bow
-saw and a pair of gardening gloves (my old ones were full of holes, not great for pulling brambles). Still, less
-than 15 quid spent so not too bad!
-<br>
-<br>
-The lawn is now full of holes so hopefully that'll help. I also removed another little shrub and started work on the trees.
-I've taken one down by chopping off all of the fronds individually so I can actually dispose of them, I still need to cut out more
-of the trunk. That'll be tough going. Certainly already looks better in my opinion.</p>
-<p><img alt="Dune the book" src="/images/day-69-photo-a-day-2017.jpg"></p>	
+      <p>I've got a bit fed up with the lack of control that I've had when using postachio, there's metadata that I want in my templates that 
+I can't have. Despite promises that they were going to improve things toward the end of last year things have also gone a bit quiet.
+For this reason I decided to move back to pelican. This was not as trivial as it maybe could have been. Getting evernote posts into markdown
+with the images where I wanted wasn't simple. However, pelican comes with pelican-import which can import posts from a rss feed into markdown.
+Postachio only puts the last 50 posts into the rss feed so I had to do an import, move posts into a different notebook, do an import etc...</p>
+<p><br /></p>
+<p>Once I had that done I had to grab the images and put them in the right place. Luckily all of the posts in the rss appeared to have my images
+hosted on a postachio cdn. Using a simple regex I was able to write a script to locate image tags in the markdown files and then download the images
+from the urls. As a part of this the script also had to update the image url to be the new, correct, relative url. I also had to tweak pelican-import to
+look for published date rather than updated date in the feed.</p>
+<p><br /></p>
+<p>Great, loads of markdown files and images. Next job, alter my old theme and then setup github pages. It's still far from being right but it's a start that'll do for now, I also need
+to create an automation process so that I don't have to manually publish, I'm not sure how I'll do that yet. It'd be easy if it wasn't for the images.</p>
+<p><br /></p>
+<p>Anyway, new (kinda) site, woo! I also haven't forgotten photo a day. I'm still taking the photos but I want to work out my posting workflow before posting more
+as the images are a pain. Hopefully I'll get that nailed soon.</p>	
         
       <h3 class="blogMeta"> Tags :
-           <span><a href="/tag/photo-a-day-2017.html">photo-a-day-2017</a> / </span>
+           <span><a href="/tag/dev.html">dev</a> / </span>
       </h3>
       
   </article>
