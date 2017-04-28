@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>chvck.co.uk</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-04-23T21:13:00+01:00</updated><entry><title>Day 113 - photo a day 2017</title><link href="/posts/2017/Apr/23/day-113-photo-a-day-2017/" rel="alternate"></link><published>2017-04-23T21:13:00+01:00</published><updated>2017-04-23T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-23:/posts/2017/Apr/23/day-113-photo-a-day-2017/</id><summary type="html">&lt;p&gt;I went for a ride on the Mega today to make that it's working OK ahead
+<feed xmlns="http://www.w3.org/2005/Atom"><title>chvck.co.uk</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2017-04-27T21:13:00+01:00</updated><entry><title>Day 117 - photo a day 2017</title><link href="/posts/2017/Apr/27/day-117-photo-a-day-2017/" rel="alternate"></link><published>2017-04-27T21:13:00+01:00</published><updated>2017-04-27T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-27:/posts/2017/Apr/27/day-117-photo-a-day-2017/</id><summary type="html">&lt;p&gt;New phone! I decided to buy a new phone because the charging port on my moto g3
+has come to be quite loose. Cables have to be wiggled around to get them to engage
+and the slightest knock knocks them out. Not great, really annoying when using the
+phone as …&lt;/p&gt;</summary><content type="html">&lt;p&gt;New phone! I decided to buy a new phone because the charging port on my moto g3
+has come to be quite loose. Cables have to be wiggled around to get them to engage
+and the slightest knock knocks them out. Not great, really annoying when using the
+phone as a satnav and charging at the same time. Anyway, I was looking at phones
+when I realised that my phone is covered by 2 year EU warranty. Sorted! I emailed
+Amazon to say that I'd like a repair on warranty. They replied with no repair,
+no replacement but they'd give me a full refund if I returned it. Er, deal!
+&lt;br /&gt;
+&lt;br /&gt;
+Because I'd now have the money from that phone I decided to spend a little more
+money than I would have otherwise. I spent a good while looking at phones and
+they all seemed to have something wrong with them. The obvious choice was the
+Oneplusthree but it was a bit big and a bit more money than I wanted to spend.
+I came upon the Xiaomi Mi5, which seemed to tick all my boxes. It is not easy to get hold
+of in the UK, it's popular in China and India. I found one Uk seller, on ebay - I wanted
+a UK seller so I'd have warranty.
+&lt;br /&gt;
+&lt;br /&gt;
+When it came I tried to update it and quite quickly came to discover that it
+had an unofficial rom on it. One that's a bit dodgy and possibly had malware.
+Putting a new rom on was pretty simple but a bit of a faff. To begin with the
+bootloader must be unlocked but to do that you need the miui guys to unlock it via
+your mi account. It's just a form to fill in and they actually granted me access overnight.
+Next issue, no Windows on any of my machines. Luckily, Elysia has a Windows install on
+her mac. That ran out of space. In the end I grabbed a windows 7 VM, unlocked the phone,
+flashed miui 8 (android 7) onto it and relocked it. It needs locking for things
+like android pay to work. Miui has some neat features like one handed mode and
+I'm very happy with it now I have it set up with nova launcher and a few things
+set to how I want.  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xiaomi Mi5" src="/images/day-117-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 116 - photo a day 2017</title><link href="/posts/2017/Apr/26/day-116-photo-a-day-2017/" rel="alternate"></link><published>2017-04-26T21:13:00+01:00</published><updated>2017-04-26T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-26:/posts/2017/Apr/26/day-116-photo-a-day-2017/</id><summary type="html">&lt;p&gt;My new helmet came today, a Specialized Tactic 2. I decided to buy a new
+helmet for 2 reasons; my catlike that I use on the road is ancient and
+my bell super is too warm in summer. I wore it on a ride last night and it's
+much better …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My new helmet came today, a Specialized Tactic 2. I decided to buy a new
+helmet for 2 reasons; my catlike that I use on the road is ancient and
+my bell super is too warm in summer. I wore it on a ride last night and it's
+much better ventilated and lighter than the bell, the bell will still be helmet of choice
+in the winter months. The catlike has now been retired... to the bin.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Specialized Tactic 2" src="/images/day-116-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 115 - photo a day 2017</title><link href="/posts/2017/Apr/25/day-115-photo-a-day-2017/" rel="alternate"></link><published>2017-04-25T21:13:00+01:00</published><updated>2017-04-25T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-25:/posts/2017/Apr/25/day-115-photo-a-day-2017/</id><summary type="html">&lt;p&gt;Elysia is away for the next 2 days and we haven't been out for food in
+a while so tonight we went to Casablanca, a favourite of ours. As usual the
+service was great, really attentive. The food was also really nice, I went for
+something different to usual and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Elysia is away for the next 2 days and we haven't been out for food in
+a while so tonight we went to Casablanca, a favourite of ours. As usual the
+service was great, really attentive. The food was also really nice, I went for
+something different to usual and had the fish tagine special. Whilst being really nice
+I think that I prefer the seafood provencal that I normally have.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fish tagine at Casablanca" src="/images/day-115-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 114 - photo a day 2017</title><link href="/posts/2017/Apr/24/day-114-photo-a-day-2017/" rel="alternate"></link><published>2017-04-24T21:13:00+01:00</published><updated>2017-04-24T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-24:/posts/2017/Apr/24/day-114-photo-a-day-2017/</id><summary type="html">&lt;p&gt;Back to work! This is a screenshot of Cosmic Identity Crisis ready for submission. It's been fun
+doing a bit of gamedev again and I do seem to still remember stuff. Will
+have to do another gamejam soon! Play the game &lt;a href="http://dirty-casuals.co.uk/LD38-A-Small-World/"&gt;on our website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cosmic Identity Crisis" src="/images/day-114-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Back to work! This is a screenshot of Cosmic Identity Crisis ready for submission. It's been fun
+doing a bit of gamedev again and I do seem to still remember stuff. Will
+have to do another gamejam soon! Play the game &lt;a href="http://dirty-casuals.co.uk/LD38-A-Small-World/"&gt;on our website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cosmic Identity Crisis" src="/images/day-114-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 113 - photo a day 2017</title><link href="/posts/2017/Apr/23/day-113-photo-a-day-2017/" rel="alternate"></link><published>2017-04-23T21:13:00+01:00</published><updated>2017-04-23T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-23:/posts/2017/Apr/23/day-113-photo-a-day-2017/</id><summary type="html">&lt;p&gt;I went for a ride on the Mega today to make that it's working OK ahead
 of the Dyfi Enduro next weekend. I did ~40km and all seems good, a few
 odd noises to work out but that's nothing new. After my ride I took Elysia
 out to the cafe …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I went for a ride on the Mega today to make that it's working OK ahead
@@ -20,7 +74,8 @@ IMO but that's what was voted for. After some discussion we decided to make a ga
 where you play as pluto battling to regain the title of being a planet. Initially
 we set it up to be like pong but we pulled the camera out a bit to enable 360 degree
 paddle movement. The idea is to just destroy the other planets by making the ball hit the planets,
-the asteroids provide extra gravity effects on the ball to things interesting.&lt;/p&gt;
+the asteroids provide extra gravity effects on the ball to things interesting. You can play
+the game at &lt;a href="http://dirty-casuals.co.uk/LD38-A-Small-World/"&gt;LD38-A-Small_world&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Ludum Dare 38 game" src="/images/day-112-photo-a-day-2017.jpg"&gt;&lt;/p&gt;</content><category term="photo-a-day-2017"></category></entry><entry><title>Day 111 - photo a day 2017</title><link href="/posts/2017/Apr/21/day-111-photo-a-day-2017/" rel="alternate"></link><published>2017-04-21T21:13:00+01:00</published><updated>2017-04-21T21:13:00+01:00</updated><author><name>Charles Dixon</name></author><id>tag:None,2017-04-21:/posts/2017/Apr/21/day-111-photo-a-day-2017/</id><summary type="html">&lt;p&gt;My new springs and pawls arrived today! This meant that I've been able to fix my rear
 wheel and ride this weekend. I'm still without the ebike but I popped into Summit
 Cycles to pick up a chain so asked how it was going at the same time. They're still …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My new springs and pawls arrived today! This meant that I've been able to fix my rear
