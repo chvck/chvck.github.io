@@ -5,28 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-07-03T16:50:34-00:00</lastmod>
+<lastmod>2017-07-03T18:00:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-07-03T16:50:34-00:00</lastmod>
+<lastmod>2017-07-03T18:00:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-07-03T16:50:34-00:00</lastmod>
+<lastmod>2017-07-03T18:00:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-07-03T16:50:34-00:00</lastmod>
+<lastmod>2017-07-03T18:00:47-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/02/day-183-photo-a-day-2017/</loc>
+<lastmod>2017-07-02T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/01/day-182-photo-a-day-2017/</loc>
+<lastmod>2017-07-01T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jun/30/day-181-photo-a-day-2017/</loc>
+<lastmod>2017-06-30T14:58:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1601,7 +1622,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2017-06-29T14:58:00-00:01</lastmod>
+<lastmod>2017-07-02T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1692,7 +1713,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/photo-a-day-2017.html</loc>
-<lastmod>2017-06-29T14:58:00-00:01</lastmod>
+<lastmod>2017-07-02T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1734,14 +1755,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/biking.html</loc>
-<lastmod>2017-06-24T14:58:00-00:01</lastmod>
+<lastmod>2017-07-01T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/charles-dixon.html</loc>
-<lastmod>2017-06-29T14:58:00-00:01</lastmod>
+<lastmod>2017-07-02T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
