@@ -5,28 +5,77 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-07-09T21:47:09-00:00</lastmod>
+<lastmod>2017-07-10T21:22:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-07-09T21:47:09-00:00</lastmod>
+<lastmod>2017-07-10T21:22:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-07-09T21:47:09-00:00</lastmod>
+<lastmod>2017-07-10T21:22:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-07-09T21:47:09-00:00</lastmod>
+<lastmod>2017-07-10T21:22:08-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/09/day-190-photo-a-day-2017/</loc>
+<lastmod>2017-07-09T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/08/day-189-photo-a-day-2017/</loc>
+<lastmod>2017-07-08T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/07/day-188-photo-a-day-2017/</loc>
+<lastmod>2017-07-07T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/06/day-187-photo-a-day-2017/</loc>
+<lastmod>2017-07-06T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/05/day-186-photo-a-day-2017/</loc>
+<lastmod>2017-07-05T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/04/day-185-photo-a-day-2017/</loc>
+<lastmod>2017-07-04T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/03/day-184-photo-a-day-2017/</loc>
+<lastmod>2017-07-03T14:58:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1622,7 +1671,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2017-07-02T14:58:00-00:01</lastmod>
+<lastmod>2017-07-09T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1713,7 +1762,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/photo-a-day-2017.html</loc>
-<lastmod>2017-07-02T14:58:00-00:01</lastmod>
+<lastmod>2017-07-09T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1762,7 +1811,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/charles-dixon.html</loc>
-<lastmod>2017-07-02T14:58:00-00:01</lastmod>
+<lastmod>2017-07-09T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
