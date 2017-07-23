@@ -5,28 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-07-23T18:06:32-00:00</lastmod>
+<lastmod>2017-07-23T18:09:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-07-23T18:06:32-00:00</lastmod>
+<lastmod>2017-07-23T18:09:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-07-23T18:06:32-00:00</lastmod>
+<lastmod>2017-07-23T18:09:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-07-23T18:06:32-00:00</lastmod>
+<lastmod>2017-07-23T18:09:27-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2037/Jul/22/day-203-photo-a-day-2037/</loc>
+<lastmod>2037-07-22T14:58:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1755,7 +1762,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2027-07-21T14:58:00-00:01</lastmod>
+<lastmod>2037-07-22T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1803,8 +1810,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/tag/food.html</loc>
-<lastmod>2017-06-17T14:58:00-00:01</lastmod>
+<loc>/tag/dirty-casuals.html</loc>
+<lastmod>2017-04-24T21:13:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/photo-a-day-2037.html</loc>
+<lastmod>2037-07-22T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1845,8 +1859,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/tag/dirty-casuals.html</loc>
-<lastmod>2017-04-24T21:13:00-00:01</lastmod>
+<loc>/tag/food.html</loc>
+<lastmod>2017-06-17T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1902,7 +1916,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/charles-dixon.html</loc>
-<lastmod>2027-07-21T14:58:00-00:01</lastmod>
+<lastmod>2037-07-22T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
