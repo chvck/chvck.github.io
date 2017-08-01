@@ -5,28 +5,70 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-07-23T18:16:03-00:00</lastmod>
+<lastmod>2017-08-01T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-07-23T18:16:03-00:00</lastmod>
+<lastmod>2017-08-01T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-07-23T18:16:03-00:00</lastmod>
+<lastmod>2017-08-01T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-07-23T18:16:03-00:00</lastmod>
+<lastmod>2017-08-01T22:30:50-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/29/day-210-photo-a-day-2017/</loc>
+<lastmod>2017-07-29T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/28/day-209-photo-a-day-2017/</loc>
+<lastmod>2017-07-28T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/27/day-208-photo-a-day-2017/</loc>
+<lastmod>2017-07-27T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/26/day-207-photo-a-day-2017/</loc>
+<lastmod>2017-07-26T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/25/day-206-photo-a-day-2017/</loc>
+<lastmod>2017-07-25T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Jul/24/day-205-photo-a-day-2017/</loc>
+<lastmod>2017-07-24T14:58:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1769,7 +1811,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2017-07-23T14:58:00-00:01</lastmod>
+<lastmod>2017-07-29T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1860,14 +1902,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/photo-a-day-2017.html</loc>
-<lastmod>2017-07-23T14:58:00-00:01</lastmod>
+<lastmod>2017-07-29T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/multiple-sclerosis.html</loc>
-<lastmod>2017-05-15T21:13:00-00:01</lastmod>
+<lastmod>2017-07-25T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1888,7 +1930,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/riding.html</loc>
-<lastmod>2017-06-21T14:58:00-00:01</lastmod>
+<lastmod>2017-07-26T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1909,7 +1951,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/charles-dixon.html</loc>
-<lastmod>2017-07-23T14:58:00-00:01</lastmod>
+<lastmod>2017-07-29T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
