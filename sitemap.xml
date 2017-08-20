@@ -5,28 +5,70 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-08-15T22:08:32-00:00</lastmod>
+<lastmod>2017-08-20T09:25:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-08-15T22:08:32-00:00</lastmod>
+<lastmod>2017-08-20T09:25:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-08-15T22:08:32-00:00</lastmod>
+<lastmod>2017-08-20T09:25:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-08-15T22:08:32-00:00</lastmod>
+<lastmod>2017-08-20T09:25:01-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/18/day-230-photo-a-day-2017/</loc>
+<lastmod>2017-08-18T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/17/day-229-photo-a-day-2017/</loc>
+<lastmod>2017-08-17T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/16/day-228-photo-a-day-2017/</loc>
+<lastmod>2017-08-16T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/15/day-227-photo-a-day-2017/</loc>
+<lastmod>2017-08-15T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/14/day-226-photo-a-day-2017/</loc>
+<lastmod>2017-08-14T14:58:00+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/2017/Aug/13/day-225-photo-a-day-2017/</loc>
+<lastmod>2017-08-13T14:58:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1909,7 +1951,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2017-08-12T14:58:00-00:01</lastmod>
+<lastmod>2017-08-18T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2000,7 +2042,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/photo-a-day-2017.html</loc>
-<lastmod>2017-08-12T14:58:00-00:01</lastmod>
+<lastmod>2017-08-18T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2049,7 +2091,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/charles-dixon.html</loc>
-<lastmod>2017-08-12T14:58:00-00:01</lastmod>
+<lastmod>2017-08-18T14:58:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
